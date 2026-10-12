@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>bi-counter 데모 — 숫자 카운트업</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap">
+<link rel="stylesheet" href="style.css">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Noto Sans KR', sans-serif;
+    background: #f5f7fa; color: #1a1d21;
+    word-break: keep-all;
+  }
+  .bi-hero {
+    min-height: 60vh; display: flex; flex-direction: column;
+    justify-content: center; align-items: center; text-align: center;
+    background: linear-gradient(135deg, #1e3a5f 0%, #2b6cb0 100%);
+    color: #fff; padding: 60px 20px;
+  }
+  .bi-hero h1 { font-size: 30px; font-weight: 700; margin-bottom: 12px; }
+  .bi-hero p { font-size: 16px; opacity: 0.9; }
+  .bi-stats {
+    max-width: 960px; margin: 0 auto; padding: 80px 20px;
+    display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px;
+  }
+  .bi-stat-card {
+    background: #fff; border-radius: 16px; padding: 40px 32px;
+    text-align: center; box-shadow: 0 4px 20px rgba(0,0,0,0.06);
+    border: 1px solid #e8ecf1;
+  }
+  .bi-stat-card .bi-counter {
+    font-size: 44px; font-weight: 700; color: #2b6cb0;
+    display: block; margin-bottom: 8px;
+  }
+  .bi-stat-card .bi-stat-label { font-size: 15px; color: #5b6470; }
+  .bi-stat-card .bi-stat-desc { font-size: 13px; color: #8a94a0; margin-top: 8px; }
+  .bi-note {
+    max-width: 960px; margin: 0 auto; padding: 0 20px 80px;
+    font-size: 14px; color: #8a94a0; text-align: center; line-height: 1.7;
+  }
+  @media (max-width: 768px) {
+    .bi-stats { grid-template-columns: 1fr; }
+    .bi-stat-card .bi-counter { font-size: 36px; }
+    .bi-hero h1 { font-size: 24px; }
+  }
+</style>
+</head>
+<body>
+
+<section class="bi-hero">
+  <h1>숫자로 보는 우리 학원</h1>
+  <p>아래로 스크롤하면 숫자가 카운트업됩니다</p>
+</section>
+
+<div class="bi-stats">
+  <div class="bi-stat-card">
+    <span class="bi-counter" data-bi-count="1250" data-bi-suffix="명">1,250명</span>
+    <div class="bi-stat-label">누적 수강생</div>
+    <div class="bi-stat-desc">개원 이래 함께한 학생 수</div>
+  </div>
+  <div class="bi-stat-card">
+    <span class="bi-counter" data-bi-count="342" data-bi-suffix="명">342명</span>
+    <div class="bi-stat-label">작년 대학 합격자</div>
+    <div class="bi-stat-desc">4년제 대학 최종 합격 기준</div>
+  </div>
+  <div class="bi-stat-card">
+    <span class="bi-counter" data-bi-count="98" data-bi-suffix="%" data-bi-decimals="0">98%</span>
+    <div class="bi-stat-label">학부모 만족도</div>
+    <div class="bi-stat-desc">2026년 상반기 설문 결과</div>
+  </div>
+  <div class="bi-stat-card">
+    <span class="bi-counter" data-bi-count="20" data-bi-suffix="년">20년</span>
+    <div class="bi-stat-label">운영 경력</div>
+    <div class="bi-stat-desc">지역에서 가장 오래된 입시 학원</div>
+  </div>
+</div>
+
+<p class="bi-note">
+  data-bi-count="1250" · data-bi-suffix="명" · data-bi-prefix="$"<br>
+  data-bi-decimals="1" (소수점) · data-bi-format="plain" (구분자 없음) · data-bi-duration="2" (지속 시간)
+</p>
+
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/gsap.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/ScrollTrigger.min.js"></script>
+<script src="script.js"></script>
+</body>
+</html>

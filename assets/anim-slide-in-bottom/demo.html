@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>bi-slide-in-bottom 데모 — 카드 그리드 순차 등장</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap">
+<link rel="stylesheet" href="style.css">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Noto Sans KR', sans-serif;
+    background: #f5f7fa;
+    color: #1a1d21;
+    padding: 48px 20px;
+    word-break: keep-all;
+  }
+  .bi-demo-wrap { max-width: 1080px; margin: 0 auto; }
+  .bi-demo-title {
+    font-size: 28px; font-weight: 700; margin-bottom: 8px; text-align: center;
+  }
+  .bi-demo-sub {
+    font-size: 15px; color: #5b6470; text-align: center; margin-bottom: 40px;
+  }
+  .bi-card-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  .bi-card {
+    background: #fff;
+    border-radius: 16px;
+    padding: 28px 24px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+    border: 1px solid #e8ecf1;
+  }
+  .bi-card-badge {
+    display: inline-block;
+    font-size: 12px; font-weight: 700;
+    background: #eef4ff; color: #2b6cb0;
+    border-radius: 999px; padding: 4px 12px; margin-bottom: 12px;
+  }
+  .bi-card h3 { font-size: 18px; font-weight: 700; margin-bottom: 8px; }
+  .bi-card p { font-size: 14px; color: #5b6470; line-height: 1.6; }
+  .bi-card .bi-card-meta {
+    margin-top: 16px; font-size: 13px; color: #8a94a0;
+  }
+  @media (max-width: 768px) {
+    .bi-card-grid { grid-template-columns: 1fr; }
+    .bi-demo-title { font-size: 22px; }
+  }
+</style>
+</head>
+<body>
+<div class="bi-demo-wrap">
+  <h1 class="bi-demo-title">학원 인기 강좌</h1>
+  <p class="bi-demo-sub">카드가 아래에서 위로 차례대로 등장합니다 (순수 CSS, JS 없음)</p>
+
+  <div class="bi-card-grid bi-reveal-grid">
+    <article class="bi-card bi-reveal-item">
+      <span class="bi-card-badge">내신 대비</span>
+      <h3>중3 수학 심화반</h3>
+      <p>학교별 기출 분석으로 내신 1등급을 목표로 하는 심화 과정입니다.</p>
+      <div class="bi-card-meta">주 3회 · 정원 12명</div>
+    </article>
+    <article class="bi-card bi-reveal-item">
+      <span class="bi-card-badge">수능 대비</span>
+      <h3>고2 영어 독해반</h3>
+      <p>수능 유형별 독해 전략과 어휘를 함께 잡는 실전 과정입니다.</p>
+      <div class="bi-card-meta">주 2회 · 정원 15명</div>
+    </article>
+    <article class="bi-card bi-reveal-item">
+      <span class="bi-card-badge">입시 전문</span>
+      <h3>고3 국어 문학반</h3>
+      <p>문학 작품 분석과 선택지 판단력을 키우는 입시 특화 과정입니다.</p>
+      <div class="bi-card-meta">주 3회 · 정원 10명</div>
+    </article>
+    <article class="bi-card bi-reveal-item">
+      <span class="bi-card-badge">초등</span>
+      <h3>초등 사고력 수학</h3>
+      <p>교구와 토론으로 수학적 사고력을 키우는 초등 맞춤 과정입니다.</p>
+      <div class="bi-card-meta">주 2회 · 정원 8명</div>
+    </article>
+    <article class="bi-card bi-reveal-item">
+      <span class="bi-card-badge">중등</span>
+      <h3>중1 과학 탐구반</h3>
+      <p>실험과 탐구 활동으로 과학 개념을 탄탄히 다지는 과정입니다.</p>
+      <div class="bi-card-meta">주 2회 · 정원 12명</div>
+    </article>
+    <article class="bi-card bi-reveal-item">
+      <span class="bi-card-badge">상담</span>
+      <h3>1:1 학습 컨설팅</h3>
+      <p>원장이 직접 진단하는 맞춤형 학습 로드맵 상담 프로그램입니다.</p>
+      <div class="bi-card-meta">예약제 · 무료 상담</div>
+    </article>
+  </div>
+</div>
+</body>
+</html>

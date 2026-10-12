@@ -10,12 +10,11 @@ buildit2/
 │   ├── assets.json       # 자산 메타데이터 (검색 태그·라이선스·호환성)
 │   ├── categories.json   # 카테고리 정의
 │   └── selected-10.md    # 1차 선정 10종 상세
-├── templates/            # 홈페이지 템플릿 (유형별)
-├── components/           # UI 컴포넌트 (용도별)
-├── animations/           # 웹 애니메이션 (기술별)
-├── previews/            # 미리보기 이미지 (최적화)
-├── references/          # 라이선스 미확인 자산의 링크+분석
-└── LICENSES/            # 라이선스 원문 및 고지
+├── assets/<id>/          # 자산 코드 (demo.html · style.css · script.js · README.md)
+│                         #   id 접두: tmpl-(템플릿) · comp-(컴포넌트) · anim-(애니메이션)
+├── previews/             # 미리보기 이미지 (최적화)
+├── references/           # 라이선스 미확인 자산의 링크+분석
+└── LICENSES/             # 라이선스 원문 및 고지
 ```
 
 ## 자산 현황
@@ -40,6 +39,9 @@ buildit2/
 - 각 자산의 `LICENSES/` 고지 유지
 
 ## BuildIt 연동
+
+> 데모(`demo.html`)에 들어 있는 학원명·강사·경력·수치·주소·전화번호는 **모두 가상의 예시**이며 실제 정보가 아니다. BuildIt에서는 회원이 입력한 값만 슬롯에 바인딩해 표시하고, 입력이 없으면 해당 영역/섹션을 내지 않는다(가짜 정보 생성 금지).
+> `assets.json`의 `compatibility.buildit_renderer` 값은 독립 데모 기준 추정이며 BuildIt 적용 검증을 뜻하지 않는다. 적용 상태는 자산별 `buildit_integration`에 기록한다.
 
 현재는 카탈로그만 제공. AI Agent 연결·운영 DB 등록은 별도 작업.
 

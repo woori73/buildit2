@@ -7,6 +7,20 @@
 - `demo.html` — 독립 실행 데모
 - `style.css` — 바닐라 CSS (Tailwind 미사용)
 
+## 데이터 슬롯 (BuildIt 바인딩 계약)
+데모의 모든 값은 **가상 샘플**이다. BuildIt에서는 회원이 입력한 `builderDraft.teachersJson`만 표시한다.
+
+| 슬롯 | 데모 위치 | BuildIt 키 | 비었을 때 |
+|---|---|---|---|
+| 이름(필수) | `.bi-team__name` | `n` | 강사 항목 자체를 버림 |
+| 역할/과목 | `.bi-team__subject` | `r` | 뱃지 숨김 |
+| 경력(최대 5줄) | `.bi-team__career` | `c[]` | 경력 영역 숨김 |
+| 사진(https) | `.bi-team__photo` | `p` | 실제 이름 첫 글자 아바타 |
+| 섹션 제목 | `.bi-team__title` | `teachersSectionTitle` | 기본 "강사진" |
+
+강사가 한 명도 없으면 섹션을 내지 않는다. 가짜 강사·경력·수치를 만들지 않는다.
+BuildIt 적용본은 `woori73/feel2real-buildit`(PR #625)에서 프리셋 변수 기반으로 다시 작성했다. 이 `style.css`는 독립 데모용이다.
+
 ## 사용법
 1. `style.css`의 `.bi-team` 관련 스타일을 프로젝트에 복사
 2. `demo.html`의 `<section class="bi-team">` 블록을 원하는 위치에 삽입

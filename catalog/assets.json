@@ -192,7 +192,7 @@
     {
       "category": "cards",
       "compatibility": {
-        "buildit_renderer": "high",
+        "buildit_renderer": "ported-with-changes",
         "korean_font_needed": false,
         "requires": []
       },
@@ -227,14 +227,41 @@
         "README.md"
       ],
       "license_note": "오리지널 바닐라 구현 (TailBlocks MIT 패턴 참고, Tailwind 제거)",
-      "buildit_apply": "강사진 섹션에 직접 삽입 가능",
+      "buildit_apply": "sec-teachers 섹션(sec-principal 바로 뒤). 회원이 입력한 teachersJson이 있을 때만 표시",
       "mobile_verified": {
         "360": true,
         "390": true,
         "430": true,
         "pc": true
       },
-      "verification_note": "독립 데모 검증 완료. BuildIt 운영 적용 검증은 별도."
+      "verification_note": "독립 데모 검증 완료. BuildIt 운영 적용 검증은 별도.",
+      "code_origin": "자체 작성 (BuildIt) — 코드 복사 없음",
+      "inspiration": {
+        "name": "TailBlocks team 섹션",
+        "license": "MIT",
+        "url": "https://dev.to/themesberg/free-tailwind-css-themes-and-templates-26ll",
+        "note": "레이아웃 패턴만 참고"
+      },
+      "targets": [
+        "sec-teachers"
+      ],
+      "data_contract": {
+        "buildit_key": "builderDraft.teachersJson",
+        "item_schema": {
+          "n": "이름(필수, 30자)",
+          "r": "역할/과목(선택, 50자)",
+          "c": "경력 배열(선택, 5개·각 80자)",
+          "p": "사진 URL(선택, https만)"
+        },
+        "max_items": 8,
+        "on_missing": "강사가 한 명도 없으면 섹션을 렌더하지 않는다(플레이스홀더·가짜 강사 금지). 사진이 없으면 실제 이름 첫 글자 아바타."
+      },
+      "demo_data_notice": "demo.html의 모든 값은 가상 예시이며 BuildIt에서는 사용하지 않는다.",
+      "buildit_integration": {
+        "status": "ported",
+        "implementation": "woori73/feel2real-buildit PR #625 (academy_sections.js renderTeachers + academy_teachers.css, 프리셋 --brand-* 변수 기반으로 재작성)",
+        "note": "이 저장소의 style.css는 독립 데모용(하드코딩 색)이며 BuildIt에서는 그대로 쓰지 않는다. BuildIt 적용 검증은 해당 PR의 테스트·브라우저 검증을 따른다."
+      }
     },
     {
       "category": "testimonials",

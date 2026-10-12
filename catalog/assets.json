@@ -1,1 +1,518 @@
-{"assets":[{"category":"general-academy","compatibility":{"buildit_renderer":"high","korean_font_needed":true,"requires":["Tailwind CSS"]},"description":"종합학원·학교형 멀티페이지 템플릿. Tailwind 기반 반응형.","features":"섹션 완비, 반응형 레이아웃","id":"tmpl-open-school","license":"MIT","mobile":{"360":true,"390":true,"430":true},"name":"Open School Website Template","redistributable":true,"source_url":"https://github.com/dimartarmizi/open-school-website-template","tags":["종합학원","학교형","멀티페이지","반응형","Tailwind"],"type":"template","verified":false,"version":"1.0.0"},{"category":"general-academy","compatibility":{"buildit_renderer":"high","korean_font_needed":true,"requires":[]},"description":"학교형 모바일 퍼스트 템플릿. CSS 변수 테마, 외부 의존성 최소.","features":"모바일 퍼스트, CSS 변수 테마","id":"tmpl-demo-school","license":"MIT","mobile":{"360":true,"390":true,"430":true},"name":"Demo School","redistributable":true,"source_url":"https://github.com/abneesh/demo_school","tags":["학교형","모바일퍼스트","경량","CSS변수"],"type":"template","verified":false,"version":"1.0.0"},{"category":"minimal","compatibility":{"buildit_renderer":"high","korean_font_needed":true,"requires":["Tailwind CSS (CDN)"]},"description":"미니멀 단일 HTML 랜딩. Tailwind CDN으로 즉시 렌더 가능.","features":"단일 HTML 파일, 즉시 렌더","id":"tmpl-minimal-landing","license":"MIT","mobile":{"360":true,"390":true,"430":true},"name":"Tailwind Landing Page","redistributable":true,"source_url":"https://github.com/tailwindtoolbox/Landing-Page","tags":["미니멀","랜딩","단일페이지","경량"],"type":"template","verified":false,"version":"1.0.0"},{"category":"hero","compatibility":{"buildit_renderer":"high","korean_font_needed":false,"requires":["Tailwind CSS"]},"description":"좌측 텍스트+우측 이미지 2열 히어로. JS 없음.","features":"이중 CTA, 반응형 2열 레이아웃","id":"comp-hero-hyperui","license":"MIT","mobile":{"360":true,"390":true,"430":true},"name":"HyperUI Hero Section","redistributable":true,"source_url":"http://tailkits.com/components/hyperui/","tags":["히어로","2열","CTA","반응형","고급스러운 학원 홈페이지"],"type":"component","verified":false,"version":"1.0.0"},{"category":"cards","compatibility":{"buildit_renderer":"high","korean_font_needed":false,"requires":["Tailwind CSS"]},"description":"강사진 소개 카드 그리드. 사진+이름+과목+경력.","features":"다크/라이트 모드, 사진 원형/사각 변형","id":"comp-team-tailblocks","license":"MIT","mobile":{"360":true,"390":true,"430":true},"name":"TailBlocks Team Section","redistributable":true,"source_url":"https://dev.to/themesberg/free-tailwind-css-themes-and-templates-26ll","tags":["강사진","카드","그리드","팀소개","강사진 소개를 카드로 바꿔줘"],"type":"component","verified":false,"version":"1.0.0"},{"category":"testimonials","compatibility":{"buildit_renderer":"high","korean_font_needed":false,"requires":["Tailwind CSS"]},"description":"합격 후기 인용문 그리드. 정적 안정형.","features":"blockquote 시맨틱, 별점 패턴","id":"comp-testimonials-hyperui","license":"MIT","mobile":{"360":true,"390":true,"430":true},"name":"HyperUI Testimonials","redistributable":true,"source_url":"http://tailkits.com/components/hyperui/","tags":["후기","합격실적","인용문","그리드"],"type":"component","verified":false,"version":"1.0.0"},{"category":"navigation","compatibility":{"buildit_renderer":"high","korean_font_needed":false,"requires":["Tailwind CSS"]},"description":"내비게이션 바 + 사업자 정보 푸터. 햄버거 메뉴 포함.","features":"학원 푸터 필수 항목 구조 일치","id":"comp-nav-footer-hyperui","license":"MIT","mobile":{"360":true,"390":true,"430":true},"name":"HyperUI Nav + Footer","redistributable":true,"source_url":"http://tailkits.com/components/hyperui/","tags":["내비게이션","푸터","사업자정보","햄버거메뉴"],"type":"component","verified":false,"version":"1.0.0"},{"accessibility":"prefers-reduced-motion 게이트 필요","category":"css","compatibility":{"buildit_renderer":"high","korean_font_needed":false,"requires":[]},"description":"카드 그리드 순차 등장 슬라이드업. 순수 CSS, 1KB.","features":"GPU 가속, animation-delay 스태거","id":"anim-slide-in-bottom","license":"BSD-2-Clause","mobile":{"360":true,"390":true,"430":true},"name":"CSS Slide In Bottom","redistributable":true,"source_url":"https://animista.net","tags":["스크롤등장","카드그리드","스태거","카드들이 아래에서 차례대로 올라오게 해줘"],"type":"animation","verified":false,"version":"1.0.0"},{"accessibility":"gsap.matchMedia 분기 필요","category":"gsap","compatibility":{"buildit_renderer":"high","korean_font_needed":false,"requires":["GSAP CDN (core + ScrollTrigger, ~39KB gzip)"]},"description":"ScrollTrigger.batch 순차 페이드업. data 속성 선언형.","features":"data-reveal 속성으로 AI 적용 용이, once 실행","id":"anim-gsap-scroll-fade","license":"MIT (예제) + GSAP Standard (상업 무료)","mobile":{"360":true,"390":true,"430":true},"name":"GSAP Scroll Fade Up","redistributable":true,"source_url":"https://github.com/boccdotdev/data-reveal","tags":["스크롤등장","순차등장","data속성","스크롤할 때 자연스럽게 등장하게 해줘"],"type":"animation","verified":false,"version":"1.0.0"},{"accessibility":"reduced-motion 시 즉시 최종값","category":"gsap","compatibility":{"buildit_renderer":"high","korean_font_needed":false,"requires":["GSAP CDN (core + ScrollTrigger)"]},"description":"합격자 수 카운트업. data-count 속성 하나.","features":"천단위 구분자, 소수점 지원","id":"anim-gsap-counter","license":"MIT (예제) + GSAP Standard (상업 무료)","mobile":{"360":true,"390":true,"430":true},"name":"GSAP Counter Up","redistributable":true,"source_url":"https://github.com/boccdotdev/data-reveal","tags":["숫자애니메이션","합격자수","카운트업","합격자 수를 세는 효과로 보여줘"],"type":"animation","verified":false,"version":"1.0.0"}],"catalog_version":"1.0.0","categories":{"animations":["css","motion","gsap"],"components":["hero","buttons","cards","curriculum","testimonials","forms","navigation"],"templates":["entrance-exam","english-academy","conversation","general-academy","premium","minimal"]},"created":"2026-10-12","natural_language_examples":{"강사진 소개를 카드로 바꿔줘":["comp-team-tailblocks"],"고급스러운 학원 홈페이지":["comp-hero-hyperui","tmpl-open-school"],"모바일 디자인을 개선해줘":["tmpl-demo-school","comp-nav-footer-hyperui"],"상담 버튼을 크게 만들어줘":["comp-hero-hyperui"],"스크롤할 때 자연스럽게 등장하게 해줘":["anim-gsap-scroll-fade","anim-slide-in-bottom"]},"total_assets":10}
+{
+  "assets": [
+    {
+      "category": "general-academy",
+      "compatibility": {
+        "buildit_renderer": "high",
+        "korean_font_needed": true,
+        "requires": []
+      },
+      "description": "종합학원·학교형 멀티페이지 템플릿. Tailwind 기반 반응형.",
+      "features": "섹션 완비, 반응형 레이아웃",
+      "id": "tmpl-open-school",
+      "license": "MIT",
+      "mobile": {
+        "360": true,
+        "390": true,
+        "430": true
+      },
+      "name": "Open School Website Template",
+      "redistributable": true,
+      "source_url": "https://github.com/dimartarmizi/open-school-website-template",
+      "tags": [
+        "종합학원",
+        "학교형",
+        "멀티페이지",
+        "반응형",
+        "Tailwind"
+      ],
+      "type": "template",
+      "verified": true,
+      "version": "1.0.0",
+      "code_path": "assets/tmpl-open-school/",
+      "demo_path": "assets/tmpl-open-school/demo.html",
+      "preview": "previews/tmpl-open-school-pc.png",
+      "files": [
+        "demo.html",
+        "style.css",
+        "script.js",
+        "README.md"
+      ],
+      "license_note": "오리지널 제작 (원본 저장소 소실로 재확인 불가, 패턴 참고)",
+      "buildit_apply": "sec-hero + sec-cta 조합으로 직접 적용 가능",
+      "mobile_verified": {
+        "360": true,
+        "390": true,
+        "430": true,
+        "pc": true
+      }
+    },
+    {
+      "category": "general-academy",
+      "compatibility": {
+        "buildit_renderer": "high",
+        "korean_font_needed": true,
+        "requires": []
+      },
+      "description": "학교형 모바일 퍼스트 템플릿. CSS 변수 테마, 외부 의존성 최소.",
+      "features": "모바일 퍼스트, CSS 변수 테마",
+      "id": "tmpl-demo-school",
+      "license": "MIT",
+      "mobile": {
+        "360": true,
+        "390": true,
+        "430": true
+      },
+      "name": "Demo School",
+      "redistributable": true,
+      "source_url": "https://github.com/abneesh/demo_school",
+      "tags": [
+        "학교형",
+        "모바일퍼스트",
+        "경량",
+        "CSS변수"
+      ],
+      "type": "template",
+      "verified": true,
+      "version": "1.0.0",
+      "code_path": "assets/tmpl-demo-school/",
+      "demo_path": "assets/tmpl-demo-school/demo.html",
+      "preview": "previews/tmpl-demo-school-pc.png",
+      "files": [
+        "demo.html",
+        "style.css",
+        "script.js",
+        "README.md"
+      ],
+      "license_note": "오리지널 제작 (MIT 패턴 참고)",
+      "buildit_apply": "모바일 우선 템플릿, sec-* 구조 호환",
+      "mobile_verified": {
+        "360": true,
+        "390": true,
+        "430": true,
+        "pc": true
+      }
+    },
+    {
+      "category": "minimal",
+      "compatibility": {
+        "buildit_renderer": "high",
+        "korean_font_needed": true,
+        "requires": []
+      },
+      "description": "미니멀 단일 HTML 랜딩. Tailwind CDN으로 즉시 렌더 가능.",
+      "features": "단일 HTML 파일, 즉시 렌더",
+      "id": "tmpl-minimal-landing",
+      "license": "MIT",
+      "mobile": {
+        "360": true,
+        "390": true,
+        "430": true
+      },
+      "name": "Tailwind Landing Page",
+      "redistributable": true,
+      "source_url": "https://github.com/tailwindtoolbox/Landing-Page",
+      "tags": [
+        "미니멀",
+        "랜딩",
+        "단일페이지",
+        "경량"
+      ],
+      "type": "template",
+      "verified": true,
+      "version": "1.0.0",
+      "code_path": "assets/tmpl-minimal-landing/",
+      "demo_path": "assets/tmpl-minimal-landing/demo.html",
+      "preview": "previews/tmpl-minimal-landing-pc.png",
+      "files": [
+        "demo.html",
+        "style.css",
+        "script.js",
+        "README.md"
+      ],
+      "license_note": "오리지널 제작 (MIT 패턴 참고)",
+      "buildit_apply": "단일 페이지 랜딩, sec-hero 변형으로 적용",
+      "mobile_verified": {
+        "360": true,
+        "390": true,
+        "430": true,
+        "pc": true
+      }
+    },
+    {
+      "category": "hero",
+      "compatibility": {
+        "buildit_renderer": "high",
+        "korean_font_needed": false,
+        "requires": []
+      },
+      "description": "좌측 텍스트+우측 이미지 2열 히어로. JS 없음.",
+      "features": "이중 CTA, 반응형 2열 레이아웃",
+      "id": "comp-hero-hyperui",
+      "license": "MIT",
+      "mobile": {
+        "360": true,
+        "390": true,
+        "430": true
+      },
+      "name": "HyperUI Hero Section",
+      "redistributable": true,
+      "source_url": "http://tailkits.com/components/hyperui/",
+      "tags": [
+        "히어로",
+        "2열",
+        "CTA",
+        "반응형",
+        "고급스러운 학원 홈페이지"
+      ],
+      "type": "component",
+      "verified": true,
+      "version": "1.0.0",
+      "code_path": "assets/comp-hero-hyperui/",
+      "demo_path": "assets/comp-hero-hyperui/demo.html",
+      "preview": "previews/comp-hero-hyperui-pc.png",
+      "files": [
+        "demo.html",
+        "style.css",
+        "README.md"
+      ],
+      "license_note": "오리지널 바닐라 구현 (HyperUI MIT 패턴 참고, Tailwind 제거)",
+      "buildit_apply": "sec-hero 섹션에 직접 삽입 가능",
+      "mobile_verified": {
+        "360": true,
+        "390": true,
+        "430": true,
+        "pc": true
+      }
+    },
+    {
+      "category": "cards",
+      "compatibility": {
+        "buildit_renderer": "high",
+        "korean_font_needed": false,
+        "requires": []
+      },
+      "description": "강사진 소개 카드 그리드. 사진+이름+과목+경력.",
+      "features": "다크/라이트 모드, 사진 원형/사각 변형",
+      "id": "comp-team-tailblocks",
+      "license": "MIT",
+      "mobile": {
+        "360": true,
+        "390": true,
+        "430": true
+      },
+      "name": "TailBlocks Team Section",
+      "redistributable": true,
+      "source_url": "https://dev.to/themesberg/free-tailwind-css-themes-and-templates-26ll",
+      "tags": [
+        "강사진",
+        "카드",
+        "그리드",
+        "팀소개",
+        "강사진 소개를 카드로 바꿔줘"
+      ],
+      "type": "component",
+      "verified": true,
+      "version": "1.0.0",
+      "code_path": "assets/comp-team-tailblocks/",
+      "demo_path": "assets/comp-team-tailblocks/demo.html",
+      "preview": "previews/comp-team-tailblocks-pc.png",
+      "files": [
+        "demo.html",
+        "style.css",
+        "README.md"
+      ],
+      "license_note": "오리지널 바닐라 구현 (TailBlocks MIT 패턴 참고, Tailwind 제거)",
+      "buildit_apply": "강사진 섹션에 직접 삽입 가능",
+      "mobile_verified": {
+        "360": true,
+        "390": true,
+        "430": true,
+        "pc": true
+      }
+    },
+    {
+      "category": "testimonials",
+      "compatibility": {
+        "buildit_renderer": "high",
+        "korean_font_needed": false,
+        "requires": []
+      },
+      "description": "합격 후기 인용문 그리드. 정적 안정형.",
+      "features": "blockquote 시맨틱, 별점 패턴",
+      "id": "comp-testimonials-hyperui",
+      "license": "MIT",
+      "mobile": {
+        "360": true,
+        "390": true,
+        "430": true
+      },
+      "name": "HyperUI Testimonials",
+      "redistributable": true,
+      "source_url": "http://tailkits.com/components/hyperui/",
+      "tags": [
+        "후기",
+        "합격실적",
+        "인용문",
+        "그리드"
+      ],
+      "type": "component",
+      "verified": true,
+      "version": "1.0.0",
+      "code_path": "assets/comp-testimonials-hyperui/",
+      "demo_path": "assets/comp-testimonials-hyperui/demo.html",
+      "preview": "previews/comp-testimonials-hyperui-pc.png",
+      "files": [
+        "demo.html",
+        "style.css",
+        "README.md"
+      ],
+      "license_note": "오리지널 바닐라 구현 (HyperUI MIT 패턴 참고, Tailwind 제거)",
+      "buildit_apply": "후기 섹션에 직접 삽입 가능",
+      "mobile_verified": {
+        "360": true,
+        "390": true,
+        "430": true,
+        "pc": true
+      }
+    },
+    {
+      "category": "navigation",
+      "compatibility": {
+        "buildit_renderer": "high",
+        "korean_font_needed": false,
+        "requires": []
+      },
+      "description": "내비게이션 바 + 사업자 정보 푸터. 햄버거 메뉴 포함.",
+      "features": "학원 푸터 필수 항목 구조 일치",
+      "id": "comp-nav-footer-hyperui",
+      "license": "MIT",
+      "mobile": {
+        "360": true,
+        "390": true,
+        "430": true
+      },
+      "name": "HyperUI Nav + Footer",
+      "redistributable": true,
+      "source_url": "http://tailkits.com/components/hyperui/",
+      "tags": [
+        "내비게이션",
+        "푸터",
+        "사업자정보",
+        "햄버거메뉴"
+      ],
+      "type": "component",
+      "verified": true,
+      "version": "1.0.0",
+      "code_path": "assets/comp-nav-footer-hyperui/",
+      "demo_path": "assets/comp-nav-footer-hyperui/demo.html",
+      "preview": "previews/comp-nav-footer-hyperui-pc.png",
+      "files": [
+        "demo.html",
+        "style.css",
+        "README.md"
+      ],
+      "license_note": "오리지널 바닐라 구현 (HyperUI MIT 패턴 참고, Tailwind 제거)",
+      "buildit_apply": "내비게이션·푸터 섹션에 직접 삽입 가능",
+      "mobile_verified": {
+        "360": true,
+        "390": true,
+        "430": true,
+        "pc": true
+      }
+    },
+    {
+      "accessibility": "prefers-reduced-motion 게이트 필요",
+      "category": "css",
+      "compatibility": {
+        "buildit_renderer": "high",
+        "korean_font_needed": false,
+        "requires": []
+      },
+      "description": "카드 그리드 순차 등장 슬라이드업. 순수 CSS, 1KB.",
+      "features": "GPU 가속, animation-delay 스태거",
+      "id": "anim-slide-in-bottom",
+      "license": "BSD-2-Clause",
+      "mobile": {
+        "360": true,
+        "390": true,
+        "430": true
+      },
+      "name": "CSS Slide In Bottom",
+      "redistributable": true,
+      "source_url": "https://animista.net",
+      "tags": [
+        "스크롤등장",
+        "카드그리드",
+        "스태거",
+        "카드들이 아래에서 차례대로 올라오게 해줘"
+      ],
+      "type": "animation",
+      "verified": true,
+      "version": "1.0.0",
+      "code_path": "assets/anim-slide-in-bottom/",
+      "demo_path": "assets/anim-slide-in-bottom/demo.html",
+      "preview": "previews/anim-slide-in-bottom-pc.png",
+      "files": [
+        "demo.html",
+        "style.css",
+        "README.md"
+      ],
+      "license_note": "오리지널 CSS (Animista BSD-2-Clause 패턴 참고, 코드 복사 없음)",
+      "buildit_apply": "CSS만 추가하면 전체 사이트에 적용 가능",
+      "mobile_verified": {
+        "360": true,
+        "390": true,
+        "430": true,
+        "pc": true
+      }
+    },
+    {
+      "accessibility": "gsap.matchMedia 분기 필요",
+      "category": "gsap",
+      "compatibility": {
+        "buildit_renderer": "high",
+        "korean_font_needed": false,
+        "requires": [
+          "GSAP 3.13.0 (jsdelivr CDN 고정)"
+        ]
+      },
+      "description": "ScrollTrigger.batch 순차 페이드업. data 속성 선언형.",
+      "features": "data-reveal 속성으로 AI 적용 용이, once 실행",
+      "id": "anim-gsap-scroll-fade",
+      "license": "MIT (예제) + GSAP Standard (상업 무료)",
+      "mobile": {
+        "360": true,
+        "390": true,
+        "430": true
+      },
+      "name": "GSAP Scroll Fade Up",
+      "redistributable": true,
+      "source_url": "https://github.com/boccdotdev/data-reveal",
+      "tags": [
+        "스크롤등장",
+        "순차등장",
+        "data속성",
+        "스크롤할 때 자연스럽게 등장하게 해줘"
+      ],
+      "type": "animation",
+      "verified": true,
+      "version": "1.0.0",
+      "code_path": "assets/anim-gsap-scroll-fade/",
+      "demo_path": "assets/anim-gsap-scroll-fade/demo.html",
+      "preview": "previews/anim-gsap-scroll-fade-pc.png",
+      "files": [
+        "demo.html",
+        "style.css",
+        "script.js",
+        "README.md"
+      ],
+      "license_note": "오리지널 JS/CSS (GSAP Standard 라이선스: 상업 무료, Webflow 소유)",
+      "buildit_apply": "data-bi-reveal 속성으로 AI가 쉽게 적용 가능",
+      "mobile_verified": {
+        "360": true,
+        "390": true,
+        "430": true,
+        "pc": true
+      }
+    },
+    {
+      "accessibility": "reduced-motion 시 즉시 최종값",
+      "category": "gsap",
+      "compatibility": {
+        "buildit_renderer": "high",
+        "korean_font_needed": false,
+        "requires": [
+          "GSAP 3.13.0 (jsdelivr CDN 고정)"
+        ]
+      },
+      "description": "합격자 수 카운트업. data-count 속성 하나.",
+      "features": "천단위 구분자, 소수점 지원",
+      "id": "anim-gsap-counter",
+      "license": "MIT (예제) + GSAP Standard (상업 무료)",
+      "mobile": {
+        "360": true,
+        "390": true,
+        "430": true
+      },
+      "name": "GSAP Counter Up",
+      "redistributable": true,
+      "source_url": "https://github.com/boccdotdev/data-reveal",
+      "tags": [
+        "숫자애니메이션",
+        "합격자수",
+        "카운트업",
+        "합격자 수를 세는 효과로 보여줘"
+      ],
+      "type": "animation",
+      "verified": true,
+      "version": "1.0.0",
+      "code_path": "assets/anim-gsap-counter/",
+      "demo_path": "assets/anim-gsap-counter/demo.html",
+      "preview": "previews/anim-gsap-counter-pc.png",
+      "files": [
+        "demo.html",
+        "style.css",
+        "script.js",
+        "README.md"
+      ],
+      "license_note": "오리지널 JS/CSS (GSAP Standard 라이선스: 상업 무료, Webflow 소유)",
+      "buildit_apply": "data-bi-count 속성으로 합격자 수 표시에 적용",
+      "mobile_verified": {
+        "360": true,
+        "390": true,
+        "430": true,
+        "pc": true
+      }
+    }
+  ],
+  "catalog_version": "2.0.0",
+  "categories": {
+    "animations": [
+      "css",
+      "motion",
+      "gsap"
+    ],
+    "components": [
+      "hero",
+      "buttons",
+      "cards",
+      "curriculum",
+      "testimonials",
+      "forms",
+      "navigation"
+    ],
+    "templates": [
+      "entrance-exam",
+      "english-academy",
+      "conversation",
+      "general-academy",
+      "premium",
+      "minimal"
+    ]
+  },
+  "created": "2026-10-12",
+  "natural_language_examples": {
+    "강사진 소개를 카드로 바꿔줘": [
+      "comp-team-tailblocks"
+    ],
+    "고급스러운 학원 홈페이지": [
+      "comp-hero-hyperui",
+      "tmpl-open-school"
+    ],
+    "모바일 디자인을 개선해줘": [
+      "tmpl-demo-school",
+      "comp-nav-footer-hyperui"
+    ],
+    "상담 버튼을 크게 만들어줘": [
+      "comp-hero-hyperui"
+    ],
+    "스크롤할 때 자연스럽게 등장하게 해줘": [
+      "anim-gsap-scroll-fade",
+      "anim-slide-in-bottom"
+    ]
+  },
+  "total_assets": 10,
+  "updated": "2026-10-12",
+  "build_notes": "2차 구축: 10종 오리지널 바닐라 구현, Noto Sans KR, bi- 접두사, GSAP 3.13.0 고정"
+}

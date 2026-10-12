@@ -1,0 +1,229 @@
+/* ============================================================
+   comp-nav-footer-hyperui — 내비게이션 + 푸터 (바닐라 CSS)
+   오리지널 코드. 영감: HyperUI nav/footer (MIT) — 패턴만 참고, 코드 복사 없음.
+   ============================================================ */
+
+/* ---------- 내비게이션 ---------- */
+.bi-nav {
+  font-family: "Noto Sans KR", sans-serif;
+  word-break: keep-all;
+  background: #ffffff;
+  border-bottom: 1px solid #e2e8f0;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.bi-nav__inner {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 0 24px;
+  height: 68px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.bi-nav__logo {
+  font-size: 22px;
+  font-weight: 800;
+  color: #0f172a;
+  text-decoration: none;
+  letter-spacing: -0.02em;
+}
+
+.bi-nav__logo .bi-nav__logo-accent {
+  color: #1d4ed8;
+}
+
+.bi-nav__menu {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.bi-nav__link {
+  font-size: 15px;
+  font-weight: 700;
+  color: #334155;
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+.bi-nav__link:hover {
+  color: #1d4ed8;
+}
+
+.bi-nav__cta {
+  font-size: 14px;
+  font-weight: 700;
+  color: #ffffff;
+  background: #1d4ed8;
+  border-radius: 10px;
+  padding: 10px 20px;
+  text-decoration: none;
+  transition: background 0.15s ease;
+}
+
+.bi-nav__cta:hover {
+  background: #1e40af;
+}
+
+/* 햄버거 버튼 (모바일) */
+.bi-nav__toggle {
+  display: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 8px;
+}
+
+.bi-nav__toggle-bar {
+  display: block;
+  width: 24px;
+  height: 3px;
+  background: #0f172a;
+  border-radius: 2px;
+  margin: 5px 0;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+/* 햄버거 → X 애니메이션 */
+.bi-nav__toggle[aria-expanded="true"] .bi-nav__toggle-bar:nth-child(1) {
+  transform: translateY(8px) rotate(45deg);
+}
+
+.bi-nav__toggle[aria-expanded="true"] .bi-nav__toggle-bar:nth-child(2) {
+  opacity: 0;
+}
+
+.bi-nav__toggle[aria-expanded="true"] .bi-nav__toggle-bar:nth-child(3) {
+  transform: translateY(-8px) rotate(-45deg);
+}
+
+/* ---------- 푸터 ---------- */
+.bi-footer {
+  font-family: "Noto Sans KR", sans-serif;
+  word-break: keep-all;
+  background: #0f172a;
+  color: #94a3b8;
+  padding: 56px 24px 32px;
+}
+
+.bi-footer__inner {
+  max-width: 1120px;
+  margin: 0 auto;
+}
+
+.bi-footer__brand {
+  font-size: 20px;
+  font-weight: 800;
+  color: #ffffff;
+  margin: 0 0 20px;
+}
+
+.bi-footer__brand .bi-footer__brand-accent {
+  color: #60a5fa;
+}
+
+.bi-footer__info {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px 32px;
+  margin: 0 0 28px;
+  padding: 0;
+  list-style: none;
+  font-size: 14px;
+  line-height: 1.7;
+}
+
+.bi-footer__info dt {
+  display: inline;
+  font-weight: 700;
+  color: #cbd5e1;
+}
+
+.bi-footer__info dd {
+  display: inline;
+  margin: 0;
+}
+
+.bi-footer__links {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0 0 28px;
+  padding: 0;
+}
+
+.bi-footer__links a {
+  font-size: 13px;
+  color: #94a3b8;
+  text-decoration: none;
+}
+
+.bi-footer__links a:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+.bi-footer__copyright {
+  border-top: 1px solid #1e293b;
+  padding-top: 24px;
+  font-size: 13px;
+  color: #64748b;
+  margin: 0;
+}
+
+/* ---------- 반응형 ---------- */
+@media (max-width: 760px) {
+  .bi-nav__toggle {
+    display: block;
+  }
+
+  .bi-nav__menu {
+    display: none;
+    position: absolute;
+    top: 68px;
+    left: 0;
+    right: 0;
+    background: #ffffff;
+    border-bottom: 1px solid #e2e8f0;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0;
+    padding: 8px 24px 16px;
+    box-shadow: 0 12px 24px rgba(15, 23, 42, 0.08);
+  }
+
+  .bi-nav__menu.bi-nav__menu--open {
+    display: flex;
+  }
+
+  .bi-nav__menu li {
+    border-top: 1px solid #f1f5f9;
+  }
+
+  .bi-nav__menu li:first-child {
+    border-top: none;
+  }
+
+  .bi-nav__link {
+    display: block;
+    padding: 14px 0;
+  }
+
+  .bi-nav__cta {
+    display: block;
+    text-align: center;
+    margin-top: 8px;
+  }
+
+  .bi-footer__info {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,181 @@
+/* ============================================================
+   comp-hero-hyperui — 2열 히어로 섹션 (바닐라 CSS)
+   오리지널 코드. 영감: HyperUI hero (MIT) — 패턴만 참고, 코드 복사 없음.
+   ============================================================ */
+
+/* 레이아웃 */
+.bi-hero {
+  font-family: "Noto Sans KR", sans-serif;
+  word-break: keep-all;
+  background: #f8fafc;
+  padding: 80px 24px;
+}
+
+.bi-hero__inner {
+  max-width: 1120px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1.05fr 0.95fr;
+  gap: 48px;
+  align-items: center;
+}
+
+/* 좌측 텍스트 영역 */
+.bi-hero__badge {
+  display: inline-block;
+  font-size: 13px;
+  font-weight: 700;
+  color: #1d4ed8;
+  background: #dbeafe;
+  border-radius: 999px;
+  padding: 6px 16px;
+  margin: 0 0 20px;
+}
+
+.bi-hero__title {
+  font-size: 40px;
+  line-height: 1.35;
+  font-weight: 800;
+  color: #0f172a;
+  margin: 0 0 18px;
+  letter-spacing: -0.02em;
+}
+
+.bi-hero__title .bi-hero__accent {
+  color: #1d4ed8;
+}
+
+.bi-hero__desc {
+  font-size: 17px;
+  line-height: 1.75;
+  color: #475569;
+  margin: 0 0 32px;
+  word-break: keep-all;
+}
+
+/* CTA 버튼 그룹 */
+.bi-hero__actions {
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+}
+
+.bi-hero__btn {
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 700;
+  text-decoration: none;
+  border-radius: 12px;
+  padding: 15px 32px;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
+}
+
+.bi-hero__btn--primary {
+  background: #1d4ed8;
+  color: #ffffff;
+  box-shadow: 0 8px 20px rgba(29, 78, 216, 0.28);
+}
+
+.bi-hero__btn--primary:hover {
+  background: #1e40af;
+  transform: translateY(-2px);
+  box-shadow: 0 12px 24px rgba(29, 78, 216, 0.34);
+}
+
+.bi-hero__btn--secondary {
+  background: #ffffff;
+  color: #1d4ed8;
+  border: 2px solid #bfdbfe;
+}
+
+.bi-hero__btn--secondary:hover {
+  border-color: #1d4ed8;
+  transform: translateY(-2px);
+}
+
+.bi-hero__note {
+  margin-top: 20px;
+  font-size: 13px;
+  color: #94a3b8;
+}
+
+/* 우측 비주얼 영역 (플레이스홀더) */
+.bi-hero__visual {
+  position: relative;
+  min-height: 420px;
+  border-radius: 24px;
+  background: linear-gradient(135deg, #1d4ed8 0%, #3b82f6 55%, #93c5fd 100%);
+  overflow: hidden;
+  box-shadow: 0 24px 48px rgba(29, 78, 216, 0.22);
+}
+
+.bi-hero__visual::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(circle at 20% 25%, rgba(255, 255, 255, 0.25) 0, transparent 40%),
+    radial-gradient(circle at 80% 75%, rgba(255, 255, 255, 0.18) 0, transparent 45%);
+}
+
+.bi-hero__visual-caption {
+  position: absolute;
+  left: 28px;
+  right: 28px;
+  bottom: 28px;
+  background: rgba(255, 255, 255, 0.94);
+  border-radius: 16px;
+  padding: 20px 22px;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.15);
+}
+
+.bi-hero__visual-title {
+  font-size: 15px;
+  font-weight: 800;
+  color: #0f172a;
+  margin: 0 0 6px;
+}
+
+.bi-hero__visual-text {
+  font-size: 13px;
+  line-height: 1.6;
+  color: #475569;
+  margin: 0;
+}
+
+/* 반응형: 모바일 1열 */
+@media (max-width: 820px) {
+  .bi-hero {
+    padding: 56px 20px;
+  }
+
+  .bi-hero__inner {
+    grid-template-columns: 1fr;
+    gap: 36px;
+  }
+
+  .bi-hero__title {
+    font-size: 30px;
+  }
+
+  .bi-hero__desc {
+    font-size: 15px;
+  }
+
+  .bi-hero__visual {
+    min-height: 300px;
+    order: -1; /* 모바일에서는 비주얼을 위로 */
+  }
+}
+
+@media (max-width: 420px) {
+  .bi-hero__actions {
+    flex-direction: column;
+  }
+
+  .bi-hero__btn {
+    text-align: center;
+    width: 100%;
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,68 @@
+/* ============================================================
+ * bi-slide-in-bottom — 순수 CSS 슬라이드업 등장 애니메이션
+ * BuildIt 디자인 자산 (anim-slide-in-bottom)
+ * ============================================================
+ * 오리지널 코드 (BuildIt). Animista의 slide-in-bottom 패턴에서
+ * 영감을 받았으나 모든 키프레임·클래스는 새로 작성됨.
+ * Animista (BSD-2-Clause, Ana Travas) 저작권 고지는
+ * README.md의 영감 출처 항목에 명시.
+ * ============================================================ */
+
+/* 기본 변수 */
+.bi-reveal-grid {
+  --bi-reveal-duration: 0.7s;
+  --bi-reveal-easing: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  --bi-reveal-distance: 48px;
+  --bi-reveal-stagger: 0.12s;
+}
+
+/* 등장 전 초기 상태 (JS 없이 CSS만으로 동작) */
+.bi-reveal-item {
+  opacity: 0;
+  transform: translate3d(0, var(--bi-reveal-distance), 0);
+  will-change: transform, opacity;
+  /* GPU 가속: transform/opacity만 사용 */
+  animation: bi-slide-in-bottom var(--bi-reveal-duration)
+    var(--bi-reveal-easing) forwards;
+  animation-delay: calc(var(--bi-reveal-index, 0) * var(--bi-reveal-stagger));
+}
+
+/* 스태거용 인덱스 (HTML에서 style="--bi-reveal-index: N" 지정) */
+.bi-reveal-item:nth-child(1) { --bi-reveal-index: 0; }
+.bi-reveal-item:nth-child(2) { --bi-reveal-index: 1; }
+.bi-reveal-item:nth-child(3) { --bi-reveal-index: 2; }
+.bi-reveal-item:nth-child(4) { --bi-reveal-index: 3; }
+.bi-reveal-item:nth-child(5) { --bi-reveal-index: 4; }
+.bi-reveal-item:nth-child(6) { --bi-reveal-index: 5; }
+.bi-reveal-item:nth-child(7) { --bi-reveal-index: 6; }
+.bi-reveal-item:nth-child(8) { --bi-reveal-index: 7; }
+.bi-reveal-item:nth-child(9) { --bi-reveal-index: 8; }
+
+@keyframes bi-slide-in-bottom {
+  0% {
+    opacity: 0;
+    transform: translate3d(0, var(--bi-reveal-distance), 0);
+  }
+  60% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+/* 즉시 표시 변형 (지연 없이 한 번에) */
+.bi-reveal-item.bi-no-stagger {
+  animation-delay: 0s;
+}
+
+/* 사용자 모션 감소 설정 대응 (필수) */
+@media (prefers-reduced-motion: reduce) {
+  .bi-reveal-item {
+    animation: none;
+    opacity: 1;
+    transform: none;
+    will-change: auto;
+  }
+}

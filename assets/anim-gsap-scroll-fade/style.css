@@ -1,0 +1,46 @@
+/* ============================================================
+ * bi-scroll-fade — GSAP ScrollTrigger 스크롤 페이드업
+ * BuildIt 디자인 자산 (anim-gsap-scroll-fade)
+ * ============================================================
+ * 오리지널 코드 (BuildIt). data-reveal 패턴(MIT, boccdotdev)에서
+ * 영감을 받았으나 모든 JS·CSS는 새로 작성됨.
+ * ============================================================ */
+
+/* 초기 상태: JS가 로드되기 전에는 보이도록 기본 표시.
+   JS 로드 후 .bi-js-ready 가 붙으면 숨김 → 스크롤 시 등장 */
+.bi-reveal {
+  opacity: 1;
+  transform: none;
+}
+
+.bi-js-ready .bi-reveal {
+  opacity: 0;
+  transform: translate3d(0, 40px, 0);
+  will-change: transform, opacity;
+}
+
+.bi-js-ready .bi-reveal.bi-is-visible {
+  opacity: 1;
+  transform: none;
+  will-change: auto;
+}
+
+/* 등장 방향 변형 */
+.bi-js-ready .bi-reveal[data-bi-reveal="left"] {
+  transform: translate3d(-40px, 0, 0);
+}
+.bi-js-ready .bi-reveal[data-bi-reveal="right"] {
+  transform: translate3d(40px, 0, 0);
+}
+.bi-js-ready .bi-reveal[data-bi-reveal="scale"] {
+  transform: scale(0.94);
+}
+
+/* 사용자 모션 감소 설정 대응 (필수) */
+@media (prefers-reduced-motion: reduce) {
+  .bi-js-ready .bi-reveal {
+    opacity: 1 !important;
+    transform: none !important;
+    will-change: auto;
+  }
+}

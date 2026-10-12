@@ -1,0 +1,165 @@
+/* ============================================================
+   comp-testimonials-hyperui — 합격 후기 그리드 (바닐라 CSS)
+   오리지널 코드. 영감: HyperUI testimonials (MIT) — 패턴만 참고, 코드 복사 없음.
+   ============================================================ */
+
+.bi-testimonials {
+  font-family: "Noto Sans KR", sans-serif;
+  word-break: keep-all;
+  background: #f1f5f9;
+  padding: 80px 24px;
+}
+
+.bi-testimonials__inner {
+  max-width: 1120px;
+  margin: 0 auto;
+}
+
+.bi-testimonials__header {
+  text-align: center;
+  margin-bottom: 48px;
+}
+
+.bi-testimonials__eyebrow {
+  font-size: 13px;
+  font-weight: 700;
+  color: #1d4ed8;
+  letter-spacing: 0.08em;
+  margin: 0 0 12px;
+}
+
+.bi-testimonials__title {
+  font-size: 32px;
+  font-weight: 800;
+  color: #0f172a;
+  margin: 0 0 14px;
+  letter-spacing: -0.02em;
+}
+
+.bi-testimonials__desc {
+  font-size: 16px;
+  line-height: 1.7;
+  color: #64748b;
+  margin: 0;
+}
+
+/* 후기 카드 그리드: PC 3열 */
+.bi-testimonials__grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.bi-testimonials__card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 18px;
+  padding: 32px 28px;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.bi-testimonials__card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 16px 32px rgba(15, 23, 42, 0.1);
+}
+
+/* 별점 */
+.bi-testimonials__stars {
+  font-size: 18px;
+  color: #f59e0b;
+  letter-spacing: 4px;
+  margin: 0 0 18px;
+}
+
+/* 인용문 */
+.bi-testimonials__quote {
+  margin: 0 0 24px;
+  flex: 1;
+}
+
+.bi-testimonials__quote p {
+  font-size: 15px;
+  line-height: 1.8;
+  color: #334155;
+  margin: 0;
+  word-break: keep-all;
+}
+
+.bi-testimonials__quote p::before {
+  content: "\201C";
+  font-size: 28px;
+  color: #bfdbfe;
+  font-weight: 800;
+  display: block;
+  line-height: 1;
+  margin-bottom: 8px;
+}
+
+/* 작성자 영역 */
+.bi-testimonials__author {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  border-top: 1px solid #f1f5f9;
+  padding-top: 20px;
+}
+
+.bi-testimonials__avatar {
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  font-weight: 800;
+  color: #ffffff;
+  background: linear-gradient(135deg, #1d4ed8, #60a5fa);
+}
+
+.bi-testimonials__card:nth-child(2) .bi-testimonials__avatar {
+  background: linear-gradient(135deg, #0d9488, #5eead4);
+}
+
+.bi-testimonials__card:nth-child(3) .bi-testimonials__avatar {
+  background: linear-gradient(135deg, #c026d3, #f0abfc);
+}
+
+.bi-testimonials__name {
+  font-size: 15px;
+  font-weight: 700;
+  color: #0f172a;
+  margin: 0 0 4px;
+}
+
+.bi-testimonials__school {
+  font-size: 13px;
+  color: #1d4ed8;
+  font-weight: 700;
+  margin: 0;
+}
+
+/* 반응형 */
+@media (max-width: 900px) {
+  .bi-testimonials__grid {
+    grid-template-columns: 1fr;
+    max-width: 560px;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 560px) {
+  .bi-testimonials {
+    padding: 56px 20px;
+  }
+
+  .bi-testimonials__title {
+    font-size: 26px;
+  }
+}

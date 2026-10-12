@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>comp-nav-footer-hyperui — 내비게이션 + 푸터 데모</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <style>
+    /* 데모 페이지 기본 리셋 + 본문 여백 (컴포넌트 코드 아님) */
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    .demo-body { min-height: 40vh; display: flex; align-items: center; justify-content: center;
+                 font-family: "Noto Sans KR", sans-serif; color: #94a3b8; }
+  </style>
+</head>
+<body>
+
+  <header class="bi-nav">
+    <nav class="bi-nav__inner" aria-label="주 메뉴">
+      <a href="#" class="bi-nav__logo">한빛<span class="bi-nav__logo-accent">학원</span></a>
+
+      <button class="bi-nav__toggle" id="biNavToggle" aria-expanded="false" aria-controls="biNavMenu" aria-label="메뉴 열기">
+        <span class="bi-nav__toggle-bar"></span>
+        <span class="bi-nav__toggle-bar"></span>
+        <span class="bi-nav__toggle-bar"></span>
+      </button>
+
+      <ul class="bi-nav__menu" id="biNavMenu">
+        <li><a href="#about" class="bi-nav__link">학원소개</a></li>
+        <li><a href="#curriculum" class="bi-nav__link">커리큘럼</a></li>
+        <li><a href="#teachers" class="bi-nav__link">강사진</a></li>
+        <li><a href="#reviews" class="bi-nav__link">합격후기</a></li>
+        <li><a href="#consult" class="bi-nav__cta">상담신청</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="demo-body">
+    <p>← 내비게이션 데모 (모바일에서 햄버거 메뉴 확인) · 본문 영역 ↓</p>
+  </main>
+
+  <footer class="bi-footer">
+    <div class="bi-footer__inner">
+      <p class="bi-footer__brand">한빛<span class="bi-footer__brand-accent">학원</span></p>
+
+      <dl class="bi-footer__info">
+        <div><dt>상호</dt> <dd>한빛학원</dd></div>
+        <div><dt>대표자</dt> <dd>이한빛</dd></div>
+        <div><dt>사업자등록번호</dt> <dd>123-45-67890</dd></div>
+        <div><dt>주소</dt> <dd>서울특별시 강남구 테헤란로 123, 4층</dd></div>
+        <div><dt>전화번호</dt> <dd>02-1234-5678</dd></div>
+        <div><dt>이메일</dt> <dd>hello@hanbit-academy.example</dd></div>
+      </dl>
+
+      <ul class="bi-footer__links">
+        <li><a href="#privacy">개인정보처리방침</a></li>
+        <li><a href="#terms">이용약관</a></li>
+        <li><a href="#directions">오시는 길</a></li>
+      </ul>
+
+      <p class="bi-footer__copyright">© 2026 한빛학원. All rights reserved. (본 정보는 데모용 가상 정보입니다)</p>
+    </div>
+  </footer>
+
+  <script>
+    // 햄버거 모바일 메뉴 토글 (바닐라 JS)
+    var toggle = document.getElementById('biNavToggle');
+    var menu = document.getElementById('biNavMenu');
+    toggle.addEventListener('click', function () {
+      var open = menu.classList.toggle('bi-nav__menu--open');
+      toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      toggle.setAttribute('aria-label', open ? '메뉴 닫기' : '메뉴 열기');
+    });
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>comp-team-tailblocks — 강사진 카드 그리드 데모</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <style>
+    /* 데모 페이지 기본 리셋 (컴포넌트 코드 아님) */
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+  </style>
+</head>
+<body>
+
+  <section class="bi-team" aria-label="한빛학원 강사진 소개">
+    <div class="bi-team__inner">
+
+      <div class="bi-team__header">
+        <p class="bi-team__eyebrow">INSTRUCTORS</p>
+        <h2 class="bi-team__title">한빛을 만드는 강사진</h2>
+        <p class="bi-team__desc">평균 경력 12년, 검증된 실력의 전문 강사진이 함께합니다.</p>
+      </div>
+
+      <ul class="bi-team__grid">
+        <li class="bi-team__card">
+          <div class="bi-team__photo" role="img" aria-label="김서연 강사 사진 플레이스홀더">김</div>
+          <h3 class="bi-team__name">김서연 원장</h3>
+          <span class="bi-team__subject">수학 · 입시 총괄</span>
+          <p class="bi-team__career">서울대 수학과 졸업<br>대입 지도 경력 15년<br>수능 수학 만점자 40명 배출</p>
+        </li>
+        <li class="bi-team__card">
+          <div class="bi-team__photo" role="img" aria-label="박지훈 강사 사진 플레이스홀더">박</div>
+          <h3 class="bi-team__name">박지훈 부원장</h3>
+          <span class="bi-team__subject">영어 · 내신 전문</span>
+          <p class="bi-team__career">연세대 영어영문학과 졸업<br>내신 지도 경력 12년<br>외고·자사고 합격생 다수 배출</p>
+        </li>
+        <li class="bi-team__card">
+          <div class="bi-team__photo" role="img" aria-label="이도윤 강사 사진 플레이스홀더">이</div>
+          <h3 class="bi-team__name">이도윤 강사</h3>
+          <span class="bi-team__subject">국어 · 논술</span>
+          <p class="bi-team__career">고려대 국어국문학과 졸업<br>논술 지도 경력 10년<br>수시 논술 합격률 78%</p>
+        </li>
+        <li class="bi-team__card">
+          <div class="bi-team__photo" role="img" aria-label="최민아 강사 사진 플레이스홀더">최</div>
+          <h3 class="bi-team__name">최민아 강사</h3>
+          <span class="bi-team__subject">과학 · 탐구</span>
+          <p class="bi-team__career">카이스트 생명과학과 졸업<br>과학탐구 지도 경력 9년<br>의대 합격생 25명 배출</p>
+        </li>
+      </ul>
+
+    </div>
+  </section>
+
+</body>
+</html>

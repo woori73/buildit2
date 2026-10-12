@@ -1,0 +1,24 @@
+/* ============================================================
+ * bi-counter — GSAP 숫자 카운트업
+ * BuildIt 디자인 자산 (anim-gsap-counter)
+ * ============================================================
+ * 오리지널 코드 (BuildIt). data-reveal 카운터 패턴(MIT,
+ * boccdotdev)에서 영감을 받았으나 모든 JS·CSS는 새로 작성됨.
+ * ============================================================ */
+
+.bi-counter {
+  font-variant-numeric: tabular-nums; /* 숫자 폭 고정 (깜빡임 방지) */
+  font-weight: 700;
+}
+
+/* 카운트 전 초기 상태: JS 준비 전에는 최종값 표시 (SEO/접근성) */
+.bi-js-ready .bi-counter {
+  opacity: 1;
+}
+
+/* 사용자 모션 감소 설정 대응 (필수) */
+@media (prefers-reduced-motion: reduce) {
+  .bi-counter {
+    opacity: 1 !important;
+  }
+}

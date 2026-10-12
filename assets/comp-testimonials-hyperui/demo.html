@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>comp-testimonials-hyperui — 합격 후기 그리드 데모</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <style>
+    /* 데모 페이지 기본 리셋 (컴포넌트 코드 아님) */
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+  </style>
+</head>
+<body>
+
+  <section class="bi-testimonials" aria-label="한빛학원 합격 후기">
+    <div class="bi-testimonials__inner">
+
+      <div class="bi-testimonials__header">
+        <p class="bi-testimonials__eyebrow">TESTIMONIALS</p>
+        <h2 class="bi-testimonials__title">합격생이 직접 말합니다</h2>
+        <p class="bi-testimonials__desc">한빛학원과 함께 목표를 이룬 학생들의 생생한 후기입니다.</p>
+      </div>
+
+      <ul class="bi-testimonials__grid">
+        <li class="bi-testimonials__card">
+          <p class="bi-testimonials__stars" aria-label="별점 5점">★★★★★</p>
+          <blockquote class="bi-testimonials__quote">
+            <p>내신 3등급에서 시작했는데, 1:1 학습 설계 덕분에 6개월 만에 전 과목 1등급을 받았습니다. 특히 수학 약점 단원을 집중적으로 잡아주신 게 가장 큰 도움이 됐어요.</p>
+          </blockquote>
+          <div class="bi-testimonials__author">
+            <span class="bi-testimonials__avatar" aria-hidden="true">김</span>
+            <div>
+              <p class="bi-testimonials__name">김○○ (졸업생)</p>
+              <p class="bi-testimonials__school">서울대학교 합격</p>
+            </div>
+          </div>
+        </li>
+
+        <li class="bi-testimonials__card">
+          <p class="bi-testimonials__stars" aria-label="별점 5점">★★★★★</p>
+          <blockquote class="bi-testimonials__quote">
+            <p>영어가 가장 약했는데 단어 테스트와 구문 독해 수업이 체계적이라 수능 영어 1등급을 맞았습니다. 매주 상담으로 학습 방향을 점검해 주셔서 흔들리지 않았어요.</p>
+          </blockquote>
+          <div class="bi-testimonials__author">
+            <span class="bi-testimonials__avatar" aria-hidden="true">이</span>
+            <div>
+              <p class="bi-testimonials__name">이○○ (졸업생)</p>
+              <p class="bi-testimonials__school">연세대학교 합격</p>
+            </div>
+          </div>
+        </li>
+
+        <li class="bi-testimonials__card">
+          <p class="bi-testimonials__stars" aria-label="별점 5점">★★★★★</p>
+          <blockquote class="bi-testimonials__quote">
+            <p>논술 준비를 늦게 시작해서 불안했는데, 기출 분석과 첨삭 수업이 정말 꼼꼼했습니다. 실전처럼 진행되는 모의 논술이 합격에 결정적이었어요.</p>
+          </blockquote>
+          <div class="bi-testimonials__author">
+            <span class="bi-testimonials__avatar" aria-hidden="true">박</span>
+            <div>
+              <p class="bi-testimonials__name">박○○ (학부모)</p>
+              <p class="bi-testimonials__school">고려대학교 합격</p>
+            </div>
+          </div>
+        </li>
+      </ul>
+
+    </div>
+  </section>
+
+</body>
+</html>

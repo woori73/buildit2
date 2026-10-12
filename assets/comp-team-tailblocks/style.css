@@ -1,0 +1,143 @@
+/* ============================================================
+   comp-team-tailblocks — 강사진 카드 그리드 (바닐라 CSS)
+   오리지널 코드. 영감: TailBlocks team (MIT) — 패턴만 참고, 코드 복사 없음.
+   ============================================================ */
+
+.bi-team {
+  font-family: "Noto Sans KR", sans-serif;
+  word-break: keep-all;
+  background: #ffffff;
+  padding: 80px 24px;
+}
+
+.bi-team__inner {
+  max-width: 1120px;
+  margin: 0 auto;
+}
+
+.bi-team__header {
+  text-align: center;
+  margin-bottom: 48px;
+}
+
+.bi-team__eyebrow {
+  font-size: 13px;
+  font-weight: 700;
+  color: #1d4ed8;
+  letter-spacing: 0.08em;
+  margin: 0 0 12px;
+}
+
+.bi-team__title {
+  font-size: 32px;
+  font-weight: 800;
+  color: #0f172a;
+  margin: 0 0 14px;
+  letter-spacing: -0.02em;
+}
+
+.bi-team__desc {
+  font-size: 16px;
+  line-height: 1.7;
+  color: #64748b;
+  margin: 0;
+}
+
+/* 카드 그리드: PC 4열 */
+.bi-team__grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 24px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.bi-team__card {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 18px;
+  padding: 32px 24px;
+  text-align: center;
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.bi-team__card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 16px 32px rgba(15, 23, 42, 0.1);
+}
+
+/* 사진 플레이스홀더 (이니셜 아바타) */
+.bi-team__photo {
+  width: 104px;
+  height: 104px;
+  margin: 0 auto 20px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 34px;
+  font-weight: 800;
+  color: #ffffff;
+  background: linear-gradient(135deg, #1d4ed8, #60a5fa);
+}
+
+.bi-team__card:nth-child(2) .bi-team__photo {
+  background: linear-gradient(135deg, #0d9488, #5eead4);
+}
+
+.bi-team__card:nth-child(3) .bi-team__photo {
+  background: linear-gradient(135deg, #c026d3, #f0abfc);
+}
+
+.bi-team__card:nth-child(4) .bi-team__photo {
+  background: linear-gradient(135deg, #ea580c, #fdba74);
+}
+
+.bi-team__name {
+  font-size: 19px;
+  font-weight: 800;
+  color: #0f172a;
+  margin: 0 0 6px;
+}
+
+.bi-team__subject {
+  display: inline-block;
+  font-size: 13px;
+  font-weight: 700;
+  color: #1d4ed8;
+  background: #dbeafe;
+  border-radius: 999px;
+  padding: 4px 14px;
+  margin: 0 0 14px;
+}
+
+.bi-team__career {
+  font-size: 14px;
+  line-height: 1.7;
+  color: #64748b;
+  margin: 0;
+  word-break: keep-all;
+}
+
+/* 반응형 */
+@media (max-width: 960px) {
+  .bi-team__grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 560px) {
+  .bi-team {
+    padding: 56px 20px;
+  }
+
+  .bi-team__title {
+    font-size: 26px;
+  }
+
+  /* 모바일 360px: 1열 */
+  .bi-team__grid {
+    grid-template-columns: 1fr;
+  }
+}

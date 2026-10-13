@@ -28,9 +28,25 @@ chart-educators/
 │   └── search/{시도}.json    # 지역별 검색 응답 원본 (12)
 ├── knowledge/             # AI 분석 결과 (원본과 분리)
 │   └── *.md               # 유형별 사례 분석 — 인용 시 반드시 educators.json id로 출처 표기
+├── agent/                 # 홈페이지 제작 Agent 연동 레이어 (retrievable/설계/시뮬레이터)
 └── mapping/
     └── catalog_links.json # 교육자 특성 ↔ buildit2 디자인 자산(tmpl/comp/anim) 매핑
 ```
+
+## agent/ — 홈페이지 제작 Agent 연동 레이어
+
+`agent/`는 buildit2의 `chart-educators`를 운영 홈페이지 제작 Agent(Phase 5A/5B)의
+Context/Prompt 단계에 연결하기 위한 검색 레이어다. **운영 코드는 아직 연결하지 않았다**
+(별도 승인 항목).
+
+- `retrievable.json` — 본문 없는 40건·researchPending 17건·중복(id 81→80 흡수)을 제외한
+  학습 가능한 **59건**만 수록. 순위 점수만 있고 근거 본문이 없는 카드는 참조 후보에서 배제해
+  Agent 학습 품질을 보호한다.
+- `INTEGRATION_DESIGN.md` — 기존 Agent 흐름 재사용 설계, 운영 코드 변경 파일 목록(보류), 승인 항목.
+- `simulate_retrieval.py` — 사례검색→구성추천→Prompt블록→PENDING_USER_APPROVAL 검증 하네스(읽기 전용).
+
+운영 Agent는 새 Task·엔드포인트 없이 `AcademyAiContext`에 `referenceExamples`로 주입되고,
+`[참고 사례]` 금지 조항으로 다른 교육자의 이름·수치·실적·프로그램명 유출을 차단한다(§4).
 
 ## 레코드 스키마 (educators.json)
 

@@ -1,0 +1,72 @@
+{
+ "id": 80,
+ "name": "토마스",
+ "role": "원장",
+ "academyName": "중앙K 영어",
+ "province": "경상북도",
+ "cityDistrict": "경주시",
+ "activityRegion": "경상북도 경주시",
+ "identitySummary": "경주 용강동 중앙K 영어를 운영하며 중·고등 내신·수능 영어와 공개 교육 콘텐츠를 제공하는 토마스 원장.",
+ "educationPhilosophy": "문법과 단어를 단순 암기하는 데서 멈추지 않고 문맥 속 쓰임과 논리적으로 답을 찾는 과정을 이해하도록 지도한다. 학생의 수준과 성향을 기준으로 필요한 부분을 개별화하고, 질문과 피드백을 수업 밖까지 이어가는 방향을 공개하고 있다.",
+ "curriculum": "최대 4명 소수 수업에서 학생이 단어·예문·해석을 직접 구성하는 개인 단어장을 반복 학습한다. 내신 기간에는 교과서·모의고사·부교재·외부지문을 학교별로 분석하고 직접 제작한 예상문제로 적용과 오답을 점검한다.",
+ "distinctiveTeaching": "문맥 기반 개인 단어장, 학교별 직접 제작 예상문제, 수업 외 상시 질문 피드백을 결합한다.",
+ "recentActivity": "2026년 4월 문맥 기반 영어 학습 콘텐츠와 5월 월성중 2학년 중간고사 분석을 공개했고 현재 경주 용강동에서 오프라인 수업을 운영한다.",
+ "strengths": [
+  "문맥과 쓰임 중심 어휘 지도",
+  "학교별 시험 분석과 직접 제작 예상문제",
+  "최대 4명 개별 피드백",
+  "공개 교육 콘텐츠의 지속성"
+ ],
+ "improvementSuggestions": [
+  "전문 활동명 외 실명과 교실 운영 정보를 공식 채널에서 더 명확히 공개하면 개인 식별 신뢰도가 높아질 수 있다."
+ ],
+ "officialChannels": {
+  "homepage": "https://academy.hakwonsin.co.kr/academy/6dB68w2d/%EC%A4%91%EC%95%99K%EC%98%81%EC%96%B4-%EA%B2%BD%EC%A3%BC",
+  "blog": null,
+  "youtube": null,
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "블로그 글",
+   "summary": "글 머리 시각 2026. 8. 28. 0:47. 내신 부교재 지문을 단순히 암기하게 하지 않고 정확한 해석, 문장 구조 분석, 출제 포인트 찾기로 대비하게 한다는 수업 절차를 단계별로 정리했다. 최근 내신 영어가 지문 이해와 문장 구조 분석 능력을 함께 요구한다는 판단을 근거로 들었다.",
+   "sourceUrl": "https://blog.naver.com/ca_english/224392608895",
+   "activityDate": "2026-08-28",
+   "evidenceKind": "MATERIAL"
+  },
+  {
+   "contentType": "수업 방법 및 커리큘럼",
+   "summary": "최대 4명 소수 수업, 학생별 개인 단어장, 학교별 교과서·모의고사·부교재·외부지문 분석과 직접 제작 예상문제 구조를 확인했다.",
+   "sourceUrl": "https://learns.academy/academies/97569a4b-6d06-4612-8fc2-e82620723611",
+   "activityDate": "2026-08-26",
+   "evidenceKind": "TEACHING_METHOD"
+  },
+  {
+   "contentType": "지역학교 시험 분석",
+   "summary": "2026학년도 월성중학교 2학년 중간고사 시험지를 수업 필기와 비교해 출제 유형과 적중 내용을 분석한 교육 콘텐츠.",
+   "sourceUrl": "https://academy.hakwonsin.co.kr/academy/6dB68w2d/%EC%A4%91%EC%95%99K%EC%98%81%EC%96%B4-%EA%B2%BD%EC%A3%BC",
+   "activityDate": "2026-05-16",
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "블로그 글",
+   "summary": "글 머리 시각 2026. 4. 9. 14:50. 경주 용강동 중앙K영어의 토마스쌤이 본인을 밝히고, 초등 수준 단어부터 시작하던 중3 학생을 대면 상담해 중학교 기초 문법과 단어 시험부터 다시 시작했다고 서술했다. 설명은 학생 눈높이에 맞춰 반복하고, 직접 말해보고 써보고 다시 적용하는 과정을 되복하며 과제는 부담이 되지 않게 조절했다고 적었다.",
+   "sourceUrl": "https://blog.naver.com/ca_english/224246502655",
+   "activityDate": "2026-04-09",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "교육자 전문성 및 공개 글",
+   "summary": "중앙K영어 운영, 영어교육 석사, 모의고사 변형문제 출제·검수와 번역·영어회화 앱 개발 경력 및 실생활 영어 콘텐츠를 확인했다.",
+   "sourceUrl": "https://contents.premium.naver.com/ps4/ps4life/contents/251117145930621fc",
+   "activityDate": "2025-11-17",
+   "evidenceKind": "SUBJECT_EXPERTISE"
+  }
+ ],
+ "discoveryReason": "현재 지역 학교 시험을 직접 분석하고, 문맥 기반 어휘·개별 단어장·직접 제작 예상문제를 결합하는 고유한 현장 수업 구조가 확인된다.",
+ "lastResearchedAt": "2026-09-19T16:43:27.872388",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

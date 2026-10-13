@@ -1,0 +1,80 @@
+{
+ "id": 88,
+ "name": "임희재",
+ "role": "원장",
+ "academyName": "블루티쳐 영어학원",
+ "province": "경기도",
+ "cityDistrict": "구리시",
+ "activityRegion": "경기도 구리시",
+ "identitySummary": "구리시 인창동 블루티쳐 영어학원 원장. 한국외대 출신으로 중고등 수능·내신 영어를 직접 지도하며 전 교재를 직접 집필하는 영어교육자.",
+ "educationPhilosophy": "스스로 만들지 않은 교재로는 가르치지 않고 흉내가 아닌 진짜 교육을 하겠다는 2026년 선언을 공개했다. 많은 학생보다 맡겨진 학생을 잘 가르치는 데 성취를 느끼며, 없는 이야기로 홍보하지 않는다는 원칙을 밝혔다.",
+ "curriculum": "번호문장부터 해석·어구·어법·글의 전개 순서로 통일한 단권화 해설지와 1만 개 어법코드를 활용한 AI 변형문제 출제, 구문독해 중심 지도로 수업을 설계한다. 인창고·수택고·삼육고 등 학교별 적중 리포트와 변형문제를 제작해 내신과 수능을 병행 대비한다.",
+ "distinctiveTeaching": "문장 구조 단위 이해를 강조하는 구문독해 집착과 직접 집필 교재·AI 어법 문제 생성기를 결합한 1:1 맞춤 지도.",
+ "recentActivity": "2026년 9월 평가원 모의고사 1등급 30% 달성 보고, 7월 1학기 기말고사 인창고·수택고·삼육중 1등급 다수 보고 등 현재 수업 성과를 블로그에 지속 공개.",
+ "strengths": [
+  "전 교재 직접 집필과 단권화 해설지 제작",
+  "학교별 적중 리포트·변형문제 제작",
+  "2026년 현재 수업 성과 지속 공개",
+  "어법 AI 문제 생성 등 수업 연구 지속"
+ ],
+ "improvementSuggestions": [
+  "교육철학 대표 글을 온라인에 체계적으로 정리",
+  "학년별 커리큘럼 로드맵 공개"
+ ],
+ "officialChannels": {
+  "homepage": "https://btstudy.com/",
+  "blog": "https://blog.naver.com/blue_teacher_english",
+  "youtube": null,
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "학원 실적 보고",
+   "summary": "2026년 9월 평가원 모의고사 영어 1등급 30% 달성 보고",
+   "sourceUrl": "https://blog.naver.com/blue_teacher_english/224398965682",
+   "activityDate": "2026-09-02",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "학원 실적 보고",
+   "summary": "2026년 1학기 기말고사 인창고·수택고·삼육중·인창중 1등급 다수 보고",
+   "sourceUrl": "https://blog.naver.com/blue_teacher_english/224339348610",
+   "activityDate": "2026-07-07",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "자체 교재",
+   "summary": "번호문장·해석·어구·어법·글의 전개 순서로 통일한 단권화 해설지 제작 과정 공개",
+   "sourceUrl": "https://blog.naver.com/blue_teacher_english/224276657350",
+   "activityDate": "2026-05-06",
+   "evidenceKind": "MATERIAL"
+  },
+  {
+   "contentType": "시험 분석",
+   "summary": "2026년 3월 고3 모의고사 영어 난이도·등급컷·1등급 전략 분석",
+   "sourceUrl": "https://blog.naver.com/blue_teacher_english/224229184266",
+   "activityDate": "2026-03-25",
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "수업 방법",
+   "summary": "문장 구조 단위 이해 기반 삼육중·동구중 만점 전략 설명",
+   "sourceUrl": "https://blog.naver.com/blue_teacher_english/224227952257",
+   "activityDate": "2026-03-24",
+   "evidenceKind": "TEACHING_METHOD"
+  },
+  {
+   "contentType": "교육 선언",
+   "summary": "스스로 만들지 않은 교재로 가르치지 않고 진짜 교육을 하겠다는 2026년 원장 선언",
+   "sourceUrl": "https://blog.naver.com/blue_teacher_english/224192841528",
+   "activityDate": "2026-02-23",
+   "evidenceKind": "PHILOSOPHY"
+  }
+ ],
+ "discoveryReason": "Chart 전국 확장 조사 (구리). 공식 홈페이지·2026년 블로그·제3자 학원정보에서 실명·소속·지역·최근활동 확인.",
+ "lastResearchedAt": "2026-09-14T02:08:31.28645",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

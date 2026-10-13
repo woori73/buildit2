@@ -1,0 +1,32 @@
+{
+ "id": 101,
+ "name": "박은주",
+ "role": "원장",
+ "academyName": "MBC&Winclass",
+ "province": "경상남도",
+ "cityDistrict": "창원시",
+ "activityRegion": "경상남도 창원시",
+ "identitySummary": "창원시 마산회원동 MBC&Winclass 원장 (2025년 인터뷰).",
+ "educationPhilosophy": null,
+ "curriculum": "확인일 2026-09-18(KST). 인터뷰 원문에 기초영어(Phonics 6개월)·4대 영역·문법·원어민 1:1 전화영어·월 평가·수준별 Class·원서 교재 과정이 확인된다.",
+ "distinctiveTeaching": "확인일 2026-09-18(KST). 인터뷰 원문에 20여년 경력 원어민 강사의 1:1 맞춤·진로상담·중고 진학 지원과 말하기·공부 균형 지향이 확인된다.",
+ "recentActivity": "2025년 4월 언론 인터뷰 확인. 2026년 활동 근거 미확인.",
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "언론 인터뷰",
+   "summary": "글로벌 인재 성장 교육 철학 인터뷰",
+   "sourceUrl": "http://urinews.net/news/2025/04/06/22014.html",
+   "activityDate": "2025-04-06",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  }
+ ],
+ "discoveryReason": "Chart 전국 확장 조사 (창원). 2025년 언론 인터뷰에서 실명·소속·지역 확인. 2026년 활동 근거 미확인.",
+ "lastResearchedAt": "2026-09-14T02:55:02.523159",
+ "eligibilityStatus": "RESEARCH_PENDING",
+ "researchPending": true,
+ "disclaimer": "이 교육자는 아직 평가에 필요한 공개 근거가 충분히 확인되지 않았습니다(RESEARCH_PENDING). 공개적으로 확인된 사실만 표시하며, BuildIt Score나 TOP100 순위 대상이 아닙니다."
+}

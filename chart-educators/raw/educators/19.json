@@ -1,0 +1,32 @@
+{
+ "id": 19,
+ "name": "전수진",
+ "role": "원장",
+ "academyName": "절대영어학원",
+ "province": "서울특별시",
+ "cityDistrict": "동대문구",
+ "activityRegion": "서울 동대문구 장안동",
+ "identitySummary": "유웨이 수능 분석 위원 출신으로, 동대문구 장안동에서 중고등 내신 및 수능 영어 기출 분석 글을 직접 작성하고 강의하는 원장으로 확인됨.",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "글",
+   "summary": "동대부중, 청량고, 해성여고 등 동대문구 지역 학교의 영어 기출문제를 직접 분석하여 유형별 출제 비중(어법, 내용 일치 등)을 정리하고, 1:1 피드백 기반의 코칭 수업을 소개함.",
+   "sourceUrl": "https://blog.naver.com/jd___english",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "유웨이 수능 분석 위원 출신으로, 동대문구 장안동에서 중고등 내신 및 수능 영어 기출 분석 글을 직접 작성하고 강의하는 원장으로 확인됨.",
+ "lastResearchedAt": "2026-08-27T18:15:51.320238",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

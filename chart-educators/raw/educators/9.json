@@ -1,0 +1,32 @@
+{
+ "id": 9,
+ "name": "오션",
+ "role": "대표",
+ "academyName": "퍼스트영어학원",
+ "province": "서울특별시",
+ "cityDistrict": "서초구",
+ "activityRegion": "서울 서초구 방배동",
+ "identitySummary": "방배동에서 수능 영어 직강 및 서울고, 상문고, 서초고 내신 대비를 직접 지도하며, 유튜브를 통해 교육 관련 조언을 제공하는 교육자임.",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "YouTube",
+   "summary": "\"초중고 학부모님 꼭 보세요 | 카페 블로그 글 댓글의 심각성\" 유튜브 영상을 통해 학부모들에게 올바른 교육 정보 선별법을 조언하고, 서울고, 상문고, 서초고 등 방배동 인근 고교의 수능 및 내신 영어 대비 전략을 제시함.",
+   "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4uyLlMekKI0KTqMVAb_EeNr0peZjFKgKblh8_M8hjjbq3y6oPDYasu7YTjNojF5MnjqvARLbHPTtYiEYvJZNmTMA4bVw6-FNdSz5LBYBn3mD_acW24ZEItOrZgwSwFjqX",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "방배동에서 수능 영어 직강 및 서울고, 상문고, 서초고 내신 대비를 직접 지도하며, 유튜브를 통해 교육 관련 조언을 제공하는 교육자임.",
+ "lastResearchedAt": "2026-08-27T18:15:51.280926",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

@@ -1,0 +1,47 @@
+{
+ "id": 75,
+ "name": "권소정",
+ "role": "원장",
+ "academyName": "권소정 영어학원",
+ "province": "강원특별자치도",
+ "cityDistrict": "원주시",
+ "activityRegion": "강원특별자치도 원주시",
+ "identitySummary": "연세대학교 영어영문학 석·박사와 20년 이상 대학·토익·토플 강의 경험을 바탕으로 원주 무실동에서 중·고등 영어를 지도하는 원장",
+ "educationPhilosophy": "영어를 정답 암기보다 논리적으로 문제를 해결하는 과정으로 가르치며, 학생의 현재 실력을 먼저 진단한 뒤 개별 솔루션을 설계한다. 강의 전달만으로 끝내지 않고 첨삭과 관리로 사고 과정을 교정하는 데 초점을 둔다.",
+ "curriculum": "정확한 진단평가로 현재 실력을 분석한 뒤 중등부는 논리적 사고와 문제 해결 능력을 강화하고, 고등부는 내신과 수능을 통합 관리한다. 특목고·자사고 대비 과정과 조교 첨삭을 결합해 개인별 약점을 보완한다.",
+ "distinctiveTeaching": "영어영문학 연구와 대학 강의 경험을 중·고등 입시 현장에 적용해 진단→논리적 분석→맞춤 해결→첨삭 관리로 이어지는 구조를 운영한다.",
+ "recentActivity": "2026년 1월 학부모 이용 기록과 2026년 7월 원주시 지역 가맹점 등록을 통해 무실동 오프라인 학원의 현재 운영이 확인된다.",
+ "strengths": [
+  "영어영문학 석·박사 기반의 전문성",
+  "진단평가와 논리적 문제 해결 중심 수업",
+  "중·고등 내신·수능 및 특목·자사고 연계",
+  "첨삭을 통한 개별 피드백"
+ ],
+ "improvementSuggestions": [
+  "개인 명의의 수업 영상이나 실제 첨삭 사례를 공개하면 수업 방식의 검증 가능성이 더 높아진다.",
+  "최근 교육 콘텐츠를 정기적으로 공개하면 교육철학의 지속성이 더 선명해진다."
+ ],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "지자체 사업장 등록",
+   "summary": "원주시 무실동 능라동길 35 소재 권소정 영어학원이 2026년 현재 교육서비스업 학원으로 등록·운영 중임을 확인했다.",
+   "sourceUrl": "https://www.114.co.kr/life/localBillStore/detail/1145504",
+   "activityDate": "2026-07-10",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "학원 소개 및 현재 수업 정보",
+   "summary": "권소정 원장의 연세대 영어영문학 석·박사, 20년 이상 강의 경험, 진단평가·논리적 문제 해결·첨삭·중고등 내신수능 커리큘럼과 2026년 학부모 이용 기록을 확인했다.",
+   "sourceUrl": "https://learns.academy/academies/7c856226-519b-4eff-b0ae-b2d207421de3",
+   "activityDate": "2026-01-03",
+   "evidenceKind": "TEACHING_METHOD"
+  }
+ ],
+ "discoveryReason": "단순 학원 운영이 아니라 진단평가에서 논리적 문제 해결, 첨삭, 특목·자사고 및 내신·수능으로 이어지는 개인 명의의 교육 구조와 전문성이 확인됨",
+ "lastResearchedAt": "2026-08-29T01:59:49.036063",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

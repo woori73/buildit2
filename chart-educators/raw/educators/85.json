@@ -1,0 +1,61 @@
+{
+ "id": 85,
+ "name": "이수정",
+ "role": "원장",
+ "academyName": "닥터수밀크잉글리쉬어학원",
+ "province": "경기도",
+ "cityDistrict": "용인시",
+ "activityRegion": "경기도 용인시",
+ "identitySummary": "이수정 — 닥터수밀크잉글리쉬어학원 원장, IGSE 겸임교수, 용인 기흥구 보정동 오프라인 운영.",
+ "educationPhilosophy": "유창하고 창의적인 글로벌 인재를 기르는 것을 목표. 자연스럽고 편안한 영어환경 안에서 학생들이 중심되어 의미를 만들어 내고 언어를 경험하게 한다.",
+ "curriculum": "MILK(유치~초등저: 파닉스·스토리읽기·트로피나인·말하기·글쓰기·기초문법·토플프라이머리·융합영어). LIME(초등고~중등: 픽션·논픽션·토플주니어·중등문법·고등문법·수능·독해·어휘·글쓰기·말하기·프레젠테이션·융합영어). 특별: 영어글쓰기·영어뮤지컬·개인코칭.",
+ "distinctiveTeaching": "놀이·연극·미술·움직임 등 예술활동과 창의 프로젝트 기반 학습(PBL). 원어민 토론·프로젝트로 쓰기·말하기 훈련.",
+ "recentActivity": "2026-07-09 여름특강·07-14 가을학기 설명회·07-24 파닉스 체험수업 게시.",
+ "strengths": [
+  "MILK/LIME 자가 프로그램",
+  "IGSE 겸임교수·조기영어교육 전문가"
+ ],
+ "improvementSuggestions": [],
+ "officialChannels": {
+  "homepage": "https://www.milkenglish.com/",
+  "blog": "https://blog.naver.com/coolsu71",
+  "youtube": null,
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "공식 블로그 게시물",
+   "summary": "공식 블로그 — 2026-07-09 여름특강·07-14 가을설명회·07-24 체험수업 게시 (개별 포스트 URL은 RSS 미러 경유 확인)",
+   "sourceUrl": "https://blog.naver.com/coolsu71",
+   "activityDate": "2026-07-24",
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "오프라인 수업",
+   "summary": "용인 기흥구 죽현로 35 오프라인 교육센터 (교육청등록 제4203-1호)",
+   "sourceUrl": "https://www.milkenglish.com/",
+   "activityDate": null,
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "교육철학 소개",
+   "summary": "2009년 설립·NYC ESL 반영·학생 중심 의미 만들기 교육관",
+   "sourceUrl": "https://www.milkenglish.com/milk-english-education-center",
+   "activityDate": null,
+   "evidenceKind": "PHILOSOPHY"
+  },
+  {
+   "contentType": "커리큘럼 소개",
+   "summary": "MILK/LIME 프로그램 체계 (연령별 커리큘럼 상세)",
+   "sourceUrl": "https://www.milkenglish.com/program",
+   "activityDate": null,
+   "evidenceKind": "CURRICULUM"
+  }
+ ],
+ "discoveryReason": "Chart 전국 확장 조사 (용인). 공식 홈페이지·2026-07 블로그·교육청 공공데이터 기반 제3자 학원정보에서 실명·소속·지역·최근활동 확인.",
+ "lastResearchedAt": "2026-09-10T19:58:17.734199",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

@@ -1,0 +1,66 @@
+{
+ "id": 72,
+ "name": "김유현",
+ "role": "원장",
+ "academyName": "지인학원",
+ "province": "대전광역시",
+ "cityDistrict": "유성구",
+ "activityRegion": "대전광역시 유성구",
+ "identitySummary": "대전 유성구 장대동에서 초·중·고 영어를 개별화해 지도하고 AI 기반 독해·작문 및 월간 진단 시스템을 직접 개발·운영하는 원장.",
+ "educationPhilosophy": "같은 교재와 숙제를 일괄 제공하기보다 학생마다 다른 이해 속도와 취약점을 반영한 개별 학습을 지향한다. 영어를 암기 과목으로 다루지 않고 학생이 직접 읽고 생각하고 말하고 쓰면서 자신감과 공부 습관까지 함께 성장하도록 한다.",
+ "curriculum": "설명과 학생 수행을 약 4:6으로 구성하고, 직접 읽기·말하기·쓰기·문제 해결을 중심으로 수업한다. 수업 후 이해도와 취약점을 확인해 학생별 복습자료와 숙제에 반영하며, 자체 ECHO 월간 테스트로 어휘·문법·독해·서술형 단계를 진단하고 구체적인 다음 훈련을 제시한다.",
+ "distinctiveTeaching": "교사 설명보다 학생 수행을 더 크게 배치하고, 개별 수업 기록을 자체 AI 독해·작문 및 월간 성취 리포트와 연결하는 사용자 반응형 영어교육 구조.",
+ "recentActivity": "2026년 6~8월 여름학기 모집, 유성고 내신 자료, 영자신문 읽기, ECHO 월간 테스트 결과가 공개되어 현재 학원 운영과 교육 콘텐츠 활동이 확인됨.",
+ "strengths": [
+  "학생별 이해 속도와 취약점을 복습자료와 숙제에 반영한다.",
+  "설명보다 학생이 직접 읽고 말하고 쓰는 수행 시간을 더 크게 둔다.",
+  "자체 AI 독해·작문 프로그램과 단계별 월간 진단을 실제 수업에 연결한다.",
+  "진단 결과마다 구체적인 다음 훈련을 제시한다."
+ ],
+ "improvementSuggestions": [
+  "AI 진단 결과가 실제 수업 개입과 장기 성장으로 연결된 사례를 익명으로 축적하면 검증력이 더 높아진다.",
+  "학생 수행 60%를 구성하는 활동별 평가 기준을 공개하면 교육 방법을 더 명확히 이해할 수 있다."
+ ],
+ "officialChannels": {
+  "homepage": "https://www.ginedu.com/",
+  "blog": "https://m.blog.naver.com/dreamworld103",
+  "youtube": null,
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "공식 교육 시스템 홈페이지",
+   "summary": "대표 김유현과 2026년 8월 ECHO 리포트 운영, 자체 영어 진단·문항·피드백 시스템의 현재 활동을 확인.",
+   "sourceUrl": "https://www.ginedu.com/",
+   "activityDate": "2026-08-01",
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "학원 최근 활동·수업 소개",
+   "summary": "2026년 여름학기 모집과 유성고 내신 자료, 원장 개별 멘토링 및 강의식·개별지도식 병행 운영을 확인.",
+   "sourceUrl": "https://academy.hakwonsin.co.kr/academy/kazp3XYd/%EC%A7%80%EC%9D%B8%ED%95%99%EC%9B%90",
+   "activityDate": "2026-07-06",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "교육자 인터뷰",
+   "summary": "개별화 교육철학, 읽고·생각하고·말하고·쓰는 학생 수행 중심 수업, 수업 후 취약점 분석과 복습자료 반영 방식을 원장이 직접 설명.",
+   "sourceUrl": "https://www.ginedu.com/teacher/partners/academy-daejeon-jiin.html",
+   "activityDate": "2026-07-06",
+   "evidenceKind": "PHILOSOPHY"
+  },
+  {
+   "contentType": "공식 월간 학습 리포트",
+   "summary": "지인학원 재원생의 어휘·문법·독해·서술형 단계와 다음 훈련을 구체적으로 진단하는 자체 월간 평가·피드백 구조를 확인.",
+   "sourceUrl": "https://www.ginedu.com/teacher/monthly-test.html",
+   "activityDate": "2026-07-05",
+   "evidenceKind": "STUDENT_GUIDANCE"
+  }
+ ],
+ "discoveryReason": "학생 수행 비중을 높이고 이해 여부를 수업 후 데이터로 확인해 복습자료와 숙제에 반영하며, 자체 AI 독해·작문 프로그램과 단계별 월간 리포트까지 교육 현장에 연결한 개인의 설계 역량이 확인됨.",
+ "lastResearchedAt": "2026-08-29T01:45:50.811612",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

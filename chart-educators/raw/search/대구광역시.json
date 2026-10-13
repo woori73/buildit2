@@ -1,0 +1,52 @@
+{
+ "province": "대구광역시",
+ "expected": 3,
+ "returned": 3,
+ "content": [
+  {
+   "id": 70,
+   "name": "이광헌",
+   "role": "원장",
+   "academyName": "시습영어학원",
+   "province": "대구광역시",
+   "cityDistrict": "수성구",
+   "activityRegion": "대구광역시 수성구",
+   "identitySummary": "대구 수성동에서 중·고등 영어 내신과 수능을 원장 직강·개별 관리 방식으로 지도하는 시습영어학원 대표.",
+   "educationPhilosophy": "단순 암기나 강의 수강에 머물지 않고 학생이 영어를 스스로 분석하고 적용하는 힘을 갖추게 하는 것을 목표로 한다. 학생마다 학습 과정 전체를 살펴 부족한 부분을 개별 피드백과 보충으로 책임 관리한다.",
+   "eligibilityStatus": "EVALUATABLE",
+   "researchPending": false,
+   "profileImageUrl": null,
+   "lastResearchedAt": "2026-08-29T01:39:16.900516"
+  },
+  {
+   "id": 69,
+   "name": "남보민",
+   "role": "원장",
+   "academyName": "썬키즈리딩",
+   "province": "대구광역시",
+   "cityDistrict": "동구",
+   "activityRegion": "대구광역시 동구",
+   "identitySummary": "영어교육 석사·정교사 자격과 20년 현장 경험을 바탕으로 신암동에서 초등 중심 다청다독 영어공부방을 직접 운영하는 원장.",
+   "educationPhilosophy": "영어를 시험 과목보다 살아 있는 언어로 습득하게 하고, 학습 속도가 느린 아이도 흥미와 자신감을 잃지 않도록 하는 것을 우선한다. 획일적 진도나 단기 점수보다 충분한 소리·원서 노출과 자발적 몰입을 통해 장기적인 영어 자산을 쌓는 방향을 택한다.",
+   "eligibilityStatus": "EVALUATABLE",
+   "researchPending": false,
+   "profileImageUrl": null,
+   "lastResearchedAt": "2026-08-29T01:34:06.198744"
+  },
+  {
+   "id": 68,
+   "name": "정효실",
+   "role": "원장",
+   "academyName": "STC 입시영어학원 대구칠곡센터",
+   "province": "대구광역시",
+   "cityDistrict": "북구",
+   "activityRegion": "대구광역시 북구",
+   "identitySummary": "대구 북구 동천동에서 12년 이상의 입시영어 경험을 바탕으로 학생별 영역·속도 진단, 자기분석형 내신 피드백과 공부 습관 지도를 결합하는 원장.",
+   "educationPhilosophy": "정효실 원장은 영어 성적 향상 자체를 넘어 영어에서 얻은 성취감이 학생의 꿈을 만들고 키우도록 돕는 것을 보람으로 설명한다. 입시 과정에서 누구도 포기와 좌절에 머물지 않도록 공부 방법과 습관, 끝까지 해내는 힘을 함께 길러야 한다고 강조한다.",
+   "eligibilityStatus": "EVALUATABLE",
+   "researchPending": false,
+   "profileImageUrl": null,
+   "lastResearchedAt": "2026-08-28T16:56:20.256046"
+  }
+ ]
+}

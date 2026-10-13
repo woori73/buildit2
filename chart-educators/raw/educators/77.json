@@ -1,0 +1,39 @@
+{
+ "id": 77,
+ "name": "채은숙",
+ "role": "원장",
+ "academyName": "김앤채 영어교습소",
+ "province": "경상북도",
+ "cityDistrict": "고령군",
+ "activityRegion": "경상북도 고령군",
+ "identitySummary": "고령군 공식 청년창업 지원 기록에서 김앤채 영어교습소 대표자로 확인되며, 2026년 고령사랑상품권 가맹점 현황에서 교육서비스업 운영이 확인되는 영어교습소 책임 교육자.",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": "고령군이 공개한 2026년 6월 30일 기준 가맹점 목록에 김앤채 영어교습소가 교육서비스업으로 등재되어 현재 지역 오프라인 운영 근거가 확인된다.",
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "지자체 공식 현재 운영 목록",
+   "summary": "2026년 6월 30일 기준 고령사랑상품권 가맹점 목록에서 김앤채 영어교습소가 고령군 대가야읍의 교육서비스업으로 확인된다.",
+   "sourceUrl": "https://www.goryeong.go.kr/kor/contents.do?IDX=394",
+   "activityDate": "2026-06-30",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "지자체 공식 사업 기록",
+   "summary": "고령군 청년 창업공간 리모델링 지원내역에서 김앤채 영어교습소 대표자가 채은숙이며 교습소를 운영한 사실이 확인된다.",
+   "sourceUrl": "https://council.goryeong.go.kr/record/appendixDownload.do?key=dc4033f72937284730e86b2bafcb85888511d809afd96893d8235e7dd4e8bae815fc2c0fdccc0409",
+   "activityDate": "2024-01-01",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  }
+ ],
+ "discoveryReason": "지역의 독립 영어교습소를 직접 운영하는 실명 책임 교육자이며 현재 운영 근거가 확인된다. 다만 교육철학과 실제 수업 구조의 공개 근거는 부족해 후속 보강 대상으로 보존한다.",
+ "lastResearchedAt": "2026-08-29T08:50:30.745954",
+ "eligibilityStatus": "RESEARCH_PENDING",
+ "researchPending": true,
+ "disclaimer": "이 교육자는 아직 평가에 필요한 공개 근거가 충분히 확인되지 않았습니다(RESEARCH_PENDING). 공개적으로 확인된 사실만 표시하며, BuildIt Score나 TOP100 순위 대상이 아닙니다."
+}

@@ -1,0 +1,22 @@
+{
+ "province": "인천광역시",
+ "expected": 1,
+ "returned": 1,
+ "content": [
+  {
+   "id": 116,
+   "name": "김서애",
+   "role": "원장",
+   "academyName": "제이+ 영어교습소",
+   "province": "인천광역시",
+   "cityDistrict": "부평구",
+   "activityRegion": "인천광역시 부평구",
+   "identitySummary": "부평구 산곡동에서 고등영어 소그룹 교습소 제이+ 를 6년째 혼자 운영 중인 원장 김서애. 2026년 7월 공지 본문 첫머리에 제이 김서애입니다 로 본인 실명을 밝히고 있으며 블로그 이름 자체가 제이 김서애 다.",
+   "educationPhilosophy": "배우고자 하는 아이를 가르치는 것이 학원이지 잘하는 아이만 받는 것이 무슨 학원이냐는 질문에서 출발한다. 그래서 레벨테스트를 보지 않는다. 고등 과정은 대학을 가기 위한 하나의 코스가 아니라 어려웠지만 노력한 경험, 무언가를 이뤄낸 경험을 쌓는 일이라고 본다. 사업가보다는 수업하는 사람답게, 원장보다는 강사답게 학생이 세운 계획을 스스로 지키도록 돕는 것을 운영 원칙으로 삼는다.",
+   "eligibilityStatus": "EVALUATABLE",
+   "researchPending": false,
+   "profileImageUrl": null,
+   "lastResearchedAt": "2026-09-19T15:52:09.949767"
+  }
+ ]
+}

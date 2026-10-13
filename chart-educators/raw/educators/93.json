@@ -1,0 +1,44 @@
+{
+ "id": 93,
+ "name": "백준호",
+ "role": "원장",
+ "academyName": "백준호영어전문학원",
+ "province": "경기도",
+ "cityDistrict": "하남시",
+ "activityRegion": "경기도 하남시",
+ "identitySummary": "하남시 망월동 백준호영어전문학원 원장. Georgetown 언어학 전공, 대치·강남 15년 경력으로 중고등 내신·수능을 원장 직강하는 영어교육자.",
+ "educationPhilosophy": null,
+ "curriculum": "확인일 2026-09-18(KST). 학원소개 원문에 중등영어·중등 심화·고등영어 과정(교육청 등록)과 하남고·미사고·강변고 등 대상이 확인된다.",
+ "distinctiveTeaching": "확인일 2026-09-18(KST). 원장 본인 명의 소개에 15년 입시학원 강의 경력·Georgetown 언어학 전공·전 수업 원장직강이 명시되어 있다.",
+ "recentActivity": "블로그 최신 글이 2025년 5월이며 2026년 일자 공개 활동 근거는 확인되지 않았다. 학원 정보 페이지는 2026년 2월 갱신 표기.",
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": {
+  "homepage": null,
+  "blog": "https://blog.naver.com/junho9966",
+  "youtube": null,
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "시험 대비 안내",
+   "summary": "2025년 2학기 중간고사 대비반 모집과 하남고 분석",
+   "sourceUrl": "https://blog.naver.com/junho9966/223865236379",
+   "activityDate": "2025-05-14",
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "학원 소개",
+   "summary": "미사강변대로226번길 14, Georgetown 언어학·대치 15년·원장직강 소개",
+   "sourceUrl": "https://academy.prompie.com/academies/detail/ydeos6e/%EB%B0%B1%EC%A4%80%ED%98%B8%EC%98%81%EC%96%B4%EC%A0%84%EB%AC%B8%ED%95%99%EC%9B%90/",
+   "activityDate": null,
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  }
+ ],
+ "discoveryReason": "Chart 전국 확장 조사 (하남). 학원 소개·블로그에서 실명·소속·지역 확인. 2026년 활동 근거 미확인.",
+ "lastResearchedAt": "2026-09-14T02:28:04.983159",
+ "eligibilityStatus": "RESEARCH_PENDING",
+ "researchPending": true,
+ "disclaimer": "이 교육자는 아직 평가에 필요한 공개 근거가 충분히 확인되지 않았습니다(RESEARCH_PENDING). 공개적으로 확인된 사실만 표시하며, BuildIt Score나 TOP100 순위 대상이 아닙니다."
+}

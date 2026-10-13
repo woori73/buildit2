@@ -1,0 +1,65 @@
+{
+ "id": 54,
+ "name": "안자연",
+ "role": "원장",
+ "academyName": "차일드유 남천어학원",
+ "province": "부산광역시",
+ "cityDistrict": "수영구",
+ "activityRegion": "부산광역시 수영구",
+ "identitySummary": "부산 수영구 남천동 차일드유 남천어학원(구 남천ESL어학원)의 안자연 원장으로, 초·중·고 영어교육을 운영하는 교육자.",
+ "educationPhilosophy": "영어를 단순한 시험 과목이 아니라 학교 학습과 세계 소통을 가능하게 하는 언어로 가르쳐야 한다고 설명한다. 언어 환경과 문화 이해를 함께 바꾸어야 실제 영어 사용 능력이 자란다는 관점을 수업 설계에 반영한다.",
+ "curriculum": "초등 과정은 미국 공교육 프로그램을 바탕으로 다독 코칭과 원서 수업을 진행한 뒤 디베이팅과 발표로 산출 활동을 연결한다. 중·고등 과정은 어법·영작과 내신·수능을 균형 있게 다루고, 레벨에 따라 한국인·원어민·교포 강사의 비중을 달리하며 온라인 미국학교 과정과 공인시험 과정도 지원한다.",
+ "distinctiveTeaching": "미국 교과 기반 입력을 원서 다독·토론·발표로 이어가고, 국내 내신·수능과 언어 사용 환경을 병행하는 이중 구조가 특징이다.",
+ "recentActivity": "2026년 학원 정보와 2026-05·07 강사 소개 게시물, 현재 운영시간·수업 정보가 공개되어 남천동 오프라인 운영의 현재성을 확인했다.",
+ "strengths": [
+  "언어 습득과 문화 이해를 연결한 철학이 분명하다.",
+  "원서 읽기 이후 토론·발표로 이어지는 산출 구조가 구체적이다.",
+  "초등 언어교육과 중고등 내신·수능을 분리하면서 연결한다."
+ ],
+ "improvementSuggestions": [
+  "학원 자체 소개 외 실제 수업 자료와 학생 산출물 사례를 더 공개하면 교육 효과를 검증하기 쉽다.",
+  "레벨 진단과 단계 이동 기준을 구체적으로 공개하면 커리큘럼의 재현성이 높아진다."
+ ],
+ "officialChannels": {
+  "homepage": null,
+  "blog": null,
+  "youtube": null,
+  "social": "https://www.instagram.com/namcheonesl/"
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "교육청 공공데이터 기반 학원·수업 정보",
+   "summary": "2026년 부산 수영구 남천동 오프라인 운영과 초·중·고 대상, 미국 공교육 프로그램·다독·원서·디베이팅·발표 및 중고등 어법·영작 수업 구조를 확인한다.",
+   "sourceUrl": "https://classup.io/academies/9581178e-277b-4098-ad13-c35b85cdec6a",
+   "activityDate": "2026-08-14",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "학원 소식·교육 콘텐츠 집계 페이지",
+   "summary": "2026-05-19 초등부 강사 소개와 2026-07-08 원어민 강사 소개, 미국 교과 기반 원서 다독·토론·발표 프로그램을 확인한다.",
+   "sourceUrl": "https://academy.hakwonsin.co.kr/academy/0dNxkD2a/%EC%B0%A8%EC%9D%BC%EB%93%9C%EC%9C%A0-%EB%82%A8%EC%B2%9CESL%EC%96%B4%ED%95%99%EC%9B%90",
+   "activityDate": "2026-07-08",
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "홍보성 인터뷰/학원 소개 기사",
+   "summary": "안자연 원장과 미국 정통 교과서를 활용해 영어를 언어로 배우게 하는 운영 방향을 소개한다.",
+   "sourceUrl": "https://www.youthassembly.kr/news/781089",
+   "activityDate": "2024-06-14",
+   "evidenceKind": "PRESS_RELEASE"
+  },
+  {
+   "contentType": "홍보성 인터뷰/학원 소개 기사",
+   "summary": "안자연 원장의 개인 정체성과 영어를 학교 학습·의사소통의 기반으로 가르친다는 철학을 소개한다.",
+   "sourceUrl": "https://www.cosmiannews.com/news/262469",
+   "activityDate": "2023-12-19",
+   "evidenceKind": "PRESS_RELEASE"
+  }
+ ],
+ "discoveryReason": "영어를 시험 점수에 한정하지 않고 학업과 의사소통을 위한 실제 언어로 익히게 한다는 철학, 미국 공교육 프로그램과 원서 다독·디베이팅·발표를 결합한 구조가 확인된다.",
+ "lastResearchedAt": "2026-08-28T16:19:32.961273",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

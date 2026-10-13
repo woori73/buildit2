@@ -1,0 +1,39 @@
+{
+ "id": 29,
+ "name": "전종삼",
+ "role": "원장",
+ "academyName": "JS뉴욕어학원",
+ "province": "서울특별시",
+ "cityDistrict": "노원구",
+ "activityRegion": "서울 노원구 중계동",
+ "identitySummary": "노원구 중계동에서 중학교별 시험유형 분석과 대책을 제시하며, 영문법 특강 및 토요 코칭수업을 통해 학생별 맞춤 관리를 직접 진행하는 지역 영어 교육자입니다.",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "언론 인터뷰(원장 직접 발언·저서 확인)",
+   "summary": "확인일 2026-09-18(KST). 헤럴드경제 원문에서 JS뉴욕어학원 전종삼 원장의 학력(뉴욕주립대 영어교육학 석사)·TESOL·TEPS 교재 저서·직접 강의 및 학생관리를 확인했다. 기존 레코드 전종삼/원장/JS뉴욕어학원(중계동)과 일치. 평가 연결: 수업·교육 실천 및 전문성.",
+   "sourceUrl": "https://biz.heraldcorp.com/article/1289606",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "글",
+   "summary": "불암중 등 근처 중학교별 시험유형 분석과 대책을 제시하고, 영문법 특강 및 토요 코칭수업을 통해 학생별 맞춤 관리를 진행합니다.",
+   "sourceUrl": "https://blog.naver.com/bell325/224262861822",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "노원구 중계동에서 중학교별 시험유형 분석과 대책을 제시하며, 영문법 특강 및 토요 코칭수업을 통해 학생별 맞춤 관리를 직접 진행하는 지역 영어 교육자입니다.",
+ "lastResearchedAt": "2026-09-18T02:25:36.753449",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

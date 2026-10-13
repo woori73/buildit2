@@ -1,0 +1,39 @@
+{
+ "id": 20,
+ "name": "민정빈",
+ "role": "원장",
+ "academyName": "JBM영어학원",
+ "province": "서울특별시",
+ "cityDistrict": "성북구",
+ "activityRegion": "서울 성북구 아리랑로",
+ "identitySummary": "성북구에서 직접 학생들을 지도하며 영어를 통한 성장과 자존감 회복을 돕는 교육자로서 인터뷰를 통해 발굴되었습니다.",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "언론 인터뷰(원장 직접 발언)",
+   "summary": "확인일 2026-09-18(KST). 유스연합 원문 인터뷰에서 아리랑로 JBM영어학원 민정빈 원장이 맞춤형 수업·교육 철학·통번역 대회 성과·문법책 제작 계획을 직접 발언했다. 기존 레코드 민정빈/원장/JBM영어학원(아리랑로)과 일치. 평가 연결: 수업·교육 실천 및 전문성.",
+   "sourceUrl": "https://www.youthassembly.kr/news/838975",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "글",
+   "summary": "단순히 문제풀이에 집중하는 기존 방식에서 벗어나 아이들이 스스로 영어를 즐기고 삶에 연결시키도록 이끄는 교육 철학을 소개하는 인터뷰 기사입니다 [4.1.2].",
+   "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN9boZ6tHhhjEcZH_27pHdFFqi-TxerbqtA3I_iraCaB1vTXQUqiqFoeRTtdMeqjhB3VMZvY5CFus_PEKiQXh2I3b0N9dVe2XykawDoMUP7A==",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "성북구에서 직접 학생들을 지도하며 영어를 통한 성장과 자존감 회복을 돕는 교육자로서 인터뷰를 통해 발굴되었습니다.",
+ "lastResearchedAt": "2026-09-18T02:19:32.340389",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

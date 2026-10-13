@@ -1,0 +1,39 @@
+{
+ "id": 34,
+ "name": "황수미",
+ "role": "원장",
+ "academyName": "영어 잡는 영잡",
+ "province": "서울특별시",
+ "cityDistrict": "양천구",
+ "activityRegion": "서울 양천구 신월동",
+ "identitySummary": "양천구 신월동에서 소규모 공부방으로 시작해 독자적인 영어 학습 시스템과 브랜딩을 구축하고 직접 학생들을 지도하는 원장임.",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "언론 인터뷰(원장 직접 발언)",
+   "summary": "확인일 2026-09-18(KST). 창업뉴스 원문 인터뷰에서 신월동 영어 잡는 영잡 황수미 원장이 20년 지도 경력·5문장 암기 시스템·사고력 수업을 직접 발언했다. 기존 레코드 황수미/원장/영어 잡는 영잡(신월동)과 일치. 평가 연결: 수업·교육 실천 및 전문성.",
+   "sourceUrl": "https://www.changupnews.kr/news/911791",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "글",
+   "summary": "'5문장 암기 시스템'과 자체 제작한 Daily Syntax 분석 노트를 통해 학생들의 영어 학습 습관과 사고력을 기르고, 데이터 기반으로 출결 및 학습을 관리함.",
+   "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCfC2xewQTjUyQr9iwszJ70HbluY_GuP1nCmOroHuNvcFivRqPnKvXMCMWF3rxNn3wU8xlaVcwaCrC8N2YKXgpVifqe-Yi-1qw2Eav4VVJuIwz7FjWGz0bUXk=",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "양천구 신월동에서 소규모 공부방으로 시작해 독자적인 영어 학습 시스템과 브랜딩을 구축하고 직접 학생들을 지도하는 원장임.",
+ "lastResearchedAt": "2026-09-18T02:34:17.279349",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

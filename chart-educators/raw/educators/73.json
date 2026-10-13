@@ -1,0 +1,59 @@
+{
+ "id": 73,
+ "name": "임유선",
+ "role": "원장",
+ "academyName": "에모리잉글리시",
+ "province": "강원특별자치도",
+ "cityDistrict": "춘천시",
+ "activityRegion": "강원특별자치도 춘천시",
+ "identitySummary": "춘천 퇴계동에서 IB 철학을 기반으로 유아·초등 원서와 프로젝트 영어를 직접 설계·운영하는 원장.",
+ "educationPhilosophy": "영어는 점수를 얻는 기술보다 가치 있는 생각을 표현하는 언어여야 하며, 아이가 교육에 끌려가는 대상이 아니라 스스로 질문하고 변화를 만드는 주체가 되어야 한다고 본다. 정답과 경쟁보다 사고의 깊이, 성장 과정, 실수를 허용하는 태도를 중시한다.",
+ "curriculum": "한글 문해가 준비되면 파닉스와 사이트워드로 읽기 유창성을 만들고, IB 프로젝트에서 아이가 재료를 선택해 2주·4회차 동안 학습 결과물을 제작한 뒤 부모에게 영어로 가르치고 발표한다. 원서 수업에는 원장이 직접 만든 IB 워크시트와 워크북을 사용하며 질문·탐구·토론·표현 활동으로 연결한다.",
+ "distinctiveTeaching": "파닉스와 원서 리딩을 학생 주도 IB 탐구 프로젝트 및 가족 대상 영어 발표로 확장하고, 자체 워크시트로 사고와 표현을 함께 훈련하는 구조.",
+ "recentActivity": "2025년 12월 현장 인터뷰 이후 2026년 현재 춘천시 가맹점과 지역 학원 목록에서 퇴계동 오프라인 영어 공부방 운영이 계속 확인됨.",
+ "strengths": [
+  "IB의 질문·탐구·토론 철학을 초등 영어 수업에 구체적으로 적용한다.",
+  "파닉스 학습을 결과물 제작과 부모 대상 발표 프로젝트로 확장한다.",
+  "직접 제작한 IB 워크시트와 원서 워크북을 사용한다.",
+  "정답과 점수보다 생각의 깊이와 표현의 가치를 강조한다."
+ ],
+ "improvementSuggestions": [
+  "공식 채널에 프로젝트별 학생 질문과 성장 과정을 익명으로 축적하면 교육 효과를 더 구체적으로 보여줄 수 있다.",
+  "파닉스 이후 원서·토론·쓰기 단계로 이어지는 장기 로드맵을 공개하면 학부모의 이해가 높아진다."
+ ],
+ "officialChannels": {
+  "homepage": null,
+  "blog": "https://blog.naver.com/emory_english",
+  "youtube": null,
+  "social": "https://www.instagram.com/emory.english.room"
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "지자체 현재 사업장 정보",
+   "summary": "2026년 현재 강원특별자치도 춘천시 퇴계동 주소에서 에모리잉글리시 오프라인 사업장 운영이 등록되어 있음을 확인.",
+   "sourceUrl": "https://ccgc.chuncheon.go.kr/site/franchise/search_list.do?pageIndex=128",
+   "activityDate": "2026-08-22",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "지역 학원 프로그램 정보",
+   "summary": "유아 놀이영어와 초등 원서 프로젝트 수업을 제공하는 현재 지역 영어 교육기관으로 확인.",
+   "sourceUrl": "https://learns.academy/academies?categoryIds=eb534a9c-bce7-2e12-a77b-6f793a26b0bc&geotagIds=94a316fa-afa1-4601-b4b8-86c2e1664ced",
+   "activityDate": "2026-07-29",
+   "evidenceKind": "CURRICULUM"
+  },
+  {
+   "contentType": "교육자 현장 인터뷰",
+   "summary": "영어로 가치 있는 생각을 표현하게 한다는 철학, 학생 주도 질문·탐구, 2주 4회 파닉스 IB 프로젝트, 부모 발표, 자체 워크시트·원서 워크북 사용을 확인.",
+   "sourceUrl": "https://www.youthassembly.kr/news/904880",
+   "activityDate": "2025-12-21",
+   "evidenceKind": "PHILOSOPHY"
+  }
+ ],
+ "discoveryReason": "파닉스와 리딩을 단순 반복에 그치지 않고 질문·탐구·토론·가족 발표 프로젝트로 확장하며, 직접 제작한 IB 워크시트와 원서 워크북을 사용하는 작은 공부방 교육자로 확인됨.",
+ "lastResearchedAt": "2026-08-29T01:47:51.328096",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

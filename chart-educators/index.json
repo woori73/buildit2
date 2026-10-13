@@ -1,0 +1,938 @@
+{
+ "75": {
+  "name": "권소정",
+  "academyName": "권소정 영어학원",
+  "region": "강원특별자치도 원주시",
+  "overallRank": 33,
+  "score": 68,
+  "researchPending": false
+ },
+ "74": {
+  "name": "박윤지",
+  "academyName": "알파인영어학원",
+  "region": "강원특별자치도 강릉시",
+  "overallRank": 35,
+  "score": 66,
+  "researchPending": false
+ },
+ "73": {
+  "name": "임유선",
+  "academyName": "에모리잉글리시",
+  "region": "강원특별자치도 춘천시",
+  "overallRank": 32,
+  "score": 68,
+  "researchPending": false
+ },
+ "94": {
+  "name": "장한",
+  "academyName": "ITC영어 하남미사점",
+  "region": "경기도 하남시",
+  "overallRank": 34,
+  "score": 67,
+  "researchPending": false
+ },
+ "96": {
+  "name": "홍세미",
+  "academyName": "HLS어학원",
+  "region": "경기도 성남시 중원구",
+  "overallRank": 40,
+  "score": 65,
+  "researchPending": false
+ },
+ "91": {
+  "name": "신희진",
+  "academyName": "과천보듬교육학원",
+  "region": "경기도 과천시",
+  "overallRank": 39,
+  "score": 65,
+  "researchPending": false
+ },
+ "93": {
+  "name": "백준호",
+  "academyName": "백준호영어전문학원",
+  "region": "경기도 하남시",
+  "overallRank": null,
+  "score": null,
+  "researchPending": true
+ },
+ "97": {
+  "name": "신승철",
+  "academyName": "일탄영어학원",
+  "region": "경기도 성남시 수정구",
+  "overallRank": 6,
+  "score": 84,
+  "researchPending": false
+ },
+ "95": {
+  "name": "정소연",
+  "academyName": "정소연 영어학원",
+  "region": "경기도 성남시 중원구",
+  "overallRank": 5,
+  "score": 84,
+  "researchPending": false
+ },
+ "92": {
+  "name": "현미정",
+  "academyName": "플에이스영어 감일학원",
+  "region": "경기도 하남시",
+  "overallRank": 4,
+  "score": 84,
+  "researchPending": false
+ },
+ "90": {
+  "name": "조인아",
+  "academyName": "인아영어학원",
+  "region": "경기도 과천시",
+  "overallRank": null,
+  "score": null,
+  "researchPending": true
+ },
+ "89": {
+  "name": "송노경",
+  "academyName": "에이미영어수학학원",
+  "region": "경기도 구리시",
+  "overallRank": 1,
+  "score": 95,
+  "researchPending": false
+ },
+ "88": {
+  "name": "임희재",
+  "academyName": "블루티쳐 영어학원",
+  "region": "경기도 구리시",
+  "overallRank": 3,
+  "score": 89,
+  "researchPending": false
+ },
+ "85": {
+  "name": "이수정",
+  "academyName": "닥터수밀크잉글리쉬어학원",
+  "region": "경기도 용인시",
+  "overallRank": 37,
+  "score": 65,
+  "researchPending": false
+ },
+ "5": {
+  "name": "Anny",
+  "academyName": "링키영어 틴즈 수내3동 푸른마을점",
+  "region": "경기도 성남시 분당구",
+  "overallRank": 56,
+  "score": 47,
+  "researchPending": false
+ },
+ "4": {
+  "name": "Violet",
+  "academyName": "VEL영어학원",
+  "region": "경기도 성남시 분당구",
+  "overallRank": 59,
+  "score": 42,
+  "researchPending": false
+ },
+ "3": {
+  "name": "김성수",
+  "academyName": "클랭에듀러닝센터",
+  "region": "경기도 성남시 분당구",
+  "overallRank": 51,
+  "score": 56,
+  "researchPending": false
+ },
+ "2": {
+  "name": "조민정",
+  "academyName": "원파인데이학원",
+  "region": "경기도 성남시 분당구",
+  "overallRank": 50,
+  "score": 56,
+  "researchPending": false
+ },
+ "1": {
+  "name": "재클린",
+  "academyName": "이음영어 분당점",
+  "region": "경기도 성남시 분당구",
+  "overallRank": 53,
+  "score": 49,
+  "researchPending": false
+ },
+ "99": {
+  "name": "손성하",
+  "academyName": "샤인영어교습소",
+  "region": "경상남도 창원시",
+  "overallRank": 21,
+  "score": 75,
+  "researchPending": false
+ },
+ "117": {
+  "name": "김지환",
+  "academyName": "에이닷영어학원 양산지점",
+  "region": "경상남도 양산시",
+  "overallRank": 52,
+  "score": 56,
+  "researchPending": false
+ },
+ "115": {
+  "name": "박송미",
+  "academyName": "리드앤톡 영어학원 밀양삼문센터",
+  "region": "경상남도 밀양시",
+  "overallRank": 42,
+  "score": 63,
+  "researchPending": false
+ },
+ "114": {
+  "name": "백승일",
+  "academyName": "조슈아영어 통영학원",
+  "region": "경상남도 통영시",
+  "overallRank": 57,
+  "score": 44,
+  "researchPending": false
+ },
+ "113": {
+  "name": "남경채",
+  "academyName": "이지스어학원",
+  "region": "경상남도 양산시",
+  "overallRank": 47,
+  "score": 61,
+  "researchPending": false
+ },
+ "112": {
+  "name": "윤혜은",
+  "academyName": "윤혜은영어학원",
+  "region": "경상남도 양산시",
+  "overallRank": 46,
+  "score": 61,
+  "researchPending": false
+ },
+ "111": {
+  "name": "이상민",
+  "academyName": "솔민학원",
+  "region": "경상남도 함안군",
+  "overallRank": 55,
+  "score": 49,
+  "researchPending": false
+ },
+ "110": {
+  "name": "조유진",
+  "academyName": "리딩온어학원",
+  "region": "경상남도 진주시",
+  "overallRank": 49,
+  "score": 58,
+  "researchPending": false
+ },
+ "100": {
+  "name": "강수민",
+  "academyName": "링키영어 대원포레나점",
+  "region": "경상남도 창원시",
+  "overallRank": 45,
+  "score": 61,
+  "researchPending": false
+ },
+ "109": {
+  "name": "최정윤",
+  "academyName": "KJC 국제어학당삼계학원",
+  "region": "경상남도 김해시",
+  "overallRank": null,
+  "score": null,
+  "researchPending": true
+ },
+ "108": {
+  "name": "서경희",
+  "academyName": "윤선생 우리집앞영어교실",
+  "region": "경상남도 김해시",
+  "overallRank": null,
+  "score": null,
+  "researchPending": true
+ },
+ "102": {
+  "name": "이선혜",
+  "academyName": "이지키즈잉글리쉬",
+  "region": "경상남도 창원시",
+  "overallRank": null,
+  "score": null,
+  "researchPending": true
+ },
+ "101": {
+  "name": "박은주",
+  "academyName": "MBC&Winclass",
+  "region": "경상남도 창원시",
+  "overallRank": null,
+  "score": null,
+  "researchPending": true
+ },
+ "107": {
+  "name": "류경화",
+  "academyName": "엘프어학원",
+  "region": "경상남도 김해시",
+  "overallRank": 9,
+  "score": 84,
+  "researchPending": false
+ },
+ "106": {
+  "name": "김정련",
+  "academyName": "일리잉글리쉬",
+  "region": "경상남도 김해시",
+  "overallRank": null,
+  "score": null,
+  "researchPending": true
+ },
+ "105": {
+  "name": "박병준",
+  "academyName": "유니온에듀학원",
+  "region": "경상남도 김해시",
+  "overallRank": 22,
+  "score": 75,
+  "researchPending": false
+ },
+ "104": {
+  "name": "황은영",
+  "academyName": "에이블어학원",
+  "region": "경상남도 김해시",
+  "overallRank": 8,
+  "score": 84,
+  "researchPending": false
+ },
+ "103": {
+  "name": "윤수경",
+  "academyName": "이유영어학원",
+  "region": "경상남도 김해시",
+  "overallRank": 7,
+  "score": 84,
+  "researchPending": false
+ },
+ "98": {
+  "name": "김태영",
+  "academyName": "위너스위더스영어학원",
+  "region": "경상남도 창원시",
+  "overallRank": 12,
+  "score": 79,
+  "researchPending": false
+ },
+ "84": {
+  "name": "박명숙",
+  "academyName": "벨영어교습소",
+  "region": "경상북도 상주시",
+  "overallRank": 28,
+  "score": 70,
+  "researchPending": false
+ },
+ "80": {
+  "name": "토마스",
+  "academyName": "중앙K 영어",
+  "region": "경상북도 경주시",
+  "overallRank": 2,
+  "score": 94,
+  "researchPending": false
+ },
+ "82": {
+  "name": "정희수",
+  "academyName": "정희수 영어수학학원",
+  "region": "경상북도 경산시",
+  "overallRank": 20,
+  "score": 75,
+  "researchPending": false
+ },
+ "83": {
+  "name": "성진경",
+  "academyName": "이엠학원",
+  "region": "경상북도 포항시",
+  "overallRank": null,
+  "score": null,
+  "researchPending": true
+ },
+ "81": {
+  "name": "토마스",
+  "academyName": "중앙K 영어",
+  "region": "경상북도 경주시",
+  "overallRank": 36,
+  "score": 66,
+  "researchPending": false
+ },
+ "79": {
+  "name": "김재훈",
+  "academyName": "용황김재훈 영어학원",
+  "region": "경상북도 경주시",
+  "overallRank": null,
+  "score": null,
+  "researchPending": true
+ },
+ "78": {
+  "name": "김석곤",
+  "academyName": "김석곤 영어룸 학원",
+  "region": "경상북도 구미시",
+  "overallRank": null,
+  "score": null,
+  "researchPending": true
+ },
+ "77": {
+  "name": "채은숙",
+  "academyName": "김앤채 영어교습소",
+  "region": "경상북도 고령군",
+  "overallRank": null,
+  "score": null,
+  "researchPending": true
+ },
+ "76": {
+  "name": "권엘리사",
+  "academyName": "가온영어학원",
+  "region": "경상북도 안동시",
+  "overallRank": 25,
+  "score": 73,
+  "researchPending": false
+ },
+ "70": {
+  "name": "이광헌",
+  "academyName": "시습영어학원",
+  "region": "대구광역시 수성구",
+  "overallRank": 18,
+  "score": 75,
+  "researchPending": false
+ },
+ "69": {
+  "name": "남보민",
+  "academyName": "썬키즈리딩",
+  "region": "대구광역시 동구",
+  "overallRank": 27,
+  "score": 70,
+  "researchPending": false
+ },
+ "68": {
+  "name": "정효실",
+  "academyName": "STC 입시영어학원 대구칠곡센터",
+  "region": "대구광역시 북구",
+  "overallRank": 26,
+  "score": 72,
+  "researchPending": false
+ },
+ "72": {
+  "name": "김유현",
+  "academyName": "지인학원",
+  "region": "대전광역시 유성구",
+  "overallRank": 13,
+  "score": 77,
+  "researchPending": false
+ },
+ "71": {
+  "name": "박신영",
+  "academyName": "영어종결센터 송촌학원",
+  "region": "대전광역시 대덕구",
+  "overallRank": 19,
+  "score": 75,
+  "researchPending": false
+ },
+ "57": {
+  "name": "김지나",
+  "academyName": "세렌디피티어학원",
+  "region": "부산광역시 연제구",
+  "overallRank": 44,
+  "score": 61,
+  "researchPending": false
+ },
+ "56": {
+  "name": "정유진",
+  "academyName": "에이블영어학원",
+  "region": "부산광역시 연제구",
+  "overallRank": 10,
+  "score": 80,
+  "researchPending": false
+ },
+ "55": {
+  "name": "김성민",
+  "academyName": "김성민영어교습소",
+  "region": "부산광역시 영도구",
+  "overallRank": null,
+  "score": null,
+  "researchPending": true
+ },
+ "54": {
+  "name": "안자연",
+  "academyName": "차일드유 남천어학원",
+  "region": "부산광역시 수영구",
+  "overallRank": 14,
+  "score": 75,
+  "researchPending": false
+ },
+ "53": {
+  "name": "조유나",
+  "academyName": "와이엔영어교습소",
+  "region": "부산광역시 사하구",
+  "overallRank": null,
+  "score": null,
+  "researchPending": true
+ },
+ "52": {
+  "name": "박재희",
+  "academyName": "잉글리쉬머핀영어교습소",
+  "region": "부산광역시 사하구",
+  "overallRank": null,
+  "score": null,
+  "researchPending": true
+ },
+ "51": {
+  "name": "강진하",
+  "academyName": "제이티어학원",
+  "region": "부산광역시 사하구",
+  "overallRank": null,
+  "score": null,
+  "researchPending": true
+ },
+ "50": {
+  "name": "최연순",
+  "academyName": "영어쑥쑥어학원",
+  "region": "부산광역시 금정구",
+  "overallRank": 30,
+  "score": 68,
+  "researchPending": false
+ },
+ "49": {
+  "name": "양진섭",
+  "academyName": "플래너스어학원 부산화명",
+  "region": "부산광역시 북구",
+  "overallRank": 54,
+  "score": 49,
+  "researchPending": false
+ },
+ "48": {
+  "name": "미키쌤",
+  "academyName": "국제어학당 대연캠퍼스",
+  "region": "부산광역시 부산시",
+  "overallRank": 100,
+  "score": 17,
+  "researchPending": false
+ },
+ "47": {
+  "name": "정종욱",
+  "academyName": "영어종결센터 반여학원",
+  "region": "부산광역시 해운대구",
+  "overallRank": 99,
+  "score": 17,
+  "researchPending": false
+ },
+ "45": {
+  "name": "박정민",
+  "academyName": "압구정에듀홀릭학원",
+  "region": "서울특별시 강남구",
+  "overallRank": 41,
+  "score": 63,
+  "researchPending": false
+ },
+ "46": {
+  "name": "김주경",
+  "academyName": "김주경 영어교습소",
+  "region": "서울특별시 강남구",
+  "overallRank": 60,
+  "score": 39,
+  "researchPending": false
+ },
+ "41": {
+  "name": "김시훈",
+  "academyName": "시은영어학원",
+  "region": "서울특별시 금천구",
+  "overallRank": 58,
+  "score": 43,
+  "researchPending": false
+ },
+ "39": {
+  "name": "이지혜",
+  "academyName": "마스터즈영어",
+  "region": "서울특별시 동작구",
+  "overallRank": 75,
+  "score": 19,
+  "researchPending": false
+ },
+ "38": {
+  "name": "류제시",
+  "academyName": "제시영어학원",
+  "region": "서울특별시 동작구",
+  "overallRank": 74,
+  "score": 19,
+  "researchPending": false
+ },
+ "37": {
+  "name": "김혜경",
+  "academyName": "뮤엠영어학원",
+  "region": "서울특별시 동작구",
+  "overallRank": 73,
+  "score": 19,
+  "researchPending": false
+ },
+ "34": {
+  "name": "황수미",
+  "academyName": "영어 잡는 영잡",
+  "region": "서울특별시 양천구",
+  "overallRank": 72,
+  "score": 19,
+  "researchPending": false
+ },
+ "33": {
+  "name": "이승현",
+  "academyName": "CS영어학원",
+  "region": "서울특별시 양천구",
+  "overallRank": 71,
+  "score": 19,
+  "researchPending": false
+ },
+ "30": {
+  "name": "이수연",
+  "academyName": "더퍼스트펭귄 영어교습소",
+  "region": "서울특별시 은평구",
+  "overallRank": 70,
+  "score": 19,
+  "researchPending": false
+ },
+ "29": {
+  "name": "전종삼",
+  "academyName": "JS뉴욕어학원",
+  "region": "서울특별시 노원구",
+  "overallRank": 69,
+  "score": 19,
+  "researchPending": false
+ },
+ "27": {
+  "name": "김지민",
+  "academyName": "김지민영어학원",
+  "region": "서울특별시 노원구",
+  "overallRank": 68,
+  "score": 19,
+  "researchPending": false
+ },
+ "21": {
+  "name": "이윤정",
+  "academyName": "윤정영어학원",
+  "region": "서울특별시 성북구",
+  "overallRank": 64,
+  "score": 31,
+  "researchPending": false
+ },
+ "20": {
+  "name": "민정빈",
+  "academyName": "JBM영어학원",
+  "region": "서울특별시 성북구",
+  "overallRank": 67,
+  "score": 19,
+  "researchPending": false
+ },
+ "16": {
+  "name": "권아영",
+  "academyName": "오케이영어교습소",
+  "region": "서울특별시 동대문구",
+  "overallRank": 66,
+  "score": 19,
+  "researchPending": false
+ },
+ "12": {
+  "name": "권수진",
+  "academyName": "뮤엠영어고덕점학원",
+  "region": "서울특별시 강동구",
+  "overallRank": 63,
+  "score": 31,
+  "researchPending": false
+ },
+ "11": {
+  "name": "김성진",
+  "academyName": "피케이리더스영어학원",
+  "region": "서울특별시 강동구",
+  "overallRank": 65,
+  "score": 19,
+  "researchPending": false
+ },
+ "7": {
+  "name": "이광노",
+  "academyName": "케이앤(KN)영어학원",
+  "region": "서울특별시 서초구",
+  "overallRank": 62,
+  "score": 31,
+  "researchPending": false
+ },
+ "6": {
+  "name": "문준영",
+  "academyName": "문준영&커넥트영어학원",
+  "region": "서울특별시 서초구",
+  "overallRank": 61,
+  "score": 31,
+  "researchPending": false
+ },
+ "44": {
+  "name": "정승주 원장",
+  "academyName": "지피에이영어학원",
+  "region": "서울특별시 강남구",
+  "overallRank": 98,
+  "score": 17,
+  "researchPending": false
+ },
+ "43": {
+  "name": "조민규",
+  "academyName": "조민규영어학원",
+  "region": "서울특별시 강남구",
+  "overallRank": 97,
+  "score": 17,
+  "researchPending": false
+ },
+ "42": {
+  "name": "신정화",
+  "academyName": "치즈영어교습소",
+  "region": "서울특별시 금천구",
+  "overallRank": 96,
+  "score": 17,
+  "researchPending": false
+ },
+ "40": {
+  "name": "성지윤",
+  "academyName": "아스터영어학원",
+  "region": "서울특별시 동작구",
+  "overallRank": 95,
+  "score": 17,
+  "researchPending": false
+ },
+ "36": {
+  "name": "제니쌤",
+  "academyName": "제니쌤잉글리시영어교습소",
+  "region": "서울특별시 영등포구",
+  "overallRank": 94,
+  "score": 17,
+  "researchPending": false
+ },
+ "35": {
+  "name": "박선경",
+  "academyName": "씨투엠플러스학원",
+  "region": "서울특별시 강서구",
+  "overallRank": 93,
+  "score": 17,
+  "researchPending": false
+ },
+ "32": {
+  "name": "제프",
+  "academyName": "솔리드영어교습소",
+  "region": "서울특별시 은평구",
+  "overallRank": 92,
+  "score": 17,
+  "researchPending": false
+ },
+ "31": {
+  "name": "이영인",
+  "academyName": "프라임온 영어교습소",
+  "region": "서울특별시 은평구",
+  "overallRank": 91,
+  "score": 17,
+  "researchPending": false
+ },
+ "28": {
+  "name": "김동길",
+  "academyName": "김동길영어학원",
+  "region": "서울특별시 노원구",
+  "overallRank": 90,
+  "score": 17,
+  "researchPending": false
+ },
+ "26": {
+  "name": "서쌤",
+  "academyName": "서쌤의영어독서교실영어교습소",
+  "region": "서울특별시 도봉구",
+  "overallRank": 89,
+  "score": 17,
+  "researchPending": false
+ },
+ "25": {
+  "name": "이지현",
+  "academyName": "일리영어학원",
+  "region": "서울특별시 도봉구",
+  "overallRank": 88,
+  "score": 17,
+  "researchPending": false
+ },
+ "24": {
+  "name": "황진하",
+  "academyName": "강한영어아는영어황쌤영어학원",
+  "region": "서울특별시 도봉구",
+  "overallRank": 87,
+  "score": 17,
+  "researchPending": false
+ },
+ "23": {
+  "name": "박종훈",
+  "academyName": "블랙레벨영어교습소",
+  "region": "서울특별시 강북구",
+  "overallRank": 86,
+  "score": 17,
+  "researchPending": false
+ },
+ "22": {
+  "name": "신민정",
+  "academyName": "라이크영어학원",
+  "region": "서울특별시 성북구",
+  "overallRank": 85,
+  "score": 17,
+  "researchPending": false
+ },
+ "19": {
+  "name": "전수진",
+  "academyName": "절대영어학원",
+  "region": "서울특별시 동대문구",
+  "overallRank": 84,
+  "score": 17,
+  "researchPending": false
+ },
+ "18": {
+  "name": "김현진",
+  "academyName": "주노영어학원",
+  "region": "서울특별시 동대문구",
+  "overallRank": 83,
+  "score": 17,
+  "researchPending": false
+ },
+ "17": {
+  "name": "손형주",
+  "academyName": "HJ영어학원",
+  "region": "서울특별시 동대문구",
+  "overallRank": 82,
+  "score": 17,
+  "researchPending": false
+ },
+ "15": {
+  "name": "김정아",
+  "academyName": "경일해법영어교습소",
+  "region": "서울특별시 성동구",
+  "overallRank": 81,
+  "score": 17,
+  "researchPending": false
+ },
+ "14": {
+  "name": "김성연",
+  "academyName": "키위북웜스",
+  "region": "서울특별시 종로구",
+  "overallRank": 80,
+  "score": 17,
+  "researchPending": false
+ },
+ "13": {
+  "name": "손은일",
+  "academyName": "애슐리영어학원",
+  "region": "서울특별시 마포구",
+  "overallRank": 79,
+  "score": 17,
+  "researchPending": false
+ },
+ "10": {
+  "name": "정수정",
+  "academyName": "정수정영어학원",
+  "region": "서울특별시 송파구",
+  "overallRank": 78,
+  "score": 17,
+  "researchPending": false
+ },
+ "9": {
+  "name": "오션",
+  "academyName": "퍼스트영어학원",
+  "region": "서울특별시 서초구",
+  "overallRank": 77,
+  "score": 17,
+  "researchPending": false
+ },
+ "8": {
+  "name": "박정인",
+  "academyName": "박정인영어교습소",
+  "region": "서울특별시 서초구",
+  "overallRank": 76,
+  "score": 17,
+  "researchPending": false
+ },
+ "116": {
+  "name": "김서애",
+  "academyName": "제이+ 영어교습소",
+  "region": "인천광역시 부평구",
+  "overallRank": 43,
+  "score": 63,
+  "researchPending": false
+ },
+ "87": {
+  "name": "박현기",
+  "academyName": "원키영어학원",
+  "region": "전라남도 순천시",
+  "overallRank": 38,
+  "score": 65,
+  "researchPending": false
+ },
+ "86": {
+  "name": "이중하",
+  "academyName": "메가스타잉글리쉬어학원",
+  "region": "전라남도 목포시",
+  "overallRank": 29,
+  "score": 70,
+  "researchPending": false
+ },
+ "66": {
+  "name": "문나경",
+  "academyName": "기지시GNB영어수학학원",
+  "region": "충청남도 당진시",
+  "overallRank": 11,
+  "score": 79,
+  "researchPending": false
+ },
+ "67": {
+  "name": "임진주",
+  "academyName": "원더아이·원더크라운 영어학원",
+  "region": "충청남도 공주시",
+  "overallRank": 17,
+  "score": 75,
+  "researchPending": false
+ },
+ "65": {
+  "name": "윤성훈",
+  "academyName": "닥터윤영어학원",
+  "region": "충청남도 천안시",
+  "overallRank": 16,
+  "score": 75,
+  "researchPending": false
+ },
+ "64": {
+  "name": "한동희",
+  "academyName": "한동희영어학원",
+  "region": "충청남도 보령시",
+  "overallRank": 24,
+  "score": 73,
+  "researchPending": false
+ },
+ "63": {
+  "name": "이유진",
+  "academyName": "탕정역 유창한 영어학원",
+  "region": "충청남도 아산시",
+  "overallRank": 15,
+  "score": 75,
+  "researchPending": false
+ },
+ "62": {
+  "name": "신원경",
+  "academyName": "윤선생IGSE아카데미 옥천학원",
+  "region": "충청북도 옥천군",
+  "overallRank": null,
+  "score": null,
+  "researchPending": true
+ },
+ "61": {
+  "name": "박권호",
+  "academyName": "센텀영어학원",
+  "region": "충청북도 증평군",
+  "overallRank": 23,
+  "score": 73,
+  "researchPending": false
+ },
+ "60": {
+  "name": "조은아",
+  "academyName": "조은아영어교습소",
+  "region": "충청북도 충주시",
+  "overallRank": 48,
+  "score": 58,
+  "researchPending": false
+ },
+ "59": {
+  "name": "김요한",
+  "academyName": "ITC영어 청주 테크노폴리스점",
+  "region": "충청북도 청주시",
+  "overallRank": null,
+  "score": null,
+  "researchPending": true
+ },
+ "58": {
+  "name": "이금연",
+  "academyName": "제니퍼영어닷컴어학원",
+  "region": "충청북도 청주시",
+  "overallRank": 31,
+  "score": 68,
+  "researchPending": false
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "id": 89,
+ "name": "송노경",
+ "role": "원장",
+ "academyName": "에이미영어수학학원",
+ "province": "경기도",
+ "cityDistrict": "구리시",
+ "activityRegion": "경기도 구리시",
+ "identitySummary": "구리시 인창동 에이미영어수학학원 원장. 구리시학원연합회 총무이사로 활동하며 초중등 영어·수학을 직접 지도하는 교육자.",
+ "educationPhilosophy": "정답 맞히는 기술이 아닌 진짜 실력을 키우는 교육을 지향하며 아이의 자기주도와 자존감을 세우는 데 초점을 둔다. 어른의 잔소리가 아닌 공감 대화로 아이를 이끈다는 훈육관을 공개 칼럼으로 밝혀 왔다.",
+ "curriculum": "TPR·스토리텔링 기반 활동 수업과 rent는 lend에 borrow를 더한 값 같은 직관 공식 정리, 학교별 내신 대비와 수능 풀이 자료를 병행하는 초중등 지도다. 종이 한 장으로 진행하는 Paper Action Relay와 대통령 연설문 말하기 대회 같은 발표 훈련을 운영한다.",
+ "distinctiveTeaching": "몸으로 움직이는 체험형 영어와 말하기 중심 발표 훈련을 결합한 활동 수업. 단어 암기 대신 TPR·액션 릴레이로 어휘 감각을 깨운다.",
+ "recentActivity": "2026년 8월 2학기 설계 가이드, 7월 TPR 줄다리기 수업 현장, 6월 기말고사 평균 90.1점 보고 등 현재 수업 기록을 블로그에 지속 공개.",
+ "strengths": [
+  "체험형·말하기 중심 수업 연구 지속",
+  "교육철학 공개 칼럼 집필",
+  "학교별 내신 대비 자료 제작",
+  "지역 교육 연합회 공적 활동"
+ ],
+ "improvementSuggestions": [
+  "학년별 커리큘럼 로드맵 정리",
+  "수업 철학 대표 글 온라인 고정"
+ ],
+ "officialChannels": {
+  "homepage": null,
+  "blog": "https://blog.naver.com/omoksin",
+  "youtube": null,
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "학기 설계 안내",
+   "summary": "2026년 2학기 중간고사·독서·건강 설계 가이드 공개",
+   "sourceUrl": "https://blog.naver.com/omoksin/224368868813",
+   "activityDate": "2026-08-05",
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "수업 현장",
+   "summary": "신체 활동과 스토리텔링으로 구동사를 체험하는 줄다리기 영어 수업 진행",
+   "sourceUrl": "https://blog.naver.com/omoksin/224339366914",
+   "activityDate": "2026-07-07",
+   "evidenceKind": "TEACHING_METHOD"
+  },
+  {
+   "contentType": "내신 대비",
+   "summary": "기말고사 실수 차단 실전 행동 지침 6가지 정리",
+   "sourceUrl": "https://blog.naver.com/omoksin/224326600850",
+   "activityDate": "2026-06-25",
+   "evidenceKind": "STUDENT_GUIDANCE"
+  },
+  {
+   "contentType": "교육 철학",
+   "summary": "드라마 참교육을 계기로 현실의 진짜 참교육 철학을 밝힌 원장 글",
+   "sourceUrl": "https://blog.naver.com/omoksin/224318579342",
+   "activityDate": "2026-06-17",
+   "evidenceKind": "PHILOSOPHY"
+  },
+  {
+   "contentType": "어휘 정리",
+   "summary": "빌리다·빌려주다 혼동 어휘를 직관 공식으로 정리한 수업 자료",
+   "sourceUrl": "https://blog.naver.com/omoksin/224292178797",
+   "activityDate": "2026-05-21",
+   "evidenceKind": "SUBJECT_EXPERTISE"
+  },
+  {
+   "contentType": "연합회 활동",
+   "summary": "구리시학원연합회 총무이사 송노경의 시의회 의장 표창 수상 보고",
+   "sourceUrl": "https://blog.naver.com/omoksin/224171026878",
+   "activityDate": "2026-02-04",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  }
+ ],
+ "discoveryReason": "Chart 전국 확장 조사 (구리). 공식 블로그·연합회 직함 공개글·제3자 학원정보에서 실명·소속·지역·최근활동 확인.",
+ "lastResearchedAt": "2026-09-14T02:08:41.450918",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

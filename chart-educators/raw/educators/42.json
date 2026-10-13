@@ -1,0 +1,32 @@
+{
+ "id": 42,
+ "name": "신정화",
+ "role": "대표",
+ "academyName": "치즈영어교습소",
+ "province": "서울특별시",
+ "cityDistrict": "금천구",
+ "activityRegion": "서울 금천구 독산동",
+ "identitySummary": "금천구 독산동에서 치즈영어교습소를 직접 운영하며, 다독과 언어적 소양을 강조하는 1:1 밀착형 초등 영어 교육을 실천하고 있습니다.",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "글",
+   "summary": "5명 정원제 소수정예 클래스를 통해 숙제 없이 학원 내에서 집중적으로 문법과 다독을 지도하는 초등 전문 영어 교육법을 소개했습니다.",
+   "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG10U4P2IuUIraaCIMOSaNLyNc1tZy3ZhZtjcPAkHIeBQsMK_O17FEwZAq5KsT9OpQDbXECCIkOpXYVBWqqEXkg2WW9VdFrEAvMPC9RuuOg-D9FRrrx2hkh",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "금천구 독산동에서 치즈영어교습소를 직접 운영하며, 다독과 언어적 소양을 강조하는 1:1 밀착형 초등 영어 교육을 실천하고 있습니다.",
+ "lastResearchedAt": "2026-08-27T18:15:51.403795",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

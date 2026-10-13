@@ -1,0 +1,58 @@
+{
+ "id": 50,
+ "name": "최연순",
+ "role": "원장",
+ "academyName": "영어쑥쑥어학원",
+ "province": "부산광역시",
+ "cityDistrict": "금정구",
+ "activityRegion": "부산광역시 금정구",
+ "identitySummary": "영어를 거부하던 자녀의 경험에서 출발해 파닉스의 읽기 자신감과 원서 다독을 연결하는 장전동 영어쑥쑥어학원 원장.",
+ "educationPhilosophy": "영어를 시험 과목으로 먼저 압박하기보다, 아이가 읽을 수 있다는 자신감을 얻고 원서를 즐기는 독자로 성장하도록 만드는 것을 출발점으로 삼는다. 원서로 언어 감각을 충분히 쌓은 뒤 문법·쓰기·내신 정확성을 더해 실력과 성적이 분리되지 않도록 설계한다.",
+ "curriculum": "초기에는 파닉스로 읽기 기반을 만들고 원서 다독으로 자연스러운 언어 감각을 확장한다. 초등 5학년부터 문법 정리 노트와 라이팅·리딩 스킬을 결합하며, 중등 단계에서는 내신 적응까지 연결하는 장기 단계형 과정이다.",
+ "distinctiveTeaching": "영어 거부감을 낮추는 정서적 접근을 파닉스 읽기 성공 경험과 연결하고, 이후 원서 다독과 문법 정리 노트로 정확성을 보완하는 누적형 수업 구조.",
+ "recentActivity": "2026년 4월 공개된 현장 리포트에서 금정구 장전동 본원 운영, 22개 학교 재원생, 현행 수업 시간·과정과 원장의 커리큘럼 설명이 확인된다.",
+ "strengths": [
+  "파닉스에서 원서 다독으로 이어지는 단계적 읽기 기반이 명확하다.",
+  "초등 고학년부터 문법 정리 노트와 라이팅을 결합해 감각과 정확성을 연결한다.",
+  "영어 거부감이 있는 학생의 정서적 진입 장벽을 낮추는 교육 목적이 구체적이다."
+ ],
+ "improvementSuggestions": [
+  "원장 개인 명의로 최근 수업 사례와 철학을 정기적으로 공개하면 교육적 정체성이 더 명확해질 수 있다.",
+  "학생 성장 기록을 개인정보를 보호한 전후 지표로 구조화하면 커리큘럼 효과를 더 객관적으로 설명할 수 있다."
+ ],
+ "officialChannels": {
+  "homepage": null,
+  "blog": "https://blog.naver.com/olibie9",
+  "youtube": "https://www.youtube.com/@englishsuksuk1616",
+  "social": "https://www.instagram.com/olibie9"
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "현장 취재형 학원 리포트",
+   "summary": "2010년 공부방 시작 배경, 원서교육 선택 철학, 파닉스→원서 다독→초5 문법·라이팅→중등 내신으로 이어지는 현재 커리큘럼과 장전동 오프라인 운영을 확인.",
+   "sourceUrl": "https://educurator.tistory.com/8",
+   "activityDate": "2026-04-29",
+   "evidenceKind": "PHILOSOPHY"
+  },
+  {
+   "contentType": "교육청 공개정보 기반 학원 정보",
+   "summary": "장전동 오프라인 학원 주소, 강사 12명, 리딩·초등·중등·고등 과정과 2025년 말 적용 교습 정보를 확인.",
+   "sourceUrl": "https://education.smileus.net/%ED%95%99%EC%9B%90/%EB%B6%80%EC%82%B0/%EA%B8%88%EC%A0%95%EA%B5%AC/view/%EC%98%81%EC%96%B4%EC%91%A5%EC%91%A5%EC%96%B4%ED%95%99%EC%9B%90",
+   "activityDate": "2025-12-30",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "공개 채용·기업 정보",
+   "summary": "영어쑥쑥어학원의 대표자명이 최연순이며 금정구 장전동에서 운영되는 학원임을 확인.",
+   "sourceUrl": "https://m.saramin.co.kr/job-search/view?cn=job-industry&cns=recently-list&rec_idx=49856277&referNonce=&t_category=job_recruit&t_content=generic",
+   "activityDate": "2025-02-02",
+   "evidenceKind": "RECRUITMENT"
+  }
+ ],
+ "discoveryReason": "전국 프랜차이즈 규모보다 2010년 공부방에서 시작한 개인적 문제의식, 16년간 다듬은 파닉스→원서 다독→문법·쓰기의 단계 구조, 실제 학생 성장 기록을 통해 교육자 고유성이 확인되어 발굴했다.",
+ "lastResearchedAt": "2026-08-28T01:59:53.547126",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

@@ -1,0 +1,37 @@
+{
+ "id": 78,
+ "name": "김석곤",
+ "role": "원장",
+ "academyName": "김석곤 영어룸 학원",
+ "province": "경상북도",
+ "cityDistrict": "구미시",
+ "activityRegion": "경상북도 구미시",
+ "identitySummary": "구미시 봉곡동에서 중·고등 내신·수능 영어를 지도하는 김석곤 영어룸 학원의 실명 책임 교육자.",
+ "educationPhilosophy": null,
+ "curriculum": "중·고등 학생을 대상으로 매주 어휘시험과 누적 문법시험을 운영하고, 수준별 기출 모의고사 풀이·분석과 자기주도 자습·질문을 결합한다. 중등은 약 1주, 고등은 4~5주간 학교별 시험 대비를 진행하는 구조가 공개되어 있다.",
+ "distinctiveTeaching": "약 8,000단어 완성 목표의 주간 어휘 관리, 누적 문법시험, 지역 고교별 기출 분석과 학생 수준별 모의고사 분석을 연결한다.",
+ "recentActivity": "학원 안내 페이지가 2026년 8월 현재 구미시 봉곡동의 중·고등 영어 전문 학원 정보와 운영시간, 공식 블로그·YouTube 채널을 제공한다. 다만 현재 연도에 교육자가 직접 작성한 비광고성 원문 활동은 추가 확인이 필요하다.",
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": {
+  "homepage": null,
+  "blog": "https://blog.naver.com/7tepung",
+  "youtube": "https://www.youtube.com/channel/UCiI-nbu0pCfTHO8QSAoIDqA",
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "학원 교육과정 및 운영 안내",
+   "summary": "김석곤 실명 학원에서 경구고·구미고·구미여고·선주고 등 지역학교 내신을 대비하며, 주간 단어시험·누적 문법시험·기출모의고사 분석·자기주도학습을 운영한다고 안내한다.",
+   "sourceUrl": "https://learns.academy/academies/43a3f3ca-35d9-434e-b236-fa9afd319ddf",
+   "activityDate": "2026-08-28",
+   "evidenceKind": "CURRICULUM"
+  }
+ ],
+ "discoveryReason": "지역 중·고등 내신과 수능을 대상으로 구체적인 누적 시험·기출 분석·자기주도학습 구조를 공개한 실명 교육자다. 현재 연도 개인 활동과 비광고성 교육자료 근거가 충분하지 않아 후속 보강 대상으로 보존한다.",
+ "lastResearchedAt": "2026-08-29T08:55:05.879664",
+ "eligibilityStatus": "RESEARCH_PENDING",
+ "researchPending": true,
+ "disclaimer": "이 교육자는 아직 평가에 필요한 공개 근거가 충분히 확인되지 않았습니다(RESEARCH_PENDING). 공개적으로 확인된 사실만 표시하며, BuildIt Score나 TOP100 순위 대상이 아닙니다."
+}

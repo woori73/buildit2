@@ -1,0 +1,46 @@
+{
+ "id": 2,
+ "name": "조민정",
+ "role": "원장",
+ "academyName": "원파인데이학원",
+ "province": "경기도",
+ "cityDistrict": "성남시 분당구",
+ "activityRegion": "경기도 성남시 분당구",
+ "identitySummary": "분당 수내동에서 초·중·고 영어 수업과 원서 문해력·내신·수능 연계 교육과정을 운영하는 원파인데이학원 대표 원장",
+ "educationPhilosophy": "교육의 끝을 성적만이 아니라 학생 한 사람의 마음과 성장에 두는 교육을 표방한다.",
+ "curriculum": "초등 원서 문해력에서 중등 내신·고등 수능 1등급까지 이어지는 단계형 교육과정과 문법·독해·독서감상문 활동을 운영한다.",
+ "distinctiveTeaching": "원장 독해 수업, 문법 정리, 학교별 시험 범위 프린트와 배경지식 자료를 결합해 지도한다.",
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [
+  "원장 개인의 수업 연구 과정과 자체 자료 제작 사례를 정기적으로 공개하면 교육적 고유성이 더 선명해질 수 있다."
+ ],
+ "officialChannels": {
+  "homepage": "https://www.onefineacademy.com/",
+  "blog": null,
+  "youtube": null,
+  "social": "https://pf.kakao.com/_bnkxaxj"
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "공식 홈페이지",
+   "summary": "대표 조민정과 분당구 오프라인 학원 정보, 초·중·고 교육과정, 원장 독해 수업과 문법·독서 활동이 공개되어 있다.",
+   "sourceUrl": "https://www.onefineacademy.com/",
+   "activityDate": "2026-08-25",
+   "evidenceKind": "CURRICULUM"
+  },
+  {
+   "contentType": "공식 카카오 채널",
+   "summary": "2026년 여름 문법 특강에서 단순 암기보다 실제 문장 적용과 내신 출제 변화 분석을 강조한다.",
+   "sourceUrl": "https://pf.kakao.com/_bnkxaxj",
+   "activityDate": "2026-07-09",
+   "evidenceKind": "TEACHING_METHOD"
+  }
+ ],
+ "discoveryReason": "학원 규모나 광고량보다 학생별 독해·문법 지도, 원서 문해력, 자체 자료와 장기 성장 철학이 공개 자료에서 구체적으로 확인된다.",
+ "lastResearchedAt": "2026-08-27T15:45:44.856192",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

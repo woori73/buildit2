@@ -1,0 +1,37 @@
+{
+ "province": "전라남도",
+ "expected": 2,
+ "returned": 2,
+ "content": [
+  {
+   "id": 87,
+   "name": "박현기",
+   "role": "원장",
+   "academyName": "원키영어학원",
+   "province": "전라남도",
+   "cityDistrict": "순천시",
+   "activityRegion": "전라남도 순천시",
+   "identitySummary": "박현기 — 원키영어학원 대표 겸 원장 (블로그 원장 Ki쌤), 순천 해룡면 오프라인 운영.",
+   "educationPhilosophy": "이번 시험 점수보다 더 중요한 건, 이번 시험을 준비하며 만든 공부 습관이다. 공부는 머리가 아니라 엉덩이로 하는 것이며, 지식을 담아낼 공부 그릇을 빚는 것이 입시 영어의 본질이다.",
+   "eligibilityStatus": "EVALUATABLE",
+   "researchPending": false,
+   "profileImageUrl": null,
+   "lastResearchedAt": "2026-09-10T20:06:18.904303"
+  },
+  {
+   "id": 86,
+   "name": "이중하",
+   "role": "원장",
+   "academyName": "메가스타잉글리쉬어학원",
+   "province": "전라남도",
+   "cityDistrict": "목포시",
+   "activityRegion": "전라남도 목포시",
+   "identitySummary": "이중하 — 메가스타잉글리쉬어학원 원장, 목포 옥암동 오프라인 운영.",
+   "educationPhilosophy": "유명세를 얻거나 돈을 버는 것이 목표였다면 목포로 내려오지 않았을 것이다. 목포의 우수한 인재들이 더 높이 성장할 수 있도록 보탬이 되는 것이 목표이며, 시험점수 지향의 획일적 교육이 아닌 균형 있는 학습습관과 환경을 제시한다.",
+   "eligibilityStatus": "EVALUATABLE",
+   "researchPending": false,
+   "profileImageUrl": null,
+   "lastResearchedAt": "2026-09-10T20:06:13.447251"
+  }
+ ]
+}

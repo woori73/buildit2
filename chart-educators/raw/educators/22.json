@@ -1,0 +1,32 @@
+{
+ "id": 22,
+ "name": "신민정",
+ "role": "대표",
+ "academyName": "라이크영어학원",
+ "province": "서울특별시",
+ "cityDistrict": "성북구",
+ "activityRegion": "서울 성북구 종암동",
+ "identitySummary": "성북구에서 초·중등 영어 전문 학원을 직접 운영하며 교육 철학과 커리큘럼을 밝힌 실제 교육자로 확인되었습니다.",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "글",
+   "summary": "언어로서의 영어 접근법과 초·중등 대상 파닉스, 필수 어휘 암기, 문법 개념 완성 등 맞춤형 커리큘럼을 소개하는 인터뷰 기사입니다.",
+   "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvRHgO12gXvknQeF-QjoS-xd7fZ1mt2-rHO_XmndSDTdyyxbTtPvPpPXcplW7dCOqsCPOnl_ZV_THe3sF-T1OFdmMhBl17uF6yDboR-PzxrEeob487IFg=",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "성북구에서 초·중등 영어 전문 학원을 직접 운영하며 교육 철학과 커리큘럼을 밝힌 실제 교육자로 확인되었습니다.",
+ "lastResearchedAt": "2026-08-27T18:15:51.330055",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

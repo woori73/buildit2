@@ -45,4 +45,10 @@ buildit2/
 
 현재는 카탈로그만 제공. AI Agent 연결·운영 DB 등록은 별도 작업.
 
+## Chart 교육자 데이터셋
+
+- `chart-educators/` — BuildIt Chart(feel2real.co.kr/chart) 공개 카드 117명 원본+구조화 DB.
+  교육철학·커리큘럼·수업방식·운영 방식의 실제 사례와 AI 분석(`knowledge/`),
+  카탈로그 자산 매핑(`mapping/catalog_links.json`) 포함. 순위는 `meta.json`의 기준일(asOf) 기록.
+
 기존 BuildIt 프리셋 10종(EXAM, ENGLISH, ARTS, STUDY, ONLINE, MINIMAL, DARK, WARM, PHOTO, DYNAMIC)과는 보완 관계 (테마 vs 구현체).

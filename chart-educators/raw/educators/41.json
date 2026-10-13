@@ -1,0 +1,46 @@
+{
+ "id": 41,
+ "name": "김시훈",
+ "role": "원장",
+ "academyName": "시은영어학원",
+ "province": "서울특별시",
+ "cityDistrict": "금천구",
+ "activityRegion": "서울 금천구 시흥동",
+ "identitySummary": "금천구 시흥동에서 시은영어학원을 운영하며 문일고, 금천고, 동일여고 등 지역 학교들의 영어 내신 분석 및 공부법 칼럼을 직접 작성하여 학생들을 지도하고 있습니다.",
+ "educationPhilosophy": null,
+ "curriculum": "확인일 2026-09-18(KST). 공식 블로그 원문(수업 커리큘럼 안내)에 초등~고등 과정과 영어 자존감 향상 지향이 안내되어 있다. 초·중·고등 과정 운영(2019~2021 교육청 과정 정보와 일치).",
+ "distinctiveTeaching": null,
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "공식 블로그 과정 안내",
+   "summary": "확인일 2026-09-18(KST). 시은영어학원 공식 블로그(sieuneng)의 수업 커리큘럼 안내 원문에서 초·중·고 과정 운영과 영어 자존감 향상 지향을 확인했다.",
+   "sourceUrl": "https://m.blog.naver.com/sieuneng/222245800097",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "학원 기업정보(대표자명 확인)",
+   "summary": "확인일 2026-09-18(KST). 알바몬 기업정보 원문에서 시은영어학원·대표자명 김시훈·서울 금천구 시흥대로 198을 확인했다. 기존 레코드 김시훈/원장/시은영어학원(시흥동)과 일치.",
+   "sourceUrl": "https://m.albamon.com/jobs/detail-company/kMNzbp_Cd96obb4O9lGkuw==",
+   "activityDate": null,
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "글",
+   "summary": "문일고 1학년 영어 내신 시험 4주 전 대비 전략 분석 및 초등 고학년을 위한 단어 암기 공부법, 오답 관리에 대한 교육 칼럼을 작성했습니다.",
+   "sourceUrl": "https://blog.naver.com/sieuneng",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "금천구 시흥동에서 시은영어학원을 운영하며 문일고, 금천고, 동일여고 등 지역 학교들의 영어 내신 분석 및 공부법 칼럼을 직접 작성하여 학생들을 지도하고 있습니다.",
+ "lastResearchedAt": "2026-09-18T02:38:42.629968",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

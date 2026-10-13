@@ -1,0 +1,80 @@
+{
+ "id": 92,
+ "name": "현미정",
+ "role": "원장",
+ "academyName": "플에이스영어 감일학원",
+ "province": "경기도",
+ "cityDistrict": "하남시",
+ "activityRegion": "경기도 하남시",
+ "identitySummary": "하남시 감일동 플에이스영어 감일학원 원장(소피아). 입력-출력 영어 두뇌 시스템을 운영하는 영어교육자.",
+ "educationPhilosophy": "말하거나 쓰기 전에 충분한 인풋이 먼저 들어가야 하며, 입력부터 출력까지 복습의 매일 반복으로 영어를 외우는 과목이 아닌 이해되는 언어로 바꾼다. 초등 때 제대로 배우면 고등까지 수월해지며, 아이가 학원 오는 걸 좋아하게 만드는 것을 가장 큰 보람으로 여긴다.",
+ "curriculum": "매일 30분 개별 PT 입력 수업과 그룹 GT 출력 수업(말하기·뮤지컬·발표)을 결합한다. PLA(파닉스)부터 LA(미국교과서와 뮤지컬)까지 CE(구문·심화) 단계에 Syntax·Play Phonics·복불보카·Grammar Tetris·리드365 확장 프로그램을 운영한다.",
+ "distinctiveTeaching": "개별 PT 입력룸과 그룹 GT 출력룸의 이원 공간 수업, 노래·뮤지컬·발표 중심 출력 활동.",
+ "recentActivity": "2026년 9월 2학기 중간고사 대비 수업, 8월 다독·정독과 영어뇌 글 등 현재 수업 기록을 블로그에 지속 공개. 2026년 5월 언론 인터뷰에서 수업 철학 공개.",
+ "strengths": [
+  "입력-출력 매일 반복 시스템",
+  "PLA부터 CE까지 단계 커리큘럼과 확장 프로그램",
+  "2026년 현재 수업 기록 지속 공개",
+  "언론 인터뷰로 공개된 수업 철학"
+ ],
+ "improvementSuggestions": [
+  "중고등 내신 성과 기록 체계화",
+  "학년별 로드맵 온라인 정리"
+ ],
+ "officialChannels": {
+  "homepage": "https://placeenglish.co.kr/",
+  "blog": "https://blog.naver.com/jenny_1310",
+  "youtube": null,
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "시험 대비 안내",
+   "summary": "2026년 2학기 중간고사 어휘·문법·본문·서술형·실전문제 정리 과정 안내",
+   "sourceUrl": "https://blog.naver.com/jenny_1310/224398873955",
+   "activityDate": "2026-09-02",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "수업 방법",
+   "summary": "다독과 정독의 차이와 중등 내신에서의 우선순위 설명",
+   "sourceUrl": "https://blog.naver.com/jenny_1310/224375195239",
+   "activityDate": "2026-08-11",
+   "evidenceKind": "TEACHING_METHOD"
+  },
+  {
+   "contentType": "수업 현장",
+   "summary": "영국 문화체험으로 영어를 경험으로 받아들이게 하는 체험형 수업 진행",
+   "sourceUrl": "https://blog.naver.com/jenny_1310/224361634365",
+   "activityDate": "2026-07-29",
+   "evidenceKind": "TEACHING_METHOD"
+  },
+  {
+   "contentType": "학습 방법",
+   "summary": "영어는 공부가 아니라 운동이라는 반복 학습 철학과 읽기·문법·표현 성장 평가 설명",
+   "sourceUrl": "https://blog.naver.com/jenny_1310/224339306172",
+   "activityDate": "2026-07-07",
+   "evidenceKind": "PHILOSOPHY"
+  },
+  {
+   "contentType": "학원 정보",
+   "summary": "하남시 감일백제로 105, 파닉스부터 고등 사고력 단계와 레벨 진단 운영",
+   "sourceUrl": "https://www.daangn.com/kr/local-profile/%EA%B0%90%EC%9D%BC-%ED%94%8C%EC%97%90%EC%9D%B4%EC%8A%A4%EC%98%81%EC%96%B4-%EB%94%B1%ED%92%80%EB%A6%AC%EB%8A%94%EC%88%98%ED%95%99-2nityg51trxm/",
+   "activityDate": "2026-05-08",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "언론 인터뷰",
+   "summary": "입력-출력 영어 두뇌 시스템과 PT·GT 수업, PLA부터 CE까지 단계 커리큘럼 인터뷰",
+   "sourceUrl": "https://www.itinsight.kr/news/456413",
+   "activityDate": "2026-05-05",
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "Chart 전국 확장 조사 (하남). 언론 인터뷰·2026년 블로그·제3자 학원정보에서 실명·소속·지역·최근활동 확인.",
+ "lastResearchedAt": "2026-09-14T02:27:53.262196",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

@@ -1,0 +1,39 @@
+{
+ "id": 16,
+ "name": "권아영",
+ "role": "원장",
+ "academyName": "오케이영어교습소",
+ "province": "서울특별시",
+ "cityDistrict": "동대문구",
+ "activityRegion": "서울 동대문구 전농동",
+ "identitySummary": "동대문구 전농동 지역의 중고등 영어 내신 분석 글을 직접 작성하고 소수정예로 직강하는 원장으로 확인됨.",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "언론 인터뷰(원장 직접 발언)",
+   "summary": "확인일 2026-09-18(KST). 유스연합 원문 인터뷰에서 전농동 오케이영어교습소 권아영 원장이 중·고등 입시영어 지도 방식(내신-수능 연계, 개별 맞춤)·교육 철학·제자 지도 사례를 직접 발언했다. 기존 레코드 권아영/원장/오케이영어교습소(전농동)와 일치. 평가 연결: 수업·교육 실천 및 전문성.",
+   "sourceUrl": "https://www.youthassembly.kr/news/878036",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "글",
+   "summary": "동대문구 전농동 일대 주요 중학교(동대문중, 숭인중, 전농중, 전일중) 및 고등학교(휘경여고)의 영어 내신 출제 경향을 완벽 분석하고, 4단계 빌드업을 통한 내신 대비반을 운영하는 교육 활동을 소개함.",
+   "sourceUrl": "https://blog.naver.com/okkoenglish/224210344643",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "동대문구 전농동 지역의 중고등 영어 내신 분석 글을 직접 작성하고 소수정예로 직강하는 원장으로 확인됨.",
+ "lastResearchedAt": "2026-09-18T02:19:18.414075",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

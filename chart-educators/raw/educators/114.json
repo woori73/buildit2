@@ -1,0 +1,50 @@
+{
+ "id": 114,
+ "name": "백승일",
+ "role": "원장",
+ "academyName": "조슈아영어 통영학원",
+ "province": "경상남도",
+ "cityDistrict": "통영시",
+ "activityRegion": "경상남도 통영시",
+ "identitySummary": "통영시 광도면 죽림의 조슈아영어 통영학원에서 백승일 원장이 본인 실명으로 블로그를 운영한다. 2026년 게시글에서 통영영어학원 조슈아영어 백승일 원장임을 직접 밝히고 23년 운영 경력을 소개한다.",
+ "educationPhilosophy": "영어 실력은 개인의 재능이 아니라 반복 가능한 구조와 지속 가능한 습관에서 결정된다고 본다. 강사가 바뀌어도 학습이 끊기지 않도록 사람이 아니라 구조가 성적을 만드는 학원을 지향하며, 최적의 몰입 환경을 유지하는 것을 타협 없는 교육 철학으로 제시한다.",
+ "curriculum": "초등부는 주 5회 1시간 30분 수업을 원칙으로 하고 유치부~초2부터 Hooked on Phonics로 소리·글자 규칙을 체화시킨다. 개인별 컴퓨터와 이어폰을 써서 그날 배운 단어를 단어장에 직접 쓰며 내재화하는 자기주도 보카 학습, 70점 커트라인을 통과해야 다음 레벨로 전진하고 부족한 부분은 AI가 계산한 최적의 시점에 복습 루틴을 다시 설계하는 엄격한 테스트, 리스닝·리딩·문법을 통합하는 코어 수업을 하나의 경로로 연결한다.",
+ "distinctiveTeaching": "레벨 통과 기준과 AI 복습 주기 설계로 강사 개인기에 의존하지 않는 학습 구조를 만들고, 중·고등 내신과 고등 과정까지 초등부터 이어지는 단일 경로로 설계한다.",
+ "recentActivity": "2026년 4월 15일 2만 명 데이터 기반 몰입 시스템과 초등부 수업 구조를 설명하는 글을, 2026년 4월 20일에는 죽림 지역에서 영어학원 선택 기준 4가지를 원장 본인名义로 설명하는 글을 게시했다.",
+ "strengths": [
+  "원장 실명과 경력 학원 운영 정보가 블로그에 직접 공개됨",
+  "2026년 두 건의 교육 구조 설명 게시글",
+  "레벨 테스트 커트라인·복습 주기 등 수업 운영 기준이 구체적"
+ ],
+ "improvementSuggestions": [
+  "본사 브랜드(조슈아영어) 프랜차이즈 소속으로, 지점 자체 수업 사진·학생 결과물 근거를 추가 확보할 필요"
+ ],
+ "officialChannels": {
+  "homepage": null,
+  "blog": "https://blog.naver.com/joshuaenglish002",
+  "youtube": null,
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "NAVER_BLOG",
+   "summary": "2026년 4월 20일 게시. 백승일 원장이 본인 실명으로 인삿말을 하며, 영어 실력은 타고난 재능보다 어떤 구조 안에서 얼마나 일관되게 학습했는지에 따라 달라진다는 교육철학과 사람이 아니라 구조가 성적을 만든다는 원칙을 직접 서술한다.",
+   "sourceUrl": "https://m.blog.naver.com/joshuaenglish002/224258233595",
+   "activityDate": "2026-04-20",
+   "evidenceKind": "PHILOSOPHY"
+  },
+  {
+   "contentType": "NAVER_BLOG",
+   "summary": "2026년 4월 15일 게시. 초등부 주 5회 1시간 30분 수업 원칙, Hooked on Phonics 기초 과정, 자기주도 보카 학습, 70점 커트라인 통과 시 다음 레벨 전진과 AI 복습 루틴 설계, 리스닝·리딩·문법 통합 코어 수업으로 이어지는 커리큘럼을 상세히 안내한다.",
+   "sourceUrl": "https://m.blog.naver.com/joshuaenglish002/224252240839",
+   "activityDate": "2026-04-15",
+   "evidenceKind": "CURRICULUM"
+  }
+ ],
+ "discoveryReason": "region queue의 미조사 지역인 경상남도 통영시에서 실명 원장이 수업 구조를 직접 공개하는 초등·중등 영어 학원으로 확인됨.",
+ "lastResearchedAt": "2026-09-19T15:30:37.889102",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

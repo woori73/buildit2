@@ -1,0 +1,32 @@
+{
+ "id": 28,
+ "name": "김동길",
+ "role": "원장",
+ "academyName": "김동길영어학원",
+ "province": "서울특별시",
+ "cityDistrict": "노원구",
+ "activityRegion": "서울 노원구 중계동",
+ "identitySummary": "혜성여고 등 노원구 지역 고등학교의 영어 내신 기출 및 적중 문제를 분석하고, 블로그를 통해 내신 분석 자료를 제공하는 지역 영어 교육자입니다.",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "글",
+   "summary": "혜성여고 1학년 영어 내신 기출 및 적중 문제를 분석하고, 중계동 지역 고등부 영어 내신 분석 및 기고 활동을 진행합니다.",
+   "sourceUrl": "https://blog.naver.com/kdgfull",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "혜성여고 등 노원구 지역 고등학교의 영어 내신 기출 및 적중 문제를 분석하고, 블로그를 통해 내신 분석 자료를 제공하는 지역 영어 교육자입니다.",
+ "lastResearchedAt": "2026-08-27T18:15:51.355746",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

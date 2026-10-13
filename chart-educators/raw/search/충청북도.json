@@ -1,0 +1,82 @@
+{
+ "province": "충청북도",
+ "expected": 5,
+ "returned": 5,
+ "content": [
+  {
+   "id": 62,
+   "name": "신원경",
+   "role": "원장",
+   "academyName": "윤선생IGSE아카데미 옥천학원",
+   "province": "충청북도",
+   "cityDistrict": "옥천군",
+   "activityRegion": "충청북도 옥천군",
+   "identitySummary": "옥천읍에서 초등 중심 영어 학습을 운영하는 윤선생 영어교실 옥천센터 원장",
+   "educationPhilosophy": null,
+   "eligibilityStatus": "RESEARCH_PENDING",
+   "researchPending": true,
+   "profileImageUrl": null,
+   "lastResearchedAt": "2026-09-18T03:09:50.56201"
+  },
+  {
+   "id": 61,
+   "name": "박권호",
+   "role": "원장",
+   "academyName": "센텀영어학원",
+   "province": "충청북도",
+   "cityDistrict": "증평군",
+   "activityRegion": "충청북도 증평군",
+   "identitySummary": "증평군 송산리에서 초·중·고 내신과 수능 영어를 직접 지도하는 한국교원대 대학원 영어교육 전공 원장",
+   "educationPhilosophy": "변화하는 국가 교육과정과 학교별 평가를 학부모와 학생이 이해할 수 있도록 해석하고, 이를 실제 학습 준비로 연결하는 것을 중시한다. 초등부터 고등까지 장기적인 입시 영어 흐름을 한 기관에서 이어가되 직접 강의와 소규모 학습 환경을 통해 현장 밀착도를 유지한다.",
+   "eligibilityStatus": "EVALUATABLE",
+   "researchPending": false,
+   "profileImageUrl": null,
+   "lastResearchedAt": "2026-08-28T16:35:06.057642"
+  },
+  {
+   "id": 60,
+   "name": "조은아",
+   "role": "원장",
+   "academyName": "조은아영어교습소",
+   "province": "충청북도",
+   "cityDistrict": "충주시",
+   "activityRegion": "충청북도 충주시",
+   "identitySummary": "충주시 연수동에서 중·고등 영어 내신과 수능을 지도하는 1인 영어교습소 대표 교육자",
+   "educationPhilosophy": "문법 지식을 분리된 암기로 두지 않고 문장 구조 이해를 거쳐 독해로 연결하는 기초 체계를 중시한다. 중학생에게는 교과 내신 기반을, 고등학생에게는 그 기반을 수능 유형 독해까지 확장하는 연속적인 학습 흐름을 지향한다.",
+   "eligibilityStatus": "EVALUATABLE",
+   "researchPending": false,
+   "profileImageUrl": null,
+   "lastResearchedAt": "2026-08-28T16:30:48.437558"
+  },
+  {
+   "id": 59,
+   "name": "김요한",
+   "role": "원장",
+   "academyName": "ITC영어 청주 테크노폴리스점",
+   "province": "충청북도",
+   "cityDistrict": "청주시",
+   "activityRegion": "충청북도 청주시",
+   "identitySummary": "청주 테크노폴리스에서 ITC영어 지점을 운영하며 말하기 중심 영어수업을 지도하는 김요한 원장.",
+   "educationPhilosophy": "말하기 능력은 반복 연습으로 형성되며 단계별 목표를 실제 결과로 확인해야 한다고 설명한다. 수강생이 실력을 숨기지 않고 발표와 공개수업을 통해 자신감을 키우는 과정을 중시한다.",
+   "eligibilityStatus": "RESEARCH_PENDING",
+   "researchPending": true,
+   "profileImageUrl": null,
+   "lastResearchedAt": "2026-08-28T16:28:42.140153"
+  },
+  {
+   "id": 58,
+   "name": "이금연",
+   "role": "원장",
+   "academyName": "제니퍼영어닷컴어학원",
+   "province": "충청북도",
+   "cityDistrict": "청주시",
+   "activityRegion": "충청북도 청주시",
+   "identitySummary": "청주시 오창읍 제니퍼영어닷컴어학원과 제니퍼키즈를 운영하며 유아부터 고등까지 지도하는 제니퍼 원장(대표자 이금연).",
+   "educationPhilosophy": "영어는 문제를 푸는 지식에 머물지 않고 실제로 말할 수 있어야 하며, 즐겁게 배운 영어가 평생 지속된다고 본다. 매일 균형 잡힌 입력과 출력에 노출시키되 학생의 레벨과 성향에 맞춰 영어·한국어 비중을 조절하는 것을 중시한다.",
+   "eligibilityStatus": "EVALUATABLE",
+   "researchPending": false,
+   "profileImageUrl": null,
+   "lastResearchedAt": "2026-08-28T16:28:42.083908"
+  }
+ ]
+}

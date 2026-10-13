@@ -1,0 +1,32 @@
+{
+ "id": 8,
+ "name": "박정인",
+ "role": "원장",
+ "academyName": "박정인영어교습소",
+ "province": "서울특별시",
+ "cityDistrict": "서초구",
+ "activityRegion": "서울 서초구 잠원동",
+ "identitySummary": "잠원동에서 영어 교습소를 운영하며 세화여고, 반포고 등 인근 학교의 영어 내신을 직접 분석하고 지도하는 개인 교육자임.",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "글",
+   "summary": "\"[세화여고1] 26년 1학기 중간고사 분석\" 글을 통해 세화여고 영어 시험의 부교재 출제 비중(54% 이상)과 서술형 및 어휘의 까다로움을 분석하고, 단순 암기가 아닌 지문 포인트 중심 정리의 중요성을 강조함.",
+   "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWBscw-JCyMkM8Qo753yXRI9TNh7vwYHdxJ_Rouq7wXHYVCZTKMQj1vLkRFbfUTiL-DeX_9HddR7_ez9IbbbtiJaEqFKyAmHkJGKeW8wqglaGuc0bJrFfDYv2yc7rN4cZGny4ECgdoX5_wvkl6zCCOoBuo5sizTSrdKsob7MF3o5bHAbJWGSCgUAVNGsroRFumeKnoLIzH9LLodRw3xDPnHdQ2nzq72iyBvfbpYJckfsNw4ZQ=",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "잠원동에서 영어 교습소를 운영하며 세화여고, 반포고 등 인근 학교의 영어 내신을 직접 분석하고 지도하는 개인 교육자임.",
+ "lastResearchedAt": "2026-08-27T18:15:51.272935",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

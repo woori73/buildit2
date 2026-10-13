@@ -1,0 +1,32 @@
+{
+ "id": 32,
+ "name": "제프",
+ "role": "선생님",
+ "academyName": "솔리드영어교습소",
+ "province": "서울특별시",
+ "cityDistrict": "은평구",
+ "activityRegion": "서울 은평구 역촌동",
+ "identitySummary": "은평구 역촌동에서 초·중·고 대상 영어 전문 교습소를 운영하며, 수능 영어 분석 및 초등 신규생 맞춤형 학습법에 관한 글을 직접 작성하고 지도하는 교육자로 확인됨. 실명이 명확하지 않아 모호성(isAmbiguous)을 true로 표시함.",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "글",
+   "summary": "초등부에서 중등부로 진학하는 학생들을 대상으로 한 영어 학습 습관 형성과 2026학년도 수능 영어 분석 등 입시 영어의 흐름을 짚어주는 1:1 밀착 지도를 진행함.",
+   "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7dg0Ff4rnRRRWfFJ5RVZuvV3_TWelGEEao6dJH-mZw8QupOYczKQ649A_vHjvDeKI_ePJf1aRh-wArAVt6hLSf6SG7wRNrx58dvI0kMiRTaIXAxwK0-FzWPu_-A63XzlETAu0WuJiwsfRBANcYuh64VdtCknsZqODxlNEtGJVRViybzk0YTn2WGPJezfpnDbHIUcd96AdzdqavErHMcFkW_TskBqFK1hAr1Sdo-im",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "은평구 역촌동에서 초·중·고 대상 영어 전문 교습소를 운영하며, 수능 영어 분석 및 초등 신규생 맞춤형 학습법에 관한 글을 직접 작성하고 지도하는 교육자로 확인됨. 실명이 명확하지 않아 모호성(isAmbiguous)을 true로 표시함.",
+ "lastResearchedAt": "2026-08-27T18:15:51.368956",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

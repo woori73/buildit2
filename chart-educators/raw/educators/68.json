@@ -1,0 +1,66 @@
+{
+ "id": 68,
+ "name": "정효실",
+ "role": "원장",
+ "academyName": "STC 입시영어학원 대구칠곡센터",
+ "province": "대구광역시",
+ "cityDistrict": "북구",
+ "activityRegion": "대구광역시 북구",
+ "identitySummary": "대구 북구 동천동에서 12년 이상의 입시영어 경험을 바탕으로 학생별 영역·속도 진단, 자기분석형 내신 피드백과 공부 습관 지도를 결합하는 원장.",
+ "educationPhilosophy": "정효실 원장은 영어 성적 향상 자체를 넘어 영어에서 얻은 성취감이 학생의 꿈을 만들고 키우도록 돕는 것을 보람으로 설명한다. 입시 과정에서 누구도 포기와 좌절에 머물지 않도록 공부 방법과 습관, 끝까지 해내는 힘을 함께 길러야 한다고 강조한다.",
+ "curriculum": "학생별 영역 실력과 학습 속도를 진단해 맞춤 수업을 배치하고, 내신 기간에는 개념 숙지 여부·실수·취약점을 학생 스스로 분석하게 한다. 분석 결과는 다음 내신 사이의 집중 트레이닝과 학습 습관 관리로 연결하며, 단계별 입시영어 과정으로 노베이스에서 상위권까지 성장하도록 설계한다.",
+ "distinctiveTeaching": "강의 전달만이 아니라 자기 취약점 분석→보완 파트 설정→내신 사이 집중 훈련을 반복하고, 원장이 공부법과 습관까지 관리하는 개별 맞춤 구조를 운영한다.",
+ "recentActivity": "2026년 현재 대구 북구 학정로의 등록 학원으로 운영 중이며 공식 홈페이지의 교육시스템·내신대비·커리큘럼과 사업자·원장 정보가 최근 갱신되어 있다.",
+ "strengths": [
+  "성취감과 꿈의 확장을 영어교육의 목표로 연결하는 개인 철학이 명확하다.",
+  "학생이 자신의 실수와 취약점을 스스로 분석하도록 지도한다.",
+  "진단 결과를 내신 사이 집중 트레이닝과 습관 관리로 환류한다.",
+  "12년 이상의 입시영어 현장 경험을 현재 지역 수업에 적용한다."
+ ],
+ "improvementSuggestions": [
+  "학생의 자기분석 기록이 다음 훈련 계획으로 바뀌는 익명 사례를 공개하면 시스템의 효과가 더 선명해질 수 있다.",
+  "학년·수준별 커리큘럼의 성취 기준을 텍스트로 더 자세히 공개하면 성장 경로를 이해하기 쉬워질 수 있다."
+ ],
+ "officialChannels": {
+  "homepage": "https://stc7power.com/",
+  "blog": null,
+  "youtube": null,
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "내신 수업 시스템",
+   "summary": "개념 숙지와 실수·취약점을 학생 스스로 분석한 뒤 다음 내신 사이 집중 트레이닝으로 보완하는 구체적 수업 환류 구조를 확인한다.",
+   "sourceUrl": "https://stc7power.com/naesin",
+   "activityDate": "2026-08-22",
+   "evidenceKind": "TEACHING_METHOD"
+  },
+  {
+   "contentType": "원장 교육철학·현재 운영",
+   "summary": "정효실 원장의 12년 입시영어 경험, 학생의 성취감과 꿈을 키우고 포기하지 않는 힘을 전하려는 철학, 공부법·습관까지 지도하는 현재 대구 북구 학원 운영을 확인한다.",
+   "sourceUrl": "https://stc7power.com/",
+   "activityDate": "2026-08-22",
+   "evidenceKind": "PHILOSOPHY"
+  },
+  {
+   "contentType": "현재 오프라인 학원 정보",
+   "summary": "대구광역시 북구 학정로 435에서 정효실 원장이 운영하는 현재 오프라인 학원의 주소와 등록 정보를 확인한다.",
+   "sourceUrl": "https://stc7power.com/map",
+   "activityDate": "2026-07-28",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "영어 과정 안내",
+   "summary": "학생별 수준과 입시 목표에 맞춰 단계적으로 영어 기반을 각인하고 상위권까지 연결하는 대구칠곡센터의 현재 과정 안내다.",
+   "sourceUrl": "https://stc7power.com/curri",
+   "activityDate": "2026-07-28",
+   "evidenceKind": "CURRICULUM"
+  }
+ ],
+ "discoveryReason": "성적 홍보에 그치지 않고 학생이 포기하지 않는 힘과 성취감을 얻도록 돕는 교육철학을 원장 개인이 직접 밝히고, 학생별 속도에 맞춘 수업·취약점 자기분석·집중 보완으로 이어지는 구체적 시스템을 공개했기 때문에 발견했다.",
+ "lastResearchedAt": "2026-08-28T16:56:20.256046",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

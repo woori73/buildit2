@@ -1,0 +1,32 @@
+{
+ "id": 31,
+ "name": "이영인",
+ "role": "원장",
+ "academyName": "프라임온 영어교습소",
+ "province": "서울특별시",
+ "cityDistrict": "은평구",
+ "activityRegion": "서울 은평구 갈현동",
+ "identitySummary": "은평구 연신내 지역에서 1:1 개별진도 원장 직강을 강조하며, 인근 중학교들의 시험 직전 요점 정리 자료 제작 및 교재 분석 글을 작성한 교육자로 확인됨.",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "글",
+   "summary": "초·중·고를 연결하는 1:1 개별진도 수업을 진행하며, 선일여중, 불광중, 은평중, 대성중 등 인근 학교들의 시험 직전 요점 정리 자료를 직접 제작하여 높은 적중률을 보임.",
+   "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSXrTDZEx4AHsUnepHp6-u-o5NUignukLSj-h_jAbTYA8QdBR2O_LVdSouSaPyLVLa0WS4ouiNd4Jh0AZd0r2tOv5eAoFd3ao--nseYbI7-w==",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "은평구 연신내 지역에서 1:1 개별진도 원장 직강을 강조하며, 인근 중학교들의 시험 직전 요점 정리 자료 제작 및 교재 분석 글을 작성한 교육자로 확인됨.",
+ "lastResearchedAt": "2026-08-27T18:15:51.363355",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

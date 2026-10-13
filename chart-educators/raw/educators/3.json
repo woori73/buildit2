@@ -1,0 +1,46 @@
+{
+ "id": 3,
+ "name": "김성수",
+ "role": "대표",
+ "academyName": "클랭에듀러닝센터",
+ "province": "경기도",
+ "cityDistrict": "성남시 분당구",
+ "activityRegion": "경기도 성남시 분당구",
+ "identitySummary": "분당 서현동에서 성인 영어회화 학원을 운영하며 말하기 환경과 학습 습관 형성을 중심으로 교육하는 대표",
+ "educationPhilosophy": "영어 지식 부족보다 실제로 말할 환경과 습관의 부재를 문제로 보고, 수강생을 존중하며 지속 가능한 영어 사용 습관을 만드는 것을 목표로 한다.",
+ "curriculum": "평균 4~5명 소수정예, 주 9회 원어민 프리클래스, 수업 녹음·판서·쉐도잉·주간 영작 첨삭을 연결한다.",
+ "distinctiveTeaching": "배운 문장을 수업 중 직접 말하게 하고 학원 밖에서도 녹음·쉐도잉·첨삭으로 학습이 이어지도록 설계한다.",
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [
+  "대표가 직접 설계·개선한 수업 사례와 학습 전후 과정을 교육 콘텐츠로 더 많이 남기면 강점이 잘 발견될 수 있다."
+ ],
+ "officialChannels": {
+  "homepage": "https://www.cllangedu.co.kr/",
+  "blog": "https://www.cllangedu.co.kr/blog",
+  "youtube": null,
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "공식 대표 인사말",
+   "summary": "대표 김성수가 영어 학습의 핵심을 습관과 실제 발화 환경으로 설명하고 분당 오프라인 운영 정보를 공개한다.",
+   "sourceUrl": "https://www.cllangedu.co.kr/welcome",
+   "activityDate": "2026-08-21",
+   "evidenceKind": "PHILOSOPHY"
+  },
+  {
+   "contentType": "공식 학원 블로그",
+   "summary": "2026년 수강생별 학습 목적과 수업 경험을 지속적으로 기록하며 실제 회화 수업과 학생 피드백 활동을 보여준다.",
+   "sourceUrl": "https://www.cllangedu.co.kr/blog",
+   "activityDate": "2026-06-26",
+   "evidenceKind": "STUDENT_GUIDANCE"
+  }
+ ],
+ "discoveryReason": "성인 학습자의 장롱영어 문제를 환경·발화·습관의 관점으로 진단하고 소수정예 수업과 반복적인 실천 구조를 구체적으로 공개한다.",
+ "lastResearchedAt": "2026-08-27T15:45:48.143934",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

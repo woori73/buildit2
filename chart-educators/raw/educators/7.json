@@ -1,0 +1,39 @@
+{
+ "id": 7,
+ "name": "이광노",
+ "role": "대표",
+ "academyName": "케이앤(KN)영어학원",
+ "province": "서울특별시",
+ "cityDistrict": "서초구",
+ "activityRegion": "서울 서초구 반포동",
+ "identitySummary": "반포동에서 소수정예로 학생들을 직접 지도하며, 블로그를 통해 서초 지역 고교 영어 내신 분석 및 메타인지 학습 활동의 중요성을 담은 교육 콘텐츠를 작성함.",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "학원 기업정보(대표자명 확인)",
+   "summary": "확인일 2026-09-18(KST). 알바몬 기업정보 원문에서 KN영어학원·대표자명 이광노·서울 서초구 반포동 54-2·중고등부 영어전문학원·2013년 11월 개원을 확인했다. 기존 레코드 이광노/대표/케이앤(KN)영어학원/반포동과 일치. 수업 방식·성적 실적은 이번 근거로 확정하지 않음. 평가 연결: 대표 역할 및 지역 운영 확인.",
+   "sourceUrl": "https://m.albamon.com/jobs/detail-company/xKxAuOINTjyz_Cdkp2ENaw==",
+   "activityDate": null,
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "글",
+   "summary": "\"2026 고1 영어, 설계가 결과를 만듭니다\" 글을 통해 반포고, 상문고, 서초고 등 서초 지역 고등학교의 내신 시험 특징(지문 변형 및 서술형 대비)을 분석하고, 내신과 수능을 유기적으로 연결하는 '수업+활동+코칭' 학습법을 제시함.",
+   "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2FzkYMUEZ-iiFYUDo89WEH_nRUcsOdGadE6QeV6GpimX8-0i4a8b3TlwishliMtbJAYWtQnBah-mdz0U3f8f__Acj5Lp8jJJ49XWaOTHlhKDscXsFowVYiTA4gJtyTOcRnB_uVtvrvwbr",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "반포동에서 소수정예로 학생들을 직접 지도하며, 블로그를 통해 서초 지역 고교 영어 내신 분석 및 메타인지 학습 활동의 중요성을 담은 교육 콘텐츠를 작성함.",
+ "lastResearchedAt": "2026-09-18T02:00:02.127575",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

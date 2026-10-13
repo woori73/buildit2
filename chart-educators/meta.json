@@ -1,0 +1,62 @@
+{
+ "source": "https://feel2real.co.kr/chart",
+ "publicationId": 35,
+ "rankAsOf": "2026-09-14T00:00:00.000Z",
+ "publicationUpdatedAt": "2026-09-20T02:20:23.713456",
+ "updatedLabel": "최근 업데이트 2026.09.20",
+ "collectedAt": "2026-10-14",
+ "criteria": {
+  "criteriaVersion": "buildit-chart-v1",
+  "maxScore": 100,
+  "criteria": [
+   {
+    "key": "identity",
+    "label": "교육철학과 차별성",
+    "weight": 35,
+    "description": "교육자가 무엇을 왜 그렇게 가르치는지 — 자신만의 교육 정체성·교육철학·커리큘럼·차별적 수업 방식이 공개정보에 얼마나 구체적으로 기록되어 있는지를 봅니다."
+   },
+   {
+    "key": "teaching",
+    "label": "실제 수업 활동",
+    "weight": 20,
+    "description": "실제 수업 방식과 학생 지도, 오프라인 현장 수업이 공개 근거로 확인되는지를 봅니다."
+   },
+   {
+    "key": "persistence",
+    "label": "교육 콘텐츠의 지속성",
+    "weight": 15,
+    "description": "수업 자료·교재·글·영상 등 교육 활동이 여러 시점에 걸쳐 꾸준히 확인되는지를 봅니다."
+   },
+   {
+    "key": "expertise",
+    "label": "전문성",
+    "weight": 15,
+    "description": "자체 교재, 특정 학년·영역, 교육 콘텐츠에서 축적된 경험과 전문성이 확인되는지를 봅니다."
+   },
+   {
+    "key": "verification",
+    "label": "여러 공개 출처의 확인",
+    "weight": 10,
+    "description": "한 곳이 아니라 서로 다른 여러 공개 출처에서 교육 활동 근거가 교차 확인되는지를 봅니다."
+   },
+   {
+    "key": "regional",
+    "label": "지역 교육 활동",
+    "weight": 5,
+    "description": "해당 지역에서 실제 오프라인 현장 교육을 이어가고 있다는 근거가 확인되는지를 봅니다."
+   }
+  ],
+  "notEvaluated": [
+   "광고 규모·학원 규모·유명세·프랜차이즈 여부 자체는 점수의 근거나 감점 요소로 쓰지 않습니다.",
+   "\"지역 1위\", \"명문대 합격\", \"최고의 강사진\" 같은 광고성 표현은 전문성을 입증하는 근거로 인정하지 않습니다.",
+   "학생의 성적·성과, 실제 수업의 질, 교사의 전체적인 능력은 평가하지 않습니다."
+  ],
+  "rankingDisclaimer": "BuildIt Ranking은 선생님의 실제 수업 능력 순위가 아닙니다. BuildIt AI가 온라인에 공개된 교육자의 정보와 활동을 바탕으로 교육철학·커리큘럼·수업방식·전문성 및 교육활동이 얼마나 구체적이고 지속적으로 확인되는지를 BuildIt의 동일한 기준으로 분석한 결과입니다. 실제 수업의 질, 학생 성과 또는 교사의 전체적인 능력을 평가하거나 보증하는 순위가 아닙니다. 지역 순위와 전국 순위는 동일한 BuildIt Score를 사용하며, 지역별로 평가 기준이나 가중치를 바꾸지 않습니다.",
+  "scoreDisclaimer": "BuildIt Score는 공개적으로 확인 가능한 교육 활동과 성장 신호를 BuildIt 기준으로 기록한 지표이며, 교육자의 인격·절대적 능력·학생 성과를 의미하지 않습니다."
+ },
+ "totalEducators": 117,
+ "ranked": 100,
+ "researchPending": 17,
+ "provinces": 12,
+ "rankNote": "Chart 순위는 주 단위로 변동될 수 있어 수집 시점(rankAsOf)의 순위를 기록함"
+}

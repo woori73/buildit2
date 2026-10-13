@@ -1,0 +1,46 @@
+{
+ "id": 51,
+ "name": "강진하",
+ "role": "원장",
+ "academyName": "제이티어학원",
+ "province": "부산광역시",
+ "cityDistrict": "사하구",
+ "activityRegion": "부산광역시 사하구",
+ "identitySummary": "부산 사하구 하단동 제이티어학원 원장으로 공개 인터뷰에서 초등부터 고등까지 영어를 지도한다고 소개된 교육자.",
+ "educationPhilosophy": "영어를 암기 과목이 아니라 소통을 위한 소리 언어로 받아들여야 한다고 설명한다. 학습 과정에서 즐거움과 성실을 중시하며 학원 안에서 영어로 지속적으로 표현하도록 지도한다고 밝혔다.",
+ "curriculum": "초급은 듣기·말하기와 파닉스·스토리 읽기를 함께 시작하고, 중급은 문법과 시사 독해, 고급은 에세이·토플·텝스·수능으로 확장하는 단계형 과정이라고 소개했다. 신규 학생은 인터뷰·레벨테스트 뒤 일주일 참관 수업과 교사·학생 의견을 거쳐 수준별 반을 정한다고 밝혔다.",
+ "distinctiveTeaching": "파닉스와 듣기·말하기를 동시에 시작하고, 참관 수업을 포함한 진단 과정으로 소수정예 수준별 반을 운영한다고 공개했다.",
+ "recentActivity": "2023-08-07 공개 인터뷰 외에 현재 연도 활동을 확인할 독립 근거는 확보하지 못했다.",
+ "strengths": [
+  "소리 언어 중심의 철학이 구체적이다.",
+  "초급부터 고급까지 단계별 과정 구조를 공개했다.",
+  "진단·참관 수업을 통한 수준별 배치 방식을 설명했다."
+ ],
+ "improvementSuggestions": [
+  "현재 오프라인 수업 운영을 확인할 최신 공식 자료를 공개하면 평가 가능성이 높아진다.",
+  "홍보성 인터뷰 외에 실제 수업·교재 사례를 독립적으로 확인할 자료가 필요하다."
+ ],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "강사 채용 페이지",
+   "summary": "부산 사하구 하단동 제이티어학원 구인 담당자로 강진하가 표시되고 영어 강사 채용 사실이 공개되어 있으나 게시일과 현재성을 확정하기 어렵다.",
+   "sourceUrl": "https://timestesol.com/sbMn.php?brdActDrct=v&brdMssngr=d2xicmQ9d2F5bGFrZV9pZCZpZHdsX1JyZWNydWl0PTQzNjQmbGlzdE5vPTQyMDAmdGFibGU9d2xfUnJlY3J1aXQgYSBsZWZ0IGpvaW4gd2xfUmNvbXBhbnkgYiBvbiBhLndsX1Jjb21wYW55X2lkd2xfUmNvbXBhbnkgPSBiLmlkd2xfUmNvbXBhbnkmY29kZT1yZWNyMCZzdGFydFBhZ2U9NTIwJnNlYXJjaF9pdGVtPSZzZWFyY2hfb3JkZXI9%5E%7C%5E&idwl_menu_sub=398&pgNm=recr0",
+   "activityDate": "2023-08-07",
+   "evidenceKind": "RECRUITMENT"
+  },
+  {
+   "contentType": "홍보성 인터뷰/학원 소개 기사",
+   "summary": "강진하 원장 개인과 제이티어학원의 K-12 영어교육 정체성, 소리 언어 철학, 단계별 과정, 참관 수업과 수준별 관리 방식을 소개한다.",
+   "sourceUrl": "https://www.eanews.kr/news/724025",
+   "activityDate": "2023-08-07",
+   "evidenceKind": "PRESS_RELEASE"
+  }
+ ],
+ "discoveryReason": "시험 암기보다 영어를 소리와 의사소통 언어로 습득하게 한다는 방향과 단계별 교육과정이 구체적으로 확인되어 Archive 보강 가치가 있다. 다만 확인 근거가 2023년 홍보성 인터뷰 중심이고 현재 활동은 별도 확인되지 않았다.",
+ "lastResearchedAt": "2026-08-28T16:16:37.333169",
+ "eligibilityStatus": "RESEARCH_PENDING",
+ "researchPending": true,
+ "disclaimer": "이 교육자는 아직 평가에 필요한 공개 근거가 충분히 확인되지 않았습니다(RESEARCH_PENDING). 공개적으로 확인된 사실만 표시하며, BuildIt Score나 TOP100 순위 대상이 아닙니다."
+}

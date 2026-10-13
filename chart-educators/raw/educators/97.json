@@ -1,0 +1,80 @@
+{
+ "id": 97,
+ "name": "신승철",
+ "role": "원장",
+ "academyName": "일탄영어학원",
+ "province": "경기도",
+ "cityDistrict": "성남시 수정구",
+ "activityRegion": "경기도 성남시 수정구",
+ "identitySummary": "성남시 수정구 창곡동 위례 일탄영어학원 원장. 대치동 강의 경력으로 고등 수능·내신을 원장 직강하는 영어교육자.",
+ "educationPhilosophy": "100점을 광고할 때 합격증을 만든다는 원칙으로, 시험 자료를 기다리는 학원이 아니라 수업이 끝난 학원을 지향한다. 내신과 모의고사는 요구하는 바가 다르므로 내신에 맞게 글을 자세히 학습하는 연습이 필요하다고 본다.",
+ "curriculum": "학교별 시험 범위와 출제 경향을 분석해 변형 대비 자료를 교재팀이 직접 제작하고, 이해 중심 훈련으로 내신·모의고사를 구분 지도한다. 위례고·한빛고·덕수고·복정고 등 학교별 적중 분석과 모의평가를 운영한다.",
+ "distinctiveTeaching": "교재팀 직접 제작 변형 자료와 학교별 적중 분석, 합격증 중심 결과주의.",
+ "recentActivity": "2026년 8월 여름방학 운영, 7월 1학기 성적 결산과 기말 채점 보고 등 현재 수업 기록을 블로그에 지속 공개.",
+ "strengths": [
+  "학교별 적중 분석·변형 자료 직접 제작",
+  "이해 중심 내신·모의고사 구분 지도",
+  "2026년 현재 수업 기록 지속 공개",
+  "위례고 등 다수교 1등급 배출"
+ ],
+ "improvementSuggestions": [
+  "수업 철학 대표 글 정리",
+  "학년별 로드맵 공개"
+ ],
+ "officialChannels": {
+  "homepage": null,
+  "blog": "https://blog.naver.com/iltan_english",
+  "youtube": null,
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "학원 운영",
+   "summary": "2026년 여름방학 운영 안내",
+   "sourceUrl": "https://blog.naver.com/iltan_english/224371525601",
+   "activityDate": "2026-08-07",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "성적 결산",
+   "summary": "2026년 1학기 위례고·한빛고·덕수고·복정고 평균등급 1.0 다수 보고",
+   "sourceUrl": "https://blog.naver.com/iltan_english/224353353684",
+   "activityDate": "2026-07-21",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "적중 분석",
+   "summary": "한빛고·덕수고·복정고 시험 분석과 학교별 사고방식 훈련 설명",
+   "sourceUrl": "https://blog.naver.com/iltan_english/224335452240",
+   "activityDate": "2026-07-03",
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "수업 방법",
+   "summary": "철저한 변형 대비와 본질 내용 이해 훈련의 기록적 성과 설명",
+   "sourceUrl": "https://blog.naver.com/iltan_english/224263727206",
+   "activityDate": "2026-04-24",
+   "evidenceKind": "TEACHING_METHOD"
+  },
+  {
+   "contentType": "교육 관점",
+   "summary": "자료를 기다리는 학원과 수업이 끝난 학원의 차이, 합격증 중심주의 표명",
+   "sourceUrl": "https://blog.naver.com/iltan_english/224228905179",
+   "activityDate": "2026-03-25",
+   "evidenceKind": "PHILOSOPHY"
+  },
+  {
+   "contentType": "사업자 정보",
+   "summary": "계속사업자 대표 신승철, 위례광장로 310",
+   "sourceUrl": "https://www.edufindkorea.com/edu/detail.php?schoolgubun=%ED%95%99%EC%9B%90&uid=73192",
+   "activityDate": null,
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  }
+ ],
+ "discoveryReason": "Chart 전국 확장 조사 (성남 수정). 공식 블로그·사업자등록·제3자 학원정보에서 실명·소속·지역·최근활동 확인.",
+ "lastResearchedAt": "2026-09-14T02:34:08.951398",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

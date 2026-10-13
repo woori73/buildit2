@@ -1,0 +1,60 @@
+{
+ "id": 56,
+ "name": "정유진",
+ "role": "원장",
+ "academyName": "에이블영어학원",
+ "province": "부산광역시",
+ "cityDistrict": "연제구",
+ "activityRegion": "부산광역시 연제구",
+ "identitySummary": "부산 연제구 연산동 에이블영어학원 대표 원장으로 초·중·고 입시 영어교육과 교육 콘텐츠 제작에 참여하는 교육자.",
+ "educationPhilosophy": "단어 뜻이나 본문 암기에 머물지 않고 문장의 구조와 의미를 끝까지 정확히 읽어야 낯선 문제에 적용할 수 있다고 본다. 시험 결과 자체보다 학생이 시험에서 드러난 약점을 파악하고 다음 학습으로 연결하는 과정을 중시한다.",
+ "curriculum": "초등은 문법 교구와 영역별 담당 교사를 통해 기초를 쌓고, 중등은 꼼꼼한 관리와 내신 분석으로 심화 과정의 기반을 만든다. 고등은 학교별 지문과 시험을 분석해 구문 해석과 적용력을 강화하며 방학 학습으로 약점을 보완한다.",
+ "distinctiveTeaching": "문장 완전 해석을 핵심 진단 기준으로 삼고 학년별 전문 수업과 학교별 시험 분석을 연결하며, 교재 집필·감수 활동도 병행한다.",
+ "recentActivity": "2026-07-23과 07-28 공식 채널의 문장 해석·시험 분석 콘텐츠, 2026년 학원 수업 정보와 2026-03 강사 채용으로 현재 오프라인 활동을 확인했다.",
+ "strengths": [
+  "문장 해석을 중심으로 한 학습 관점이 구체적이다.",
+  "초등 교구 수업부터 고등 입시까지 학년별 과정이 구분되어 있다.",
+  "교재 집필·감수 활동을 통해 교육 콘텐츠 제작 참여가 확인된다."
+ ],
+ "improvementSuggestions": [
+  "학생별 진단과 피드백이 어떤 주기로 이루어지는지 공개하면 수업 구조가 더 선명해진다.",
+  "직접 제작한 교재나 문항 사례를 공개하면 콘텐츠 고유성을 더 잘 검증할 수 있다."
+ ],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "학원·수업 정보",
+   "summary": "초등 문법 교구·영역별 담당, 중등 기초와 관리, 고등 심화·입시 과정 및 2026 수업 운영 정보를 확인한다.",
+   "sourceUrl": "https://learns.academy/academies/412c1f55-08c3-42e9-a93e-1e6d16b7e469",
+   "activityDate": "2026-08-27",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "공식 학원 교육 콘텐츠",
+   "summary": "2026년 현재 초·중·고 오프라인 운영과 문장 완전 해석, 시험 분석, 방학 보완 학습을 강조하는 교육 콘텐츠를 확인한다.",
+   "sourceUrl": "https://pf.kakao.com/_cHcNK",
+   "activityDate": "2026-07-23",
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "사업자·대표자 공개 정보",
+   "summary": "에이블영어학원의 대표자 정유진과 부산 연제구 소재 계속사업자 상태를 확인한다.",
+   "sourceUrl": "https://bizno.net/article/2089013871",
+   "activityDate": "2026-03-29",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "교재 집필·감수진 공개 자료",
+   "summary": "부산 연산동 에이블영어학원 정유진이 영어 교재 집필·감수진으로 참여했음을 확인한다.",
+   "sourceUrl": "https://www.book-sk.co.kr/upload/goods/pdf/202510291550210007L9.pdf",
+   "activityDate": "2025-10-29",
+   "evidenceKind": "MATERIAL"
+  }
+ ],
+ "discoveryReason": "단어·문법 암기보다 문장 구조를 끝까지 정확히 해석하는 힘을 강조하고, 초등 문법 교구부터 중고등 내신·입시까지 학년별 구조를 운영하며 영어 교재 집필·감수진에도 참여한 근거가 확인된다.",
+ "lastResearchedAt": "2026-08-28T16:24:48.42018",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

@@ -1,0 +1,44 @@
+{
+ "id": 100,
+ "name": "강수민",
+ "role": "원장",
+ "academyName": "링키영어 대원포레나점",
+ "province": "경상남도",
+ "cityDistrict": "창원시",
+ "activityRegion": "경상남도 창원시",
+ "identitySummary": "창원시 대원동 링키영어 대원포레나점 원장. 2026년 언론 인터뷰에서 수업 철학을 밝힌 영어교육자.",
+ "educationPhilosophy": "확인일 2026-09-18(KST). 창업뉴스 원문 인터뷰에서 강수민 원장이 잘하는 아이보다 좋아하는 아이, 긍정적 영어 정서·자기주도성 철학을 직접 발언했다.",
+ "curriculum": "확인일 2026-09-18(KST). 인터뷰 원문에 유치부~초등 고학년 대상 놀이·반복노출→읽기·쓰기·사고확장 연결 과정과 문장 맥락 평가가 확인된다.",
+ "distinctiveTeaching": "확인일 2026-09-18(KST). 인터뷰 원문에 교구·역할놀이·발화 중심 수업과 암기 지양·자기선택 숙제 방식이 확인된다.",
+ "recentActivity": "2026년 5월 언론 인터뷰에서 수업 철학 공개. 개인 커리큘럼 근거 미확보.",
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": {
+  "homepage": null,
+  "blog": "https://blog.naver.com/reengki_daewon",
+  "youtube": null,
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "언론 인터뷰",
+   "summary": "영어를 잘하는 아이보다 좋아하는 아이가 오래 간다는 수업 철학 인터뷰",
+   "sourceUrl": "https://www.itinsight.kr/news/465076",
+   "activityDate": "2026-05-27",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "언론 인터뷰(원장 직접 발언)",
+   "summary": "확인일 2026-09-18(KST). 창업뉴스 원문 인터뷰에서 링키영어 대원포레나점 강수민 원장이 체화·정서 중심 수업 철학과 운영을 직접 발언했다. 공식 블로그(reengki_daewon)도 기사에 명시되어 있다.",
+   "sourceUrl": "https://www.changupnews.kr/news/958044",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "Chart 전국 확장 조사 (창원). 2026년 언론 인터뷰에서 실명·소속·지역·최근활동 확인. 개인 커리큘럼 근거 미확보.",
+ "lastResearchedAt": "2026-09-18T03:20:12.554693",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

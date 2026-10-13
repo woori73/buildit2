@@ -1,0 +1,32 @@
+{
+ "id": 26,
+ "name": "서쌤",
+ "role": "원장",
+ "academyName": "서쌤의영어독서교실영어교습소",
+ "province": "서울특별시",
+ "cityDistrict": "도봉구",
+ "activityRegion": "서울 도봉구 쌍문동",
+ "identitySummary": "도봉구 쌍문동에서 초등학생 대상 영어 원서 읽기 및 넬트 테스트 분석 등 구체적인 교육활동 콘텐츠를 작성한 원장이나, 실명이 명확히 확인되지 않아 모호함(isAmbiguous: true)으로 표시하여 후보로 선정했습니다.",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "글",
+   "summary": "백운초등학교 학생들을 대상으로 넬트(NELT) 영어 테스트 결과를 분석하고, 반반노트와 연상력 그림장을 활용한 낭독 및 영어 원서 읽기 지도법을 공유했습니다.",
+   "sourceUrl": "https://blog.naver.com/symk79",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "도봉구 쌍문동에서 초등학생 대상 영어 원서 읽기 및 넬트 테스트 분석 등 구체적인 교육활동 콘텐츠를 작성한 원장이나, 실명이 명확히 확인되지 않아 모호함(isAmbiguous: true)으로 표시하여 후보로 선정했습니다.",
+ "lastResearchedAt": "2026-08-27T18:15:51.349171",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

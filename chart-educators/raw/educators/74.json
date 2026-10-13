@@ -1,0 +1,46 @@
+{
+ "id": 74,
+ "name": "박윤지",
+ "role": "강사",
+ "academyName": "알파인영어학원",
+ "province": "강원특별자치도",
+ "cityDistrict": "강릉시",
+ "activityRegion": "강원특별자치도 강릉시",
+ "identitySummary": "강릉 알파인영어학원에서 중·고등 입시영어를 지도하고 대학 영어 특강과 수능 영어 교재 집필에 참여한 현장 강사",
+ "educationPhilosophy": "단순 문제풀이보다 학생별 학습 흐름을 분석하고 중등부터 어법·독해·서술형·내신을 연결해 입시 영어를 완성하는 방향을 실천한다. 교실 수업을 대학생 영어 역량 강화 과정과 교재 집필로 확장하고 있다.",
+ "curriculum": "중등 단계에서 어법·독해·서술형·내신을 체계적으로 쌓고, 학교별·수준별 반편성과 자체 자료 및 자기주도 관리로 고등 수능 과정까지 연결한다. 2026년에는 대학 전공생을 대상으로 TOEIC·TOEFL 집중 강의를 진행했다.",
+ "distinctiveTeaching": "중·고등 입시 수업, 대학 영어 집중 과정, 수능 교재 집필을 연결해 학습 단계와 대상에 맞게 영어 교육 콘텐츠를 확장한다.",
+ "recentActivity": "2026년 여름 강원대학교 전자반도체공학부 공식 의뢰 영어 특강에 박윤지 강사가 출강했고, 알파인영어학원의 최근 교동 오프라인 수업 운영도 확인됨.",
+ "strengths": [
+  "2026년 대학 현장 TOEIC·TOEFL 특강 출강",
+  "중·고등 입시 수업의 단계별 구조",
+  "수능 영어 교재 집필 참여"
+ ],
+ "improvementSuggestions": [
+  "개인 명의의 수업 사례와 학습 변화 과정을 더 공개하면 교육철학의 검증 가능성이 높아진다.",
+  "자체 자료의 설계 원칙과 실제 활용 예시를 공개하면 고유성이 더 분명해진다."
+ ],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "학원 소식 및 강사 활동 소개",
+   "summary": "박윤지 강사가 2026년 강원대학교 전자반도체공학부에서 TOEIC·TOEFL 집중 영어 특강을 진행했고, 알파인영어의 학생별 학습 흐름 분석·중등부터 입시 연결·자기주도 관리 수업 체계를 확인했다.",
+   "sourceUrl": "https://academy.prompie.com/academies/detail/szg2uqj/%EC%95%8C%ED%8C%8C%EC%9D%B8%EC%98%81%EC%96%B4%ED%95%99%EC%9B%90/",
+   "activityDate": "2026-05-21",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "수능 영어 교재 집필진 PDF",
+   "summary": "박윤지가 강릉 알파인영어학원 소속 영어 교재 집필·감수진으로 명시되어 있어 현장 수업 외 교육 콘텐츠 제작 활동을 확인했다.",
+   "sourceUrl": "https://www.book-sk.co.kr/upload/goods/pdf/202510291557000007UG.pdf",
+   "activityDate": "2025-10-29",
+   "evidenceKind": "MATERIAL"
+  }
+ ],
+ "discoveryReason": "학원 광고 노출이 아니라 2026년 강원대학교 TOEIC·TOEFL 특강 출강과 전국 수능 영어 교재 집필진 참여라는 교육 활동이 교차 확인됨",
+ "lastResearchedAt": "2026-08-29T01:51:08.795094",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

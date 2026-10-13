@@ -1,0 +1,39 @@
+{
+ "id": 21,
+ "name": "이윤정",
+ "role": "원장",
+ "academyName": "윤정영어학원",
+ "province": "서울특별시",
+ "cityDistrict": "성북구",
+ "activityRegion": "서울 성북구 동소문동",
+ "identitySummary": "성북구 지역에서 오랫동안 직접 고등부 내신(한성여고, 동성고, 경동고, 홍익고, 용문고 등)을 밀착 지도해 온 교육자로 확인되었습니다.",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "학원 소개문(원장 본인 명의)",
+   "summary": "확인일 2026-09-18(KST). 학원정보 원문에 \"윤정영어 원장 이윤정입니다. 성북구에서만 12년째 학생들을 지도…내신 관리부터 수능까지 원장 직강\"이라는 원장 본인 명의 소개가 있다. 기존 레코드 이윤정/원장/윤정영어학원(동소문동)과 일치. 성적 실적은 미확정. B급(소속·대표 연결)으로 기록하며 점수는 확정 평가 아님.",
+   "sourceUrl": "https://academy.prompie.com/academies/detail/4r5f59d/%EC%9C%A4%EC%A0%95%EC%98%81%EC%96%B4%ED%95%99%EC%9B%90/",
+   "activityDate": null,
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "글",
+   "summary": "성북구에서 12년째 학생들을 지도하며 초6부터 고3까지 내신 관리와 수능 대비를 원장 직강으로 진행하는 체계적인 커리큘럼을 소개합니다.",
+   "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH2c4ss1TyiHZ7pFBSeSELpjpuIBh-YNPWD42ctaT_aOPEkPKEknvnSzOgcnnpx_40TOx_YPTl0MuwgsbdsyCoq7_pzxi1GDApngKxZUbgJAu2NHRj3jM8h_5AVQOLYGbVSl9w3gc36JxJlMgZKGgp24LFG0dCw6ZSQK_cRAUPwaIbRrfb2Fr8X41lGeUeKCODLvTFgt2BL7E3TaZx-FBYPw==",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "성북구 지역에서 오랫동안 직접 고등부 내신(한성여고, 동성고, 경동고, 홍익고, 용문고 등)을 밀착 지도해 온 교육자로 확인되었습니다.",
+ "lastResearchedAt": "2026-09-18T02:25:08.702478",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

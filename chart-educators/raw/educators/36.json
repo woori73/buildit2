@@ -1,0 +1,32 @@
+{
+ "id": 36,
+ "name": "제니쌤",
+ "role": "원장",
+ "academyName": "제니쌤잉글리시영어교습소",
+ "province": "서울특별시",
+ "cityDistrict": "영등포구",
+ "activityRegion": "서울 영등포구 신길동",
+ "identitySummary": "신길동에서 원서를 활용한 초등 영어 낭독 및 발표 수업 콘텐츠를 직접 작성하여 지도하는 개인 교육자이나, 실명이 명확히 확인되지 않아 모호함으로 표시함.",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "글",
+   "summary": "초등학생들을 위해 'Pete the Cat Saves Up' 원서를 활용하여 돈을 모으고 사용하는 방법에 대해 영어로 읽고 발표하는 낭독 및 원서 수업을 지도함.",
+   "sourceUrl": "https://blog.naver.com/jennyenglish77",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "신길동에서 원서를 활용한 초등 영어 낭독 및 발표 수업 콘텐츠를 직접 작성하여 지도하는 개인 교육자이나, 실명이 명확히 확인되지 않아 모호함으로 표시함.",
+ "lastResearchedAt": "2026-08-27T18:15:51.390313",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

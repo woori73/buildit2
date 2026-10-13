@@ -1,0 +1,32 @@
+{
+ "id": 13,
+ "name": "손은일",
+ "role": "원장",
+ "academyName": "애슐리영어학원",
+ "province": "서울특별시",
+ "cityDistrict": "마포구",
+ "activityRegion": "서울 마포구 신수동",
+ "identitySummary": "마포구 신수동에서 중고등 영어 내신 및 수능을 전문으로 지도하며, 교습소에서 학원으로 확장 개원한 소식과 중등부 정규수업 커리큘럼을 직접 작성하여 발굴됨.",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "글",
+   "summary": "기존 애슐리영어교습소에서 애슐리영어학원으로 확장 개원하며, 중등부 1학기 정규수업 시간표 및 문법/독해 중심의 체계적인 내신 및 수능 대비 커리큘럼을 운영함.",
+   "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD-cpEXa1vyoBkM7zcwermaLEUFsV0w_D3c-1JpbGGPtV40RFYpSJZncA5pDeozPGicusaNUVE6xeNDFrYhPf4XQYJhFXuCkA5N3K0fGgdkExmwGXS1veP7pZEq_vtS6HpKJS81dPfh2V55lMrIpdj06Z0da54y6WbvkIMVCMDekiMp0hkOwFIBOAHgcY=",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "마포구 신수동에서 중고등 영어 내신 및 수능을 전문으로 지도하며, 교습소에서 학원으로 확장 개원한 소식과 중등부 정규수업 커리큘럼을 직접 작성하여 발굴됨.",
+ "lastResearchedAt": "2026-08-27T18:15:51.295404",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

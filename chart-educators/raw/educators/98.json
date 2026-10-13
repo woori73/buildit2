@@ -1,0 +1,80 @@
+{
+ "id": 98,
+ "name": "김태영",
+ "role": "원장",
+ "academyName": "위너스위더스영어학원",
+ "province": "경상남도",
+ "cityDistrict": "창원시",
+ "activityRegion": "경상남도 창원시",
+ "identitySummary": "창원시 의창구 북면 감계 위너스위더스영어학원 원장. 15년 티칭 경력으로 입시 영어 전략 시스템을 직접 설계한 영어교육자.",
+ "educationPhilosophy": "영어를 학생이 활용할 줄 아는 전략 과목과 무기로 만드는 것이 목표이며, 실력과 입시 전략의 간극을 중학교 과정부터 바로잡는다. 성실함·정직함·탁월함·강인함을 운영 가치로 두고 사람을 중심에 둔 교육을 한다.",
+ "curriculum": "핵심 개념을 한 권에 집약하는 단권화를 중심으로 개념 이해부터 정리·응용·실전 풀이 흐름의 워크북·실전문제·자체 동형 모의고사를 연결한다. 프랜차이즈가 아닌 직접 기획한 교재·커리큘럼·학사 시스템으로 감계중·창북중·북면고 내신을 대비한다.",
+ "distinctiveTeaching": "단권화 교재 시스템과 시험지 탐색 3분·오답 패턴 원칙 등 실전 시험 기술 지도.",
+ "recentActivity": "2026년 9월 시험 전략·오답 원칙 연재, 8월 영어뇌·단어암기 골든타임 등 현재 수업 기록을 블로그에 지속 공개.",
+ "strengths": [
+  "단권화 교재·자체 동형 모의고사 제작",
+  "학교별 적중 분석과 실전 기술 지도",
+  "2026년 현재 수업 기록 매일 연재",
+  "독립 브랜드 직접 기획 운영"
+ ],
+ "improvementSuggestions": [
+  "학년별 로드맵 정리",
+  "수업 철학 대표 글 고정"
+ ],
+ "officialChannels": {
+  "homepage": null,
+  "blog": "https://blog.naver.com/winnerswithus",
+  "youtube": null,
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "오답 분석",
+   "summary": "출제자 함정 회피 4원칙 설명",
+   "sourceUrl": "https://blog.naver.com/winnerswithus/224407715150",
+   "activityDate": "2026-09-11",
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "시험 전략",
+   "summary": "시험지 탐색 3분 실전 전략 설명",
+   "sourceUrl": "https://blog.naver.com/winnerswithus/224408821485",
+   "activityDate": "2026-09-11",
+   "evidenceKind": "TEACHING_METHOD"
+  },
+  {
+   "contentType": "학습 상담",
+   "summary": "영어 피로감의 이해 중심 솔루션 제시",
+   "sourceUrl": "https://blog.naver.com/winnerswithus/224405257228",
+   "activityDate": "2026-09-08",
+   "evidenceKind": "PHILOSOPHY"
+  },
+  {
+   "contentType": "학습 상담",
+   "summary": "노베이스 1등급 학생들의 5가지 공통점 설명",
+   "sourceUrl": "https://blog.naver.com/winnerswithus/224403101786",
+   "activityDate": "2026-09-07",
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "언론 인터뷰",
+   "summary": "전략 과목 영어·단권화·사람 중심 교육 철학과 직접 기획 커리큘럼 인터뷰",
+   "sourceUrl": "http://knpp.co.kr/news/388599",
+   "activityDate": "2025-06-24",
+   "evidenceKind": "CURRICULUM"
+  },
+  {
+   "contentType": "학원 블로그",
+   "summary": "감계 위너스위더스 공식 블로그 (오프라인 수업 기록)",
+   "sourceUrl": "https://blog.naver.com/winnerswithus",
+   "activityDate": null,
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  }
+ ],
+ "discoveryReason": "Chart 전국 확장 조사 (창원). 언론 인터뷰·2026년 블로그에서 실명·소속·지역·최근활동 확인.",
+ "lastResearchedAt": "2026-09-14T02:50:00.526572",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

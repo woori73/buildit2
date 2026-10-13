@@ -1,0 +1,39 @@
+{
+ "id": 1,
+ "name": "재클린",
+ "role": "원장",
+ "academyName": "이음영어 분당점",
+ "province": "경기도",
+ "cityDistrict": "성남시 분당구",
+ "activityRegion": "경기도 성남시 분당구",
+ "identitySummary": "글로벌 B2B 해외사업 경험과 MBA 배경을 바탕으로 분당 미금역에서 성인 영어회화를 직접 강의하는 원장 Jacky",
+ "educationPhilosophy": "배운 영어가 아니라 실제로 말하는 영어를 가르치며, 수강생의 목적과 약점에 맞춘 발화와 피드백을 중시한다.",
+ "curriculum": "소그룹·일대일 회화, 개인별 억양·발음 진단, 충분한 발화 시간, 수업 후 예습·복습 자료를 연결한다.",
+ "distinctiveTeaching": "수강생별 발음과 억양을 진단하고 실제 비즈니스·생활 상황에서 말하도록 반복 피드백한다.",
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [
+  "원장 본인의 실제 수업 설계와 학습자별 피드백 사례를 날짜가 있는 콘텐츠로 축적하면 교육적 차별성이 더 명확해질 수 있다."
+ ],
+ "officialChannels": {
+  "homepage": "https://yiumenglish.com/",
+  "blog": null,
+  "youtube": null,
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "공식 홈페이지",
+   "summary": "원장 재클린의 경력과 분당 미금역 오프라인 학원, 소그룹 수업, 개인별 발음·억양 진단 및 예복습 피드백 구조가 공개되어 있다.",
+   "sourceUrl": "https://yiumenglish.com/",
+   "activityDate": "2026-08-14",
+   "evidenceKind": "TEACHING_METHOD"
+  }
+ ],
+ "discoveryReason": "원장의 해외사업 실무 경험을 성인 회화 교육에 연결하고 발화량·개인 진단·후속 피드백을 중심으로 한 오프라인 수업 구조가 확인된다.",
+ "lastResearchedAt": "2026-08-27T15:45:16.888853",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

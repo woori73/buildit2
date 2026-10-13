@@ -1,0 +1,58 @@
+{
+ "id": 96,
+ "name": "홍세미",
+ "role": "원장",
+ "academyName": "HLS어학원",
+ "province": "경기도",
+ "cityDistrict": "성남시 중원구",
+ "activityRegion": "경기도 성남시 중원구",
+ "identitySummary": "성남시 중원구 금광동 HLS어학원 대표원장. 영어 강사진을 이끄는 영어교육자.",
+ "educationPhilosophy": "HLS는 결과만 칭찬하지 않고 한 달 동안 수업을 빠지지 않고 지킨 성실함 자체를 실력으로 인정한다. 출석이 습관이 되고 습관이 실력이 되어 결과가 나온다는 학습관을 블로그 글에 밝히며, 작은 성공 경험이 다음 달의 동기가 되도록 개근 보상을 운영한다. 영어는 오래 배우는 과목이 아니라 제대로 배우면 빨리 끝나는 과목이라는 전제로 성적 상승과 함께 학생의 마음가짐과 태도 변화를 목표로 삼는다.",
+ "curriculum": "확인일 2026-09-18(KST). 학원소개 원문에 초등 파닉스 이후 sentence build-up 중심 4영역 과정과 중등~수능·고등 내신 1등급 목표 체계가 안내되어 있다.",
+ "distinctiveTeaching": null,
+ "recentActivity": "2026년 9월 개근 리워드, 8월 단어의 제왕·내신반 개강 등 현재 수업 기록이 블로그에 지속 공개된다. 개인의 교육철학·커리큘럼 서술 근거는 확보하지 못했다.",
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": {
+  "homepage": "https://hls.theclip.net/",
+  "blog": "https://blog.naver.com/hyl0715",
+  "youtube": null,
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "학원 소식",
+   "summary": "2026년 9월 개근 리워드 운영 보고",
+   "sourceUrl": "https://blog.naver.com/hyl0715/224397777081",
+   "activityDate": "2026-09-01",
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "어휘 관리",
+   "summary": "누적 어휘 관리와 단어의 제왕 결과 공개",
+   "sourceUrl": "https://blog.naver.com/hyl0715/224396472480",
+   "activityDate": "2026-08-31",
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "학원 기업정보(대표자명 확인)",
+   "summary": "확인일 2026-09-18(KST). 알바몬 기업정보 원문에서 HLS어학원·대표자명 홍세미·성남 중원구 금빛로 49·2011년 설립을 확인했다. 고려대 교육경영 AMP 네트워크에도 H.L.S 어학원 홍세미가 등재되어 있다.",
+   "sourceUrl": "https://m.albamon.com/jobs/detail-company/LWJuNrnW63Ef6_-tKsl_8Q==",
+   "activityDate": null,
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "학원 소개",
+   "summary": "금광동 금빛로 49, 대표원장 홍세미 표기",
+   "sourceUrl": "https://hls.theclip.net/",
+   "activityDate": null,
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  }
+ ],
+ "discoveryReason": "Chart 전국 확장 조사 (성남 중원). 학원 공식 페이지·2026년 블로그에서 실명·소속·지역·최근활동 확인. 개인 철학·커리큘럼 근거 미확보.",
+ "lastResearchedAt": "2026-09-18T03:20:12.556964",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

@@ -1,0 +1,45 @@
+{
+ "id": 59,
+ "name": "김요한",
+ "role": "원장",
+ "academyName": "ITC영어 청주 테크노폴리스점",
+ "province": "충청북도",
+ "cityDistrict": "청주시",
+ "activityRegion": "충청북도 청주시",
+ "identitySummary": "청주 테크노폴리스에서 ITC영어 지점을 운영하며 말하기 중심 영어수업을 지도하는 김요한 원장.",
+ "educationPhilosophy": "말하기 능력은 반복 연습으로 형성되며 단계별 목표를 실제 결과로 확인해야 한다고 설명한다. 수강생이 실력을 숨기지 않고 발표와 공개수업을 통해 자신감을 키우는 과정을 중시한다.",
+ "curriculum": "강좌와 연계한 AI 프리토킹으로 문법·발음·표현을 교정하고, 4개월마다 공개수업을 열어 단계 목표 성취와 실전 발표 역량을 확인한다. 개인 원장의 자체 교재나 세부 진단 방식은 공개 근거에서 확인되지 않았다.",
+ "distinctiveTeaching": "단계별 말하기 연습과 AI 복습, 4개월 단위 공개수업을 연결한다.",
+ "recentActivity": "2026년 현재 ITC영어 공식 지점 페이지와 전국 지점 안내에서 청주 테크노폴리스점 및 김요한 원장 운영을 확인했다.",
+ "strengths": [
+  "교육자 개인과 현재 지점 운영이 명확하다.",
+  "말하기·AI 복습·공개수업의 단계 구조가 확인된다."
+ ],
+ "improvementSuggestions": [
+  "프랜차이즈 공통 시스템과 김요한 원장 고유 수업의 차이를 공개할 필요가 있다.",
+  "실제 수업 콘텐츠와 학생 피드백 사례를 독립적으로 확인할 자료가 필요하다."
+ ],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "프랜차이즈 공식 지점 등록 정보",
+   "summary": "청주 테크노폴리스 지점의 현재 운영과 상담 지점 등록을 확인한다.",
+   "sourceUrl": "https://itcenglish.com/tschool/05_branch.asp?b_name=&bm_gb=&page=17",
+   "activityDate": "2026-08-23",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "프랜차이즈 공식 지점·원장 소개",
+   "summary": "김요한 원장의 개인 정체성과 청주 오프라인 지점, 단계별 말하기·AI 복습·4개월 공개수업 구조를 소개한다.",
+   "sourceUrl": "https://www.itcenglish.com/branch/?bm=HQ_CT_01",
+   "activityDate": "2026-08-14",
+   "evidenceKind": "ADVERTISEMENT"
+  }
+ ],
+ "discoveryReason": "말하기 실력은 단계별 반복 연습에서 나온다는 관점과 4개월 단위 공개수업·발표·AI 복습 구조가 확인된다. 다만 프랜차이즈 공식 자료 외 독립적인 개인 교육 근거가 부족해 보강 가치가 있다.",
+ "lastResearchedAt": "2026-08-28T16:28:42.140153",
+ "eligibilityStatus": "RESEARCH_PENDING",
+ "researchPending": true,
+ "disclaimer": "이 교육자는 아직 평가에 필요한 공개 근거가 충분히 확인되지 않았습니다(RESEARCH_PENDING). 공개적으로 확인된 사실만 표시하며, BuildIt Score나 TOP100 순위 대상이 아닙니다."
+}

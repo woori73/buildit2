@@ -1,0 +1,39 @@
+{
+ "id": 5,
+ "name": "Anny",
+ "role": "원장",
+ "academyName": "링키영어 틴즈 수내3동 푸른마을점",
+ "province": "경기도",
+ "cityDistrict": "성남시 분당구",
+ "activityRegion": "경기도 성남시 분당구",
+ "identitySummary": "19년 영어교육 경력을 바탕으로 분당 수내동에서 5~9세 유아·초등 영어를 직접 지도하는 원장",
+ "educationPhilosophy": "유아기 영어를 단기 암기가 아니라 반복과 구조 이해, 독서와 자연스러운 습득 과정으로 연결한다.",
+ "curriculum": "파닉스·리딩 교재, 반복 학습, 영어 구조 학습, 콘테스트와 연령별 시간표를 결합한 유아·초등 과정이다.",
+ "distinctiveTeaching": "영어 구조를 장기적으로 유지하도록 반복하고, 파닉스·리딩 교재와 학생 참여형 콘테스트를 활용한다.",
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [
+  "프랜차이즈 공통 프로그램과 별개로 Anny 원장이 직접 개발한 수업 자료와 학생 지도 사례를 더 공개하면 고유성이 강화될 수 있다."
+ ],
+ "officialChannels": {
+  "homepage": null,
+  "blog": "https://blog.naver.com/anny118",
+  "youtube": null,
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "학원 공개 소식",
+   "summary": "영어 구조 학습을 장기적으로 유지하는 방법을 설명하며 유아·초등 영어 수업 운영을 공개한다.",
+   "sourceUrl": "https://academy.hakwonsin.co.kr/academy/rb2kzOAd/%EB%A7%81%ED%82%A4%EC%98%81%EC%96%B4-%EC%88%98%EB%82%B43%EB%8F%99%ED%91%B8%EB%A5%B8%EB%A7%88%EC%9D%841%ED%98%B8%EC%A0%90%EA%B5%90%EC%8A%B5%EC%86%8C",
+   "activityDate": "2026-07-06",
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "프랜차이즈 이름보다 원장 개인의 19년 교육 경력, 유아·초등 전문 연수, 반복·구조 중심 수업 콘텐츠가 구체적으로 확인된다.",
+ "lastResearchedAt": "2026-08-27T15:45:54.709868",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

@@ -1,0 +1,39 @@
+{
+ "id": 53,
+ "name": "조유나",
+ "role": "원장",
+ "academyName": "와이엔영어교습소",
+ "province": "부산광역시",
+ "cityDistrict": "사하구",
+ "activityRegion": "부산광역시 사하구",
+ "identitySummary": "부산 사하구 하단동 와이엔영어교습소 원장으로 중·고등학생 대상 소수그룹 수업을 운영한다고 공개 소개된 교육자.",
+ "educationPhilosophy": null,
+ "curriculum": "중·고등학생을 대상으로 과외형 소수그룹 수업을 하고 학생 실력에 맞춘 맞춤 지도를 진행한다고 소개되었으나, 진단 이후의 구체적 수업 단계나 교재·피드백 구조는 공개 자료에서 확인되지 않았다.",
+ "distinctiveTeaching": "소수정예 과외형 수업과 학생 수준별 맞춤 지도를 표방한다.",
+ "recentActivity": "2023-08-07 공개 인터뷰 외에 현재 연도 활동 근거는 확보하지 못했다.",
+ "strengths": [
+  "교육자 개인과 학원 정체성이 명확하다.",
+  "중·고등 소수그룹 및 수준별 맞춤 지도 범위가 확인된다."
+ ],
+ "improvementSuggestions": [
+  "교육철학과 수업 목표를 구체적으로 공개할 필요가 있다.",
+  "진단·교재·수업·피드백의 실제 운영 단계를 보여주는 근거가 필요하다.",
+  "현재 오프라인 운영을 확인할 최신 공식 자료가 필요하다."
+ ],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "홍보성 인터뷰/학원 소개 기사",
+   "summary": "조유나 원장 개인, 부산 사하구 하단동의 중·고등 영어교습소, 과외형 소수그룹과 수준별 맞춤 지도 운영을 소개한다.",
+   "sourceUrl": "https://www.youthassembly.kr/news/723754",
+   "activityDate": "2023-08-07",
+   "evidenceKind": "PRESS_RELEASE"
+  }
+ ],
+ "discoveryReason": "과외형 소수그룹과 수준 맞춤 지도를 운영한다는 개인 식별 근거가 있으나, 고유한 철학과 실제 커리큘럼을 평가하기에는 공개 정보가 부족해 보강 대상으로 보존한다.",
+ "lastResearchedAt": "2026-08-28T16:16:37.450395",
+ "eligibilityStatus": "RESEARCH_PENDING",
+ "researchPending": true,
+ "disclaimer": "이 교육자는 아직 평가에 필요한 공개 근거가 충분히 확인되지 않았습니다(RESEARCH_PENDING). 공개적으로 확인된 사실만 표시하며, BuildIt Score나 TOP100 순위 대상이 아닙니다."
+}

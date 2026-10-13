@@ -1,0 +1,39 @@
+{
+ "id": 4,
+ "name": "Violet",
+ "role": "원장",
+ "academyName": "VEL영어학원",
+ "province": "경기도",
+ "cityDistrict": "성남시 분당구",
+ "activityRegion": "경기도 성남시 분당구",
+ "identitySummary": "Violet's English Lab이라는 교육 정체성으로 분당 수내동에서 초·중등 소수정예 영어교육을 운영하는 원장",
+ "educationPhilosophy": "학생을 수익 대상으로 보지 않고 한 명씩 성장시키며, 국제학교형 사고력과 쓰기·토론 중심 영어교육을 지향한다.",
+ "curriculum": "영어원서·논픽션·TED Talk·Writing·Academic Writing·TOEFL·문법·토론을 학생 수준별로 결합한다.",
+ "distinctiveTeaching": "4~8명 소수정예로 Writing의 브레인스토밍부터 최종 원고까지 피드백하고 영어 과학·뮤지컬·북클럽 활동을 운영한다.",
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [
+  "Violet 원장의 공개 프로필과 직접 수업 장면, 자체 커리큘럼 개발 기록을 공식 채널에서 더 명확히 연결하면 좋다."
+ ],
+ "officialChannels": {
+  "homepage": null,
+  "blog": "https://blog.naver.com/vel-english",
+  "youtube": null,
+  "social": "https://pf.kakao.com/_CCVls"
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "학원 공개 소식",
+   "summary": "국제학교 커리큘럼과 사고력 중심 영어교육을 주제로 학부모 간담회와 교육 방향을 공개했다.",
+   "sourceUrl": "https://academy.hakwonsin.co.kr/academy/wdL9XXwe/VEL%EC%98%81%EC%96%B4%ED%95%99%EC%9B%90",
+   "activityDate": "2026-05-18",
+   "evidenceKind": "CURRICULUM"
+  }
+ ],
+ "discoveryReason": "작은 규모에서 원서·논픽션·쓰기·토론을 결합하고, 방학마다 영어 과학·뮤지컬 등 독자적인 활동형 특강을 설계한다.",
+ "lastResearchedAt": "2026-08-27T15:45:51.190097",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

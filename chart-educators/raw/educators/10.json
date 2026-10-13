@@ -1,0 +1,32 @@
+{
+ "id": 10,
+ "name": "정수정",
+ "role": "원장",
+ "academyName": "정수정영어학원",
+ "province": "서울특별시",
+ "cityDistrict": "송파구",
+ "activityRegion": "서울 송파구 삼전동",
+ "identitySummary": "송파구 삼전동에서 초6부터 고3까지의 학생들을 대상으로 내신 및 수능 대비 원장 직강 수업을 직접 진행하는 교육자임.",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "글",
+   "summary": "선화예중, 정신여고 등 송파 및 인근 지역 학교의 영어 내신 시험 및 단어 교재 변화에 맞춘 학습 전략을 제시하고, 상위권 학생들을 위한 원장 직강 수업을 운영함.",
+   "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs3aLfbtlozg60sQ9_V9oTEF1T-ApqjbZYt8lQT_FmBJyWtJ37RV-onOJqVvMLRZEtX51ZVBVqJfB4-K01SXgjrXB2-8qpc8WxZqBGhxsE52ywvimfl_EO9aKqaEx1WPPsPKoWjfWK0NfihbmFAkiGxgEX3rEPIGcUDAOcFeQyBvYYb1PG1QVNMjxsFNv370Imvo1TcqIap859alY46CYD45WmGnY=",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "송파구 삼전동에서 초6부터 고3까지의 학생들을 대상으로 내신 및 수능 대비 원장 직강 수업을 직접 진행하는 교육자임.",
+ "lastResearchedAt": "2026-08-27T18:15:51.284527",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

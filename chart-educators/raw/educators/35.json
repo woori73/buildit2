@@ -1,0 +1,32 @@
+{
+ "id": 35,
+ "name": "박선경",
+ "role": "원장",
+ "academyName": "씨투엠플러스학원",
+ "province": "서울특별시",
+ "cityDistrict": "강서구",
+ "activityRegion": "서울 강서구 마곡동",
+ "identitySummary": "마곡지구에서 단순 지식 전달을 넘어 학생들의 전인적 성장과 입시 컨설팅, 자기주도 학습을 직접 코칭하는 원장입니다.",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "칼럼",
+   "summary": "초등부터 고등까지 국영수과 올케어 시스템을 운영하며, 특히 영어 점수 향상 경험을 바탕으로 학생들의 자기주도 학습 능력과 입시 컨설팅을 직접 지도합니다.",
+   "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTMuStdB5m1Tghx3AaCyeY6ivgFZQ6ah4BpvSCJswl9vcN0kzI2IdRr7edPd-uLPFmbcWDV9xuFfbTWkqF0TGgETx4odU3-FBcrx8AUvuzBw==",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "마곡지구에서 단순 지식 전달을 넘어 학생들의 전인적 성장과 입시 컨설팅, 자기주도 학습을 직접 코칭하는 원장입니다.",
+ "lastResearchedAt": "2026-08-27T18:15:51.38707",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

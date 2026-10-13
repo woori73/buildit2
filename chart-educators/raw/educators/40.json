@@ -1,0 +1,32 @@
+{
+ "id": 40,
+ "name": "성지윤",
+ "role": "원장",
+ "academyName": "아스터영어학원",
+ "province": "서울특별시",
+ "cityDistrict": "동작구",
+ "activityRegion": "서울 동작구 사당동",
+ "identitySummary": "동작구 사당동에서 실제로 학생들을 가르치는 개인 영어교육자로, 원장의 직접 관리와 학습법에 관한 소식글을 통해 발굴했습니다.",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "글",
+   "summary": "사당동에서 16년 이상 영어 강의를 하며 800명 이상의 학생들을 지도해 온 경험을 바탕으로, 단순한 자습실 이용이 아닌 원장이 직접 밀착 관리하는 여름방학 프로젝트의 중요성을 강조합니다.",
+   "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeAc0qisiQqrylSg47iDBRcxbp0k4BmuAfudoQjQevFaQovibKhd04108R6Ou7mGc1yf30xmbYpbGjbrK_cjAs-zZVQUxl01aRnJmaj8OO_ZLhCWM2MRSuNsSh_QOXyw5dtN4ffz0970Gtk91c9Pgnin-CW488JGZCg67ldOcJKjQ3E0jKyxw9-l5QgrLzqPIE00r0MAPj3Cz_brYwfe70Oh5ljwijVnkAxg==",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "동작구 사당동에서 실제로 학생들을 가르치는 개인 영어교육자로, 원장의 직접 관리와 학습법에 관한 소식글을 통해 발굴했습니다.",
+ "lastResearchedAt": "2026-08-27T18:15:51.399584",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

@@ -1,0 +1,32 @@
+{
+ "id": 17,
+ "name": "손형주",
+ "role": "원장",
+ "academyName": "HJ영어학원",
+ "province": "서울특별시",
+ "cityDistrict": "동대문구",
+ "activityRegion": "서울 동대문구 전농동",
+ "identitySummary": "동대문구 지역 고등학교의 영어 내신 기출 경향을 분석하고 1등급 설계관을 직접 운영하며 강의하는 원장으로 확인됨.",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "글",
+   "summary": "동대문구 6개교(휘경여고, 해성여고, 경희여고, 청량고, 혜원여고, 동대부고 등)의 영어 내신 1등급을 목표로 하는 'HJ-LOGIC 심화논리' 분석과 변형 문제 대응 전략을 제시함.",
+   "sourceUrl": "https://m.blog.naver.com/hyungju19/223989319884",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "동대문구 지역 고등학교의 영어 내신 기출 경향을 분석하고 1등급 설계관을 직접 운영하며 강의하는 원장으로 확인됨.",
+ "lastResearchedAt": "2026-08-27T18:15:51.312895",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

@@ -1,0 +1,52 @@
+{
+ "id": 62,
+ "name": "신원경",
+ "role": "원장",
+ "academyName": "윤선생IGSE아카데미 옥천학원",
+ "province": "충청북도",
+ "cityDistrict": "옥천군",
+ "activityRegion": "충청북도 옥천군",
+ "identitySummary": "옥천읍에서 초등 중심 영어 학습을 운영하는 윤선생 영어교실 옥천센터 원장",
+ "educationPhilosophy": null,
+ "curriculum": "확인일 2026-09-18(KST). 윤선생 공식 매거진 원문에서 IGSE아카데미·큐리매쓰 옥천학원의 영어+사고력수학 과정과 고학년 맞춤 확장을 확인했다. 공식 학원정보에 고등과정 600권 교재·홈스터디 1:1 맞춤·자기주도학습 과정이 안내되어 있다.",
+ "distinctiveTeaching": "확인일 2026-09-18(KST). 윤선생 공식 매거진 원문에서 신원경 원장이 고학년 학부모 니즈 반영 영수 확장과 만족도 중심 운영을 직접 발언했다.",
+ "recentActivity": "2026년 업데이트된 학원 정보에서 옥천읍 오프라인 주소와 초등 영어 수업, 센터 사장 신원경이 확인된다.",
+ "strengths": [
+  "고등과정까지 이어지는 다량의 단계별 교재 활용",
+  "홈스터디 선생님과 일대일 맞춤·자기주도 학습 운영"
+ ],
+ "improvementSuggestions": [
+  "원장 개인의 교육철학과 학생 진단 방식이 드러나는 공식 콘텐츠를 공개하면 평가 근거가 강화될 수 있다.",
+  "프랜차이즈 공통 프로그램과 옥천센터만의 실제 수업 운영 차이를 사례로 보여주면 고유성을 확인하기 쉬워질 수 있다."
+ ],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "교육청 기반 등록 정보",
+   "summary": "윤선생IGSE아카데미 옥천학원이 옥천읍 중앙로 31에서 운영되는 등록 학원임을 확인한다.",
+   "sourceUrl": "https://classup.io/academies/region/%EC%B6%A9%EB%B6%81/%EC%98%A5%EC%B2%9C%EA%B5%B0",
+   "activityDate": "2026-08-29",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "학원 소개 및 원장 실명",
+   "summary": "옥천읍 오프라인 센터의 초등 영어 수업, 일대일 맞춤·자기주도학습 운영, 센터 사장 신원경을 확인한다. 다만 개인 고유의 교육철학과 자체 커리큘럼 근거는 부족하다.",
+   "sourceUrl": "https://academy.prompie.com/academies/detail/9na0agl/%EC%9C%A4%EC%84%A0%EC%83%9DIgse%EC%98%A5%EC%B2%9C%ED%95%99%EC%9B%90/",
+   "activityDate": "2026-01-08",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "브랜드 공식 매거진(원장 직접 발언)",
+   "summary": "확인일 2026-09-18(KST). 윤선생 공식 매거진 원문에서 IGSE아카데미·큐리매쓰 옥천학원 신원경 원장이 영수 확장 배경과 운영 철학을 직접 발언했다. 기존 레코드와 일치.",
+   "sourceUrl": "https://www.yoons.com/mediaroom/magazine/id/1138",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "개인 실명과 현재 오프라인 영어교육 범위, 일대일 맞춤 및 자기주도 학습 운영은 확인되지만 개인 고유의 철학과 자체 수업 설계 근거는 추가 보강이 필요한 지역 교육자",
+ "lastResearchedAt": "2026-09-18T03:09:50.56201",
+ "eligibilityStatus": "RESEARCH_PENDING",
+ "researchPending": true,
+ "disclaimer": "이 교육자는 아직 평가에 필요한 공개 근거가 충분히 확인되지 않았습니다(RESEARCH_PENDING). 공개적으로 확인된 사실만 표시하며, BuildIt Score나 TOP100 순위 대상이 아닙니다."
+}

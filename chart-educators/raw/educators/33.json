@@ -1,0 +1,39 @@
+{
+ "id": 33,
+ "name": "이승현",
+ "role": "원장",
+ "academyName": "CS영어학원",
+ "province": "서울특별시",
+ "cityDistrict": "양천구",
+ "activityRegion": "서울 양천구 목동",
+ "identitySummary": "목동에서 고등 영어 전문 학원을 운영하며, 학생 맞춤형 입시 전략과 교육 철학을 바탕으로 직접 학생들을 지도하는 원장으로 확인됨.",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "언론 인터뷰(원장 직접 발언)",
+   "summary": "확인일 2026-09-18(KST). 인터뷰 원문에서 목동 CS영어학원 이승현 원장이 맞춤형 교육·특목고/상위권 지도 경험·입시 성과를 직접 발언했다. 기존 레코드 이승현/원장/CS영어학원(목동)과 일치. 평가 연결: 수업·교육 실천 및 전문성.",
+   "sourceUrl": "http://www.kpetnews.com/news/958422",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "인터뷰",
+   "summary": "고등학생 중심의 영어 전문 학원을 운영하며, 학생 개개인의 성향과 가능성을 분석하고 입시와 학습 방향까지 설계하는 개별 맞춤형 교육을 제공함.",
+   "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGndD7jOrRuHyvZWGChlVn2-xkoPfcPoEg9PAKGSQxp5Wqv5O4tg_qx5ajy7Gi92JVYJIzQIDrfRijnxjsU7CWj4JKIregDlSvCOrfy3VVOto8=",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "목동에서 고등 영어 전문 학원을 운영하며, 학생 맞춤형 입시 전략과 교육 철학을 바탕으로 직접 학생들을 지도하는 원장으로 확인됨.",
+ "lastResearchedAt": "2026-09-18T02:34:17.264105",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

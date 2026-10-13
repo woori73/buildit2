@@ -1,0 +1,59 @@
+{
+ "id": 64,
+ "name": "한동희",
+ "role": "원장",
+ "academyName": "한동희영어학원",
+ "province": "충청남도",
+ "cityDistrict": "보령시",
+ "activityRegion": "충청남도 보령시",
+ "identitySummary": "보령시 명천동에서 초3부터 고3까지 어휘·문법·독해·영작과 내신·수능을 단계별로 지도하는 영어교육 전공 원장",
+ "educationPhilosophy": "영어의 어휘·문법·독해·영작을 분절된 문제풀이가 아니라 학년별 다음 단계로 이어지는 기초 체계로 지도한다. 초등 기초 완성에서 중등 내신과 고등 선행, 이후 수능까지 연결해 학생이 지역 안에서도 장기적인 입시 영어 경로를 밟도록 돕는 것을 중시한다.",
+ "curriculum": "초등 3학년부터 기초를 완성하고 중등 과정을 선행한다. 중등은 학교 내신과 고등 선행을 병행하며, 고등은 내신·모의고사·수능 대비에 집중하고 어휘·문법·독해·영작 전 영역을 학년별 목표에 맞춰 지도한다.",
+ "distinctiveTeaching": "초3부터 고3까지 한 교육 경로 안에서 기초→중등 내신·고등 선행→고등 내신·수능을 연결하며 영어 전 영역을 단계적으로 지도한다.",
+ "recentActivity": "2026년 보령시 명천동 오프라인 학원 정보가 업데이트됐고, 현재 영어 보조강사 채용에서 실제 단어·해석 확인, 채점·교재 제본 등 수업 운영이 확인된다.",
+ "strengths": [
+  "영어교육 전공과 TESOL 과정 기반 전문성",
+  "초3부터 고3까지 이어지는 장기 학년별 로드맵",
+  "어휘·문법·독해·영작 전 영역 통합 지도",
+  "지역 고등학교 진학과 내신을 다루는 공개 교육 콘텐츠"
+ ],
+ "improvementSuggestions": [
+  "공식 블로그에 실제 학년별 수업 자료와 피드백 예시를 더 공개하면 교육 방식의 검증 가능성이 높아질 수 있다.",
+  "학생의 사고 과정과 오답 교정 방식을 사례로 공개하면 단순 단계 구분을 넘어 수업 고유성이 더 선명해질 수 있다."
+ ],
+ "officialChannels": {
+  "homepage": null,
+  "blog": "https://cafe.naver.com/hanyoungacademy",
+  "youtube": null,
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "학원 소개 및 원장 경력",
+   "summary": "공주사범대학교 영어교육학 전공, CSU TESOL, EBS 영어 리포터 경력의 원장이 초3~고3을 대상으로 영어 전 영역과 내신·수능을 단계별 지도하는 운영 구조를 확인한다.",
+   "sourceUrl": "https://learns.academy/academies/77abe13a-41b4-4053-a329-7d66b019ecc5",
+   "activityDate": "2026-08-29",
+   "evidenceKind": "CURRICULUM"
+  },
+  {
+   "contentType": "현재 채용 및 실제 수업 업무",
+   "summary": "보령시 동일 주소의 현장 학원에서 영어 단어와 해석 확인, 제본과 채점 등 실제 영어 수업 보조 업무를 현재 채용하고 있다.",
+   "sourceUrl": "https://uri.invione.com/jobs/recruitment/all/detail/K172222607020020",
+   "activityDate": "2026-07-02",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "공식 블로그 활동 및 위치",
+   "summary": "보령 한동희영어학원이 중3 학생·학부모 대상 고등학교 진학 관련 교육 콘텐츠를 공개하고 2026년 명천동 현장 운영 정보를 유지하고 있다.",
+   "sourceUrl": "https://placeview.co.kr/id/NTg5NjYyMTMx",
+   "activityDate": "2026-04-13",
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "영어교육 전공과 TESOL·EBS 리포터 경험을 바탕으로 초등 기초에서 중등 내신·고등 선행, 고등 내신·수능까지 이어지는 지역형 장기 영어 과정을 직접 운영함",
+ "lastResearchedAt": "2026-08-28T16:41:13.822572",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

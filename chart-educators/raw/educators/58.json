@@ -1,0 +1,54 @@
+{
+ "id": 58,
+ "name": "이금연",
+ "role": "원장",
+ "academyName": "제니퍼영어닷컴어학원",
+ "province": "충청북도",
+ "cityDistrict": "청주시",
+ "activityRegion": "충청북도 청주시",
+ "identitySummary": "청주시 오창읍 제니퍼영어닷컴어학원과 제니퍼키즈를 운영하며 유아부터 고등까지 지도하는 제니퍼 원장(대표자 이금연).",
+ "educationPhilosophy": "영어는 문제를 푸는 지식에 머물지 않고 실제로 말할 수 있어야 하며, 즐겁게 배운 영어가 평생 지속된다고 본다. 매일 균형 잡힌 입력과 출력에 노출시키되 학생의 레벨과 성향에 맞춰 영어·한국어 비중을 조절하는 것을 중시한다.",
+ "curriculum": "입학 시 지필·구두·파닉스 블렌딩을 함께 진단하고 7~10단계로 배치한다. 매일 영어책 한 권과 자체 워크북으로 입력을 누적하고 모든 반에 주 1~2회 원어민 수업을 배치하며, 단어는 영영 풀이·예문·유의어 누적 테스트로 확인하고 AR·Lexile·음소인식·영어 지시 반응으로 성장을 측정한다.",
+ "distinctiveTeaching": "매일 원서 한 권과 자체 워크북을 완결하는 입력 루틴, 원어민 출력 수업, 다중 지표 진단과 매일·월간 피드백을 결합한 운영 구조가 특징이다.",
+ "recentActivity": "2026-05-19 현장 팩트리포트, 2026-06-15·24 리딩 챌린지와 장학카드 콘텐츠, 2026년 오프라인 운영 정보가 확인된다.",
+ "strengths": [
+  "입력과 출력을 매일 결합한 수업 루틴이 구체적이다.",
+  "자체 워크북과 여러 진단 지표를 활용한다.",
+  "학부모에게 매일 피드백·수업영상·월간 보고를 제공한다.",
+  "교육 세미나 강사와 TOSEL Lab 자문 활동 신호가 있다."
+ ],
+ "improvementSuggestions": [
+  "자체 워크북의 설계 원리와 단계별 샘플을 공개하면 교육 콘텐츠의 고유성이 더 선명해진다.",
+  "AR·Lexile 외 말하기·쓰기 성장 평가 루브릭을 공개하면 좋다."
+ ],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "공공데이터·공식 블로그 연계 학원 정보",
+   "summary": "2026년 오창 오프라인 운영과 리딩 챌린지, 매일 원서 읽기, 최근 장학카드 활동을 확인한다.",
+   "sourceUrl": "https://classup.io/academies/eb664297-a729-4e16-b383-c0a30600a9a7/%EC%A0%9C%EB%8B%88%ED%8D%BC-%ED%82%A4%EC%A6%88",
+   "activityDate": "2026-06-24",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "기업·대표자 공개 정보",
+   "summary": "청주시 오창읍 제니퍼영어닷컴 영어학원의 대표자가 이금연임을 확인한다.",
+   "sourceUrl": "https://www.incruit.com/company/1679516894/",
+   "activityDate": "2026-05-29",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "현장 조사형 학원·교육자 리포트",
+   "summary": "이금연 원장의 2026년 현재 오창 오프라인 활동, 말하기·즐거움 철학, 단계 진단, 매일 원서·자체 워크북·원어민 수업·누적 평가와 피드백 구조를 상세히 확인한다.",
+   "sourceUrl": "https://educurator.tistory.com/23",
+   "activityDate": "2026-05-19",
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "말할 수 있는 영어와 즐겁게 지속하는 학습을 중심에 두고, 매일 원서 한 권·자체 워크북·원어민 수업·다층 진단·누적 어휘 평가를 하나의 운영 체계로 만든 점이 구체적으로 확인된다.",
+ "lastResearchedAt": "2026-08-28T16:28:42.083908",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

@@ -1,0 +1,32 @@
+{
+ "id": 109,
+ "name": "최정윤",
+ "role": "원장",
+ "academyName": "KJC 국제어학당삼계학원",
+ "province": "경상남도",
+ "cityDistrict": "김해시",
+ "activityRegion": "경상남도 김해시",
+ "identitySummary": "김해시 삼계동 KJC 국제어학당삼계학원 원장 (2025년 인터뷰).",
+ "educationPhilosophy": "확인일 2026-09-18(KST). 인터뷰 원문에서 최정윤 원장이 시험 과목이 아닌 생각 표현 언어 철학을 직접 발언했다. 작가·전시 활동도 병행한다.",
+ "curriculum": "확인일 2026-09-18(KST). 인터뷰 원문과 학원정보에 초중등 영어·수학 과정과 초등부 기초반이 확인된다.",
+ "distinctiveTeaching": null,
+ "recentActivity": "2025년 12월 언론 인터뷰 확인. 2026년 활동 근거 미확인.",
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "언론 인터뷰",
+   "summary": "문해력 중심 원서 다독·정독 교육 인터뷰",
+   "sourceUrl": "https://www.mkfn.co.kr/3794",
+   "activityDate": "2025-12-24",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  }
+ ],
+ "discoveryReason": "Chart 전국 확장 조사 (김해). 2025년 언론 인터뷰에서 실명·소속·지역 확인. 2026년 활동 근거 미확인.",
+ "lastResearchedAt": "2026-09-14T03:12:02.541444",
+ "eligibilityStatus": "RESEARCH_PENDING",
+ "researchPending": true,
+ "disclaimer": "이 교육자는 아직 평가에 필요한 공개 근거가 충분히 확인되지 않았습니다(RESEARCH_PENDING). 공개적으로 확인된 사실만 표시하며, BuildIt Score나 TOP100 순위 대상이 아닙니다."
+}

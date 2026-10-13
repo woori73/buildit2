@@ -1,0 +1,32 @@
+{
+ "id": 106,
+ "name": "김정련",
+ "role": "원장",
+ "academyName": "일리잉글리쉬",
+ "province": "경상남도",
+ "cityDistrict": "김해시",
+ "activityRegion": "경상남도 김해시",
+ "identitySummary": "김해시 주촌면 일리잉글리쉬 원장. 영어 이름을 걸고 운영하는 영어교육자 (2024년 인터뷰).",
+ "educationPhilosophy": "새로운 언어를 배우는 것은 자아를 넓혀주는 것이며, 언어를 통해 소통·관계·자아의 확장을 가져다준다. 시험 영어가 아닌 말하는 영어를 가르친다.",
+ "curriculum": "파닉스부터 4-skill 강화 훈련을 하고 원서 수업과 ELT 수업을 병행한다. 원서로 자연스럽게 노출되고 ELT 교재로 어휘·말하기·쓰기·문법을 체계적으로 학습한다.",
+ "distinctiveTeaching": "원서 노출과 ELT 체계 학습의 병행, 성향·학습태도 맞춤 접근.",
+ "recentActivity": "2024년 1월 언론 인터뷰 확인. 2026년 활동 근거 미확인.",
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "언론 인터뷰",
+   "summary": "자아 확장 영어교육 철학과 원서·ELT 병행 커리큘럼 인터뷰",
+   "sourceUrl": "http://knpp.co.kr/news/265186",
+   "activityDate": "2024-01-08",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  }
+ ],
+ "discoveryReason": "Chart 전국 확장 조사 (김해). 2024년 언론 인터뷰에서 실명·소속·지역 확인. 2026년 활동 근거 미확인.",
+ "lastResearchedAt": "2026-09-14T03:10:02.551594",
+ "eligibilityStatus": "RESEARCH_PENDING",
+ "researchPending": true,
+ "disclaimer": "이 교육자는 아직 평가에 필요한 공개 근거가 충분히 확인되지 않았습니다(RESEARCH_PENDING). 공개적으로 확인된 사실만 표시하며, BuildIt Score나 TOP100 순위 대상이 아닙니다."
+}

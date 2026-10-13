@@ -1,0 +1,567 @@
+{
+ "duplicates": {
+  "토마스|중앙K 영어": [
+   80,
+   81
+  ]
+ },
+ "missingCardFields": {
+  "75": [
+   "officialChannels"
+  ],
+  "74": [
+   "officialChannels"
+  ],
+  "94": [
+   "distinctiveTeaching",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "96": [
+   "distinctiveTeaching",
+   "strengths",
+   "improvementSuggestions"
+  ],
+  "91": [
+   "distinctiveTeaching",
+   "strengths",
+   "improvementSuggestions"
+  ],
+  "93": [
+   "educationPhilosophy",
+   "strengths",
+   "improvementSuggestions"
+  ],
+  "85": [
+   "improvementSuggestions"
+  ],
+  "5": [
+   "recentActivity",
+   "strengths"
+  ],
+  "4": [
+   "recentActivity",
+   "strengths"
+  ],
+  "3": [
+   "recentActivity",
+   "strengths"
+  ],
+  "2": [
+   "recentActivity",
+   "strengths"
+  ],
+  "1": [
+   "recentActivity",
+   "strengths"
+  ],
+  "99": [
+   "officialChannels"
+  ],
+  "110": [
+   "distinctiveTeaching"
+  ],
+  "100": [
+   "strengths",
+   "improvementSuggestions"
+  ],
+  "109": [
+   "distinctiveTeaching",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "108": [
+   "strengths",
+   "improvementSuggestions"
+  ],
+  "102": [
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "101": [
+   "educationPhilosophy",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "106": [
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "84": [
+   "distinctiveTeaching",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "82": [
+   "officialChannels"
+  ],
+  "83": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "81": [
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "79": [
+   "educationPhilosophy",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "78": [
+   "educationPhilosophy",
+   "strengths",
+   "improvementSuggestions"
+  ],
+  "77": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "76": [
+   "officialChannels"
+  ],
+  "71": [
+   "officialChannels"
+  ],
+  "56": [
+   "officialChannels"
+  ],
+  "55": [
+   "educationPhilosophy",
+   "officialChannels"
+  ],
+  "53": [
+   "educationPhilosophy",
+   "officialChannels"
+  ],
+  "52": [
+   "officialChannels"
+  ],
+  "51": [
+   "officialChannels"
+  ],
+  "48": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "47": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "45": [
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "46": [
+   "educationPhilosophy",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "41": [
+   "educationPhilosophy",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "39": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "38": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "37": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "34": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "33": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "30": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "29": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "27": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "21": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "20": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "16": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "12": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "11": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "7": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "6": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "44": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "43": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "42": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "40": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "36": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "35": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "32": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "31": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "28": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "26": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "25": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "24": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "23": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "22": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "19": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "18": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "17": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "15": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "14": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "13": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "10": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "9": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "8": [
+   "educationPhilosophy",
+   "curriculum",
+   "distinctiveTeaching",
+   "recentActivity",
+   "strengths",
+   "improvementSuggestions",
+   "officialChannels"
+  ],
+  "87": [
+   "improvementSuggestions"
+  ],
+  "86": [
+   "improvementSuggestions"
+  ],
+  "67": [
+   "officialChannels"
+  ],
+  "65": [
+   "officialChannels"
+  ],
+  "62": [
+   "educationPhilosophy",
+   "officialChannels"
+  ],
+  "60": [
+   "officialChannels"
+  ],
+  "59": [
+   "officialChannels"
+  ],
+  "58": [
+   "officialChannels"
+  ]
+ },
+ "duplicateNote": "id 80/81 동일인(토마스|중앙K 영어)으로 추정. 사이트 원본은 별도 카드로 노출하므로 둘 다 보존하고 재수집 시 확인 필요.",
+ "missingFieldNote": "빈 필드는 Chart 원본 카드 자체가 미기재인 항목(추측 보충 금지). researchPending 17건은 대부분 본문 미완."
+}

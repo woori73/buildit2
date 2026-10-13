@@ -1,0 +1,60 @@
+{
+ "id": 67,
+ "name": "임진주",
+ "role": "원장",
+ "academyName": "원더아이·원더크라운 영어학원",
+ "province": "충청남도",
+ "cityDistrict": "공주시",
+ "activityRegion": "충청남도 공주시",
+ "identitySummary": "공주에서 유아·초등의 영어 기초부터 중·고등 입시 심화까지 이어지는 두 교육 브랜드를 운영하며, 소수정예 1:1 티코칭과 단계별 과정을 설계한 대표원장.",
+ "educationPhilosophy": "임진주 원장이 운영하는 원더아이의 공개 소개는 학생 스스로가 학습의 주체가 되어 영어에 대한 자신감과 놀라운 성장을 경험하는 것을 지향한다. 이를 위해 일률적 대형 강의보다 소수정예와 개인별 코칭, 지속적인 교재·수업자료 연구를 교육 운영의 중심에 둔다.",
+ "curriculum": "유아·초등은 영어 기초와 수준별 A·B 과정, 중·고등은 예비중등·중등·고등·고등심화 단계로 이어진다. 4명 내외 소수 그룹에서 1:1 티코칭으로 개인 수준과 속도를 점검하고, 중고등 과정은 내신·수능과 심화 훈련, 개별 상담 공간을 연결한다.",
+ "distinctiveTeaching": "유아·초등 원더아이와 중·고등 원더크라운을 분리하면서도 한 성장 경로로 연결하고, 4명 소수정예 안에서 개인별 티코칭과 교재·수업자료 연구를 결합한다.",
+ "recentActivity": "2026년 8월 공주 소재 두 학원의 운영시간, 수강 과정과 현재 리뷰·수강 정보가 갱신되어 오프라인 운영이 확인된다.",
+ "strengths": [
+  "유아·초등 기초에서 중·고등 심화까지 연속적인 성장 경로를 갖췄다.",
+  "4명 소수정예와 1:1 티코칭으로 개인 수준과 속도를 반영한다.",
+  "교재 연구·개발과 수업자료 제작을 공개적으로 강조한다."
+ ],
+ "improvementSuggestions": [
+  "티코칭의 진단·피드백 단계와 학생별 변화 사례를 더 공개하면 수업 고유성이 선명해질 수 있다.",
+  "초등 과정에서 중등 과정으로 넘어가는 성취 기준을 공개하면 장기 커리큘럼을 더 쉽게 이해할 수 있다."
+ ],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "중고등 커리큘럼 정보",
+   "summary": "예비중등부터 중등·고등·고등심화로 이어지는 단계별 입시 영어 과정과 현재 공주 오프라인 운영 정보를 확인한다.",
+   "sourceUrl": "https://learns.academy/academies/P9BEQBC7YT/%EC%9B%90%EB%8D%94%ED%81%AC%EB%9D%BC%EC%9A%B4-%EC%98%81%EC%96%B4%ED%95%99%EC%9B%90",
+   "activityDate": "2026-08-28",
+   "evidenceKind": "CURRICULUM"
+  },
+  {
+   "contentType": "현재 학원 운영 정보",
+   "summary": "공주 신관동에서 현재 운영되는 유아·초등 영어 과정, 1:1 티코칭, 소수정예, 수준별 A·B 과정과 운영시간을 확인한다.",
+   "sourceUrl": "https://learns.academy/academies/d485de51-a1d6-42b8-bae6-67f21c300803",
+   "activityDate": "2026-08-28",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "학원 교육 소개",
+   "summary": "영어 자신감 향상, 끊임없는 교재 연구·개발과 수업자료 제작, 학생이 학습의 주체가 되는 교육 방향, 4명 소수정예를 확인한다.",
+   "sourceUrl": "https://academy.prompie.com/academies/detail/pqdilvc/%EC%9B%90%EB%8D%94%EC%95%84%EC%9D%B4%28Wonder.i%29%EC%98%81%EC%96%B4%ED%95%99%EC%9B%90/",
+   "activityDate": "2025-04-24",
+   "evidenceKind": "PHILOSOPHY"
+  },
+  {
+   "contentType": "대표원장 식별 보도",
+   "summary": "공주 원더아이·원더크라운 영어입시전문학원의 대표원장이 임진주임을 공개적으로 확인한다.",
+   "sourceUrl": "https://www.gosiweek.com/article/1065588505134309",
+   "activityDate": "2024-04-19",
+   "evidenceKind": "SUBJECT_EXPERTISE"
+  }
+ ],
+ "discoveryReason": "개인 이름과 대표원장 역할이 확인되고, 학생이 학습의 주체가 되어 자신감을 키우도록 한다는 방향을 4명 소수정예·1:1 티코칭·지속적 교재 연구와 초등에서 고등까지 이어지는 과정으로 구체화했기 때문에 발견했다.",
+ "lastResearchedAt": "2026-08-28T16:50:43.847229",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

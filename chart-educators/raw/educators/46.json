@@ -1,0 +1,39 @@
+{
+ "id": 46,
+ "name": "김주경",
+ "role": "원장",
+ "academyName": "김주경 영어교습소",
+ "province": "서울특별시",
+ "cityDistrict": "강남구",
+ "activityRegion": "도곡동",
+ "identitySummary": "김주경 영어교습소는 당근 로컬 프로필에서 대형학원 노하우를 소수정예로 전달한다는 설명과 함께, 모든 수업 원장 직강을 내세웁니다. 대형학원에서의 20년 강의 노하우를 소수정예 학습으로 전달한다고 소개되어 있고, 예비 중1부터 고3까지를 대상으로 한 콘텐츠가 확인됩니다. 당근 대표 수업이나 직접 제작 콘텐츠의 구체적 명칭은 출처에 충분히 나오지 않습니다. 하지만 “원장 직강”, “소수정예”, “20년 강의 노하우”, “예비 중1~고3 대상”이라는 공개 문구가 확인되므로, 개인 교육자 후보로서 검토",
+ "educationPhilosophy": null,
+ "curriculum": "확인일 2026-09-18(KST). 공식 당근 업체 프로필 원문에 대형학원(함영원·족보닷컴) 20년 강의 노하우의 소수정예 과정, 원장 직강·오답노트·재테스트, 문법 특화(IPTV 영문법 특강 경력)가 안내되어 있다.",
+ "distinctiveTeaching": "확인일 2026-09-18(KST). 공식 프로필 원문에 개별 부족분 케어, 동일한 커리큘럼 일괄 적용 지양, 원장 직접 관리가 distinctive 방식으로 소개되어 있다.",
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "공식 업체 프로필(원장 직강·경력 안내)",
+   "summary": "확인일 2026-09-18(KST). 김주경영어교습소 공식 당근 프로필에서 20년 강의 경력·원장 직강·문법 특화 과정을 확인했다. 학원명이 김주경으로 기존 레코드와 일치하나 원장 성명의 직접 표기는 없어 B급(소속 연결)으로 기록.",
+   "sourceUrl": "https://www.daangn.com/kr/local-profile/%EA%B9%80%EC%A3%BC%EA%B2%BD-%EC%98%81%EC%96%B4%EA%B5%90%EC%8A%B5%EC%86%8C-mzgjinwgg4sr/",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "수동 발굴",
+   "summary": "운영자 수동 발굴 등록",
+   "sourceUrl": "https://blog.naver.com/jk1468",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "김주경 영어교습소는 당근 로컬 프로필에서 대형학원 노하우를 소수정예로 전달한다는 설명과 함께, 모든 수업 원장 직강을 내세웁니다. 대형학원에서의 20년 강의 노하우를 소수정예 학습으로 전달한다고 소개되어 있고, 예비 중1부터 고3까지를 대상으로 한 콘텐츠가 확인됩니다. 당근 대표 수업이나 직접 제작 콘텐츠의 구체적 명칭은 출처에 충분히 나오지 않습니다. 하지만 “원장 직강”, “소수정예”, “20년 강의 노하우”, “예비 중1~고3 대상”이라는 공개 문구가 확인되므로, 개인 교육자 후보로서 검토 가치가 있습니다.",
+ "lastResearchedAt": "2026-09-18T02:39:03.400606",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

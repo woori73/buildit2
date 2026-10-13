@@ -1,0 +1,59 @@
+{
+ "id": 69,
+ "name": "남보민",
+ "role": "원장",
+ "academyName": "썬키즈리딩",
+ "province": "대구광역시",
+ "cityDistrict": "동구",
+ "activityRegion": "대구광역시 동구",
+ "identitySummary": "영어교육 석사·정교사 자격과 20년 현장 경험을 바탕으로 신암동에서 초등 중심 다청다독 영어공부방을 직접 운영하는 원장.",
+ "educationPhilosophy": "영어를 시험 과목보다 살아 있는 언어로 습득하게 하고, 학습 속도가 느린 아이도 흥미와 자신감을 잃지 않도록 하는 것을 우선한다. 획일적 진도나 단기 점수보다 충분한 소리·원서 노출과 자발적 몰입을 통해 장기적인 영어 자산을 쌓는 방향을 택한다.",
+ "curriculum": "등원 후 단어 확인→원서 집중듣기→스스로 읽기→영어 영상 노출→게임형 스피킹→독해 적용으로 이어지는 7단계 루틴을 매일 운영한다. 집중듣기는 학생 수준보다 조금 높은 원서, 소리내어 읽기는 조금 낮은 원서를 배치하며, 늦게 시작한 학생에게는 매일 10분 파닉스와 원서 필사, 고학년 문법 정리를 보완한다.",
+ "distinctiveTeaching": "다청다독의 풍부한 인풋을 중심에 두되 i+1 원서 밀당, 10분 지름길 파닉스, 매일 원서 필사, 에듀테크 스피킹·독해를 학생별로 결합하는 하이브리드 구조.",
+ "recentActivity": "2026년 6월 공개된 현장 리포트에서 신암동 공부방의 평일 운영시간, 재원 학교, 현재 수업 루틴과 원장 직강 운영이 확인됨.",
+ "strengths": [
+  "듣기·읽기·말하기·독해를 매일의 연속 루틴으로 구조화한다.",
+  "학생 수준에 따라 듣기와 직접 읽기의 원서 난이도를 다르게 배치한다.",
+  "늦게 시작한 학생의 자신감을 위해 짧은 파닉스와 문법 보완을 유연하게 넣는다.",
+  "분기별 레벨 테스트와 월별 상담으로 성장 과정을 추적한다."
+ ],
+ "improvementSuggestions": [
+  "공식 블로그에 학년·레벨별 장기 성장 사례를 정기적으로 축적하면 교육 효과를 더 검증하기 쉽다.",
+  "자체 설계한 7단계 루틴의 단계별 평가 기준을 공개하면 학부모가 진전을 이해하기 더 쉽다."
+ ],
+ "officialChannels": {
+  "homepage": null,
+  "blog": "https://m.blog.naver.com/sunkids05",
+  "youtube": null,
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "교육자 현장 인터뷰·팩트리포트",
+   "summary": "남보민 원장의 교육 배경과 철학, 신암동 오프라인 운영, 7단계 루틴, i+1 원서 난이도 조절, 파닉스·필사·스피킹·독해 결합 과정을 상세히 확인.",
+   "sourceUrl": "https://educurator.tistory.com/42",
+   "activityDate": "2026-06-17",
+   "evidenceKind": "CURRICULUM"
+  },
+  {
+   "contentType": "공식 블로그 교육 미션",
+   "summary": "매일 집중듣기와 영어책 읽기 30분을 통해 장기 원서 독해력으로 연결하는 교육 목표와 미션을 공개함.",
+   "sourceUrl": "https://blog.naver.com/sunkids05/224291729635",
+   "activityDate": "2026-06-01",
+   "evidenceKind": "TEACHING_METHOD"
+  },
+  {
+   "contentType": "공식 블로그 수업일지",
+   "summary": "학생별 7단계 데일리 루틴과 실제 원내 수업 운영을 소개한 공식 수업일지로 리포트에서 직접 연결됨.",
+   "sourceUrl": "https://blog.naver.com/sunkids05/224281134766",
+   "activityDate": "2026-05-07",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  }
+ ],
+ "discoveryReason": "프랜차이즈식 단어·문법 주입의 한계를 자녀 교육에서 체감한 뒤, 다청다독을 기반으로 7단계 데일리 루틴과 i+1 원서 난이도 조절, 필사·파닉스 보완을 결합한 개인 설계가 구체적으로 확인됨.",
+ "lastResearchedAt": "2026-08-29T01:34:06.198744",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

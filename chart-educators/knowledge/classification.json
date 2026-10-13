@@ -1,0 +1,1217 @@
+{
+ "meta": {
+  "note": "키워드 규칙 기반 AI 분류(검색 편의용). 원 판정 기준은 educators.json 원문. 오분류 가능 — 인용 전 원문 대조 필수.",
+  "generatedAt": "2026-10-14",
+  "rankAsOf": "2026-09-14",
+  "tagRules": {
+   "anti_roterism": [
+    "암기",
+    "정답 맞히",
+    "감으로"
+   ],
+   "communication_first": [
+    "말하는 영어",
+    "발화",
+    "의사소통",
+    "소통",
+    "말하기 중심",
+    "표현하는 언어"
+   ],
+   "mind_growth": [
+    "마음",
+    "자존감",
+    "정서",
+    "태도",
+    "자신감",
+    "스트레스"
+   ],
+   "habit_structure": [
+    "습관",
+    "구조가",
+    "시스템",
+    "루틴",
+    "반복",
+    "누적"
+   ],
+   "student_agency": [
+    "자기주도",
+    "스스로",
+    "주체"
+   ],
+   "regional_mission": [
+    "지역",
+    "대도시",
+    "목포",
+    "당진"
+   ],
+   "diagnose_placement": [
+    "진단",
+    "레벨테스트",
+    "레벨링",
+    "입학 테스트",
+    "인터뷰"
+   ],
+   "stage_pathway": [
+    "단계",
+    "연결",
+    "로드맵",
+    "초등부터 고",
+    "이어지는",
+    "5단계",
+    "12단계",
+    "15단계"
+   ],
+   "individual_custom": [
+    "1:1",
+    "개별",
+    "무학년",
+    "소수",
+    " 맞춤"
+   ],
+   "own_materials": [
+    "자체",
+    "직접 제작",
+    "집필",
+    "단권화",
+    "직접 만든",
+    "변형문제",
+    "기출"
+   ],
+   "input_output_loop": [
+    "입력",
+    "출력",
+    "쉐도잉",
+    "녹음",
+    "다독",
+    "원서"
+   ],
+   "named_programs": [
+    "MILK",
+    "LIME",
+    "F2R",
+    "PLA",
+    "NELT",
+    "ECHO",
+    "Power Check",
+    "Grammar Tetris",
+    "복불보카",
+    "TPR",
+    "IB",
+    "Talk for Writing",
+    "DREAM TOGETHER"
+   ],
+   "parent_communication": [
+    "학부모",
+    "부모",
+    "설명회",
+    "공개수업",
+    "월간",
+    "피드백"
+   ],
+   "solo_direct_teaching": [
+    "직강",
+    "원장이 직접",
+    "전 수업",
+    "1인"
+   ],
+   "ai_edsuptech": [
+    "AI",
+    "에듀테크",
+    "태블릿",
+    "디지털"
+   ],
+   "results_public": [
+    "1등급",
+    "전교 1",
+    "평균 9",
+    "적중",
+    "합격"
+   ]
+  }
+ },
+ "educators": {
+  "75": {
+   "hasCardContent": true,
+   "tags": [
+    "anti_roterism",
+    "regional_mission",
+    "diagnose_placement",
+    "stage_pathway",
+    "individual_custom",
+    "parent_communication"
+   ],
+   "region": "강원특별자치도 원주시",
+   "overallRank": 33,
+   "researchPending": false
+  },
+  "74": {
+   "hasCardContent": true,
+   "tags": [
+    "student_agency",
+    "stage_pathway",
+    "own_materials"
+   ],
+   "region": "강원특별자치도 강릉시",
+   "overallRank": 35,
+   "researchPending": false
+  },
+  "73": {
+   "hasCardContent": true,
+   "tags": [
+    "communication_first",
+    "mind_growth",
+    "student_agency",
+    "regional_mission",
+    "diagnose_placement",
+    "stage_pathway",
+    "own_materials",
+    "input_output_loop",
+    "named_programs",
+    "parent_communication",
+    "solo_direct_teaching"
+   ],
+   "region": "강원특별자치도 춘천시",
+   "overallRank": 32,
+   "researchPending": false
+  },
+  "94": {
+   "hasCardContent": true,
+   "tags": [
+    "communication_first",
+    "student_agency",
+    "stage_pathway",
+    "parent_communication"
+   ],
+   "region": "경기도 하남시",
+   "overallRank": 34,
+   "researchPending": false
+  },
+  "96": {
+   "hasCardContent": true,
+   "tags": [
+    "mind_growth",
+    "habit_structure",
+    "own_materials",
+    "results_public"
+   ],
+   "region": "경기도 성남시 중원구",
+   "overallRank": 40,
+   "researchPending": false
+  },
+  "91": {
+   "hasCardContent": true,
+   "tags": [
+    "anti_roterism",
+    "habit_structure",
+    "student_agency",
+    "own_materials"
+   ],
+   "region": "경기도 과천시",
+   "overallRank": 39,
+   "researchPending": false
+  },
+  "93": {
+   "hasCardContent": true,
+   "tags": [
+    "solo_direct_teaching"
+   ],
+   "region": "경기도 하남시",
+   "overallRank": null,
+   "researchPending": true
+  },
+  "97": {
+   "hasCardContent": true,
+   "tags": [
+    "own_materials",
+    "results_public"
+   ],
+   "region": "경기도 성남시 수정구",
+   "overallRank": 6,
+   "researchPending": false
+  },
+  "95": {
+   "hasCardContent": true,
+   "tags": [
+    "anti_roterism",
+    "habit_structure",
+    "stage_pathway",
+    "named_programs"
+   ],
+   "region": "경기도 성남시 중원구",
+   "overallRank": 5,
+   "researchPending": false
+  },
+  "92": {
+   "hasCardContent": true,
+   "tags": [
+    "habit_structure",
+    "diagnose_placement",
+    "stage_pathway",
+    "individual_custom",
+    "input_output_loop",
+    "named_programs"
+   ],
+   "region": "경기도 하남시",
+   "overallRank": 4,
+   "researchPending": false
+  },
+  "90": {
+   "hasCardContent": true,
+   "tags": [
+    "diagnose_placement",
+    "individual_custom",
+    "own_materials",
+    "parent_communication"
+   ],
+   "region": "경기도 과천시",
+   "overallRank": null,
+   "researchPending": true
+  },
+  "89": {
+   "hasCardContent": true,
+   "tags": [
+    "anti_roterism",
+    "communication_first",
+    "mind_growth",
+    "student_agency",
+    "regional_mission",
+    "own_materials",
+    "named_programs",
+    "results_public"
+   ],
+   "region": "경기도 구리시",
+   "overallRank": 1,
+   "researchPending": false
+  },
+  "88": {
+   "hasCardContent": true,
+   "tags": [
+    "student_agency",
+    "individual_custom",
+    "own_materials",
+    "ai_edsuptech",
+    "results_public"
+   ],
+   "region": "경기도 구리시",
+   "overallRank": 3,
+   "researchPending": false
+  },
+  "85": {
+   "hasCardContent": true,
+   "tags": [
+    "named_programs",
+    "parent_communication"
+   ],
+   "region": "경기도 용인시",
+   "overallRank": 37,
+   "researchPending": false
+  },
+  "5": {
+   "hasCardContent": true,
+   "tags": [
+    "anti_roterism",
+    "habit_structure",
+    "stage_pathway"
+   ],
+   "region": "경기도 성남시 분당구",
+   "overallRank": 56,
+   "researchPending": false
+  },
+  "4": {
+   "hasCardContent": true,
+   "tags": [
+    "individual_custom",
+    "input_output_loop",
+    "parent_communication"
+   ],
+   "region": "경기도 성남시 분당구",
+   "overallRank": 59,
+   "researchPending": false
+  },
+  "3": {
+   "hasCardContent": true,
+   "tags": [
+    "habit_structure",
+    "stage_pathway",
+    "individual_custom",
+    "input_output_loop"
+   ],
+   "region": "경기도 성남시 분당구",
+   "overallRank": 51,
+   "researchPending": false
+  },
+  "2": {
+   "hasCardContent": true,
+   "tags": [
+    "mind_growth",
+    "stage_pathway",
+    "input_output_loop",
+    "results_public"
+   ],
+   "region": "경기도 성남시 분당구",
+   "overallRank": 50,
+   "researchPending": false
+  },
+  "1": {
+   "hasCardContent": true,
+   "tags": [
+    "communication_first",
+    "habit_structure",
+    "diagnose_placement",
+    "stage_pathway",
+    "parent_communication"
+   ],
+   "region": "경기도 성남시 분당구",
+   "overallRank": 53,
+   "researchPending": false
+  },
+  "99": {
+   "hasCardContent": true,
+   "tags": [
+    "mind_growth",
+    "diagnose_placement",
+    "individual_custom",
+    "named_programs"
+   ],
+   "region": "경상남도 창원시",
+   "overallRank": 21,
+   "researchPending": false
+  },
+  "117": {
+   "hasCardContent": true,
+   "tags": [
+    "anti_roterism",
+    "stage_pathway",
+    "individual_custom",
+    "parent_communication"
+   ],
+   "region": "경상남도 양산시",
+   "overallRank": 52,
+   "researchPending": false
+  },
+  "115": {
+   "hasCardContent": true,
+   "tags": [
+    "mind_growth",
+    "habit_structure",
+    "regional_mission",
+    "stage_pathway",
+    "input_output_loop"
+   ],
+   "region": "경상남도 밀양시",
+   "overallRank": 42,
+   "researchPending": false
+  },
+  "114": {
+   "hasCardContent": true,
+   "tags": [
+    "habit_structure",
+    "student_agency",
+    "regional_mission",
+    "stage_pathway",
+    "ai_edsuptech"
+   ],
+   "region": "경상남도 통영시",
+   "overallRank": 57,
+   "researchPending": false
+  },
+  "113": {
+   "hasCardContent": true,
+   "tags": [
+    "parent_communication"
+   ],
+   "region": "경상남도 양산시",
+   "overallRank": 47,
+   "researchPending": false
+  },
+  "112": {
+   "hasCardContent": true,
+   "tags": [
+    "regional_mission",
+    "stage_pathway",
+    "own_materials"
+   ],
+   "region": "경상남도 양산시",
+   "overallRank": 46,
+   "researchPending": false
+  },
+  "111": {
+   "hasCardContent": true,
+   "tags": [
+    "student_agency",
+    "regional_mission",
+    "stage_pathway",
+    "individual_custom",
+    "input_output_loop",
+    "parent_communication",
+    "solo_direct_teaching"
+   ],
+   "region": "경상남도 함안군",
+   "overallRank": 55,
+   "researchPending": false
+  },
+  "110": {
+   "hasCardContent": true,
+   "tags": [
+    "anti_roterism",
+    "communication_first",
+    "student_agency",
+    "diagnose_placement",
+    "stage_pathway",
+    "individual_custom",
+    "parent_communication",
+    "solo_direct_teaching",
+    "ai_edsuptech"
+   ],
+   "region": "경상남도 진주시",
+   "overallRank": 49,
+   "researchPending": false
+  },
+  "100": {
+   "hasCardContent": true,
+   "tags": [
+    "anti_roterism",
+    "communication_first",
+    "mind_growth",
+    "habit_structure",
+    "student_agency",
+    "diagnose_placement",
+    "stage_pathway"
+   ],
+   "region": "경상남도 창원시",
+   "overallRank": 45,
+   "researchPending": false
+  },
+  "109": {
+   "hasCardContent": true,
+   "tags": [
+    "diagnose_placement"
+   ],
+   "region": "경상남도 김해시",
+   "overallRank": null,
+   "researchPending": true
+  },
+  "108": {
+   "hasCardContent": true,
+   "tags": [
+    "mind_growth",
+    "diagnose_placement",
+    "individual_custom",
+    "parent_communication",
+    "ai_edsuptech"
+   ],
+   "region": "경상남도 김해시",
+   "overallRank": null,
+   "researchPending": true
+  },
+  "102": {
+   "hasCardContent": true,
+   "tags": [
+    "diagnose_placement",
+    "solo_direct_teaching"
+   ],
+   "region": "경상남도 창원시",
+   "overallRank": null,
+   "researchPending": true
+  },
+  "101": {
+   "hasCardContent": true,
+   "tags": [
+    "diagnose_placement",
+    "individual_custom",
+    "input_output_loop"
+   ],
+   "region": "경상남도 창원시",
+   "overallRank": null,
+   "researchPending": true
+  },
+  "107": {
+   "hasCardContent": true,
+   "tags": [
+    "diagnose_placement",
+    "stage_pathway",
+    "individual_custom",
+    "named_programs",
+    "parent_communication",
+    "results_public"
+   ],
+   "region": "경상남도 김해시",
+   "overallRank": 9,
+   "researchPending": false
+  },
+  "106": {
+   "hasCardContent": true,
+   "tags": [
+    "communication_first",
+    "mind_growth",
+    "diagnose_placement",
+    "individual_custom",
+    "input_output_loop"
+   ],
+   "region": "경상남도 김해시",
+   "overallRank": null,
+   "researchPending": true
+  },
+  "105": {
+   "hasCardContent": true,
+   "tags": [
+    "habit_structure",
+    "diagnose_placement",
+    "stage_pathway",
+    "input_output_loop",
+    "named_programs",
+    "solo_direct_teaching"
+   ],
+   "region": "경상남도 김해시",
+   "overallRank": 22,
+   "researchPending": false
+  },
+  "104": {
+   "hasCardContent": true,
+   "tags": [
+    "communication_first",
+    "mind_growth",
+    "individual_custom",
+    "own_materials",
+    "results_public"
+   ],
+   "region": "경상남도 김해시",
+   "overallRank": 8,
+   "researchPending": false
+  },
+  "103": {
+   "hasCardContent": true,
+   "tags": [
+    "habit_structure",
+    "individual_custom",
+    "solo_direct_teaching"
+   ],
+   "region": "경상남도 김해시",
+   "overallRank": 7,
+   "researchPending": false
+  },
+  "98": {
+   "hasCardContent": true,
+   "tags": [
+    "anti_roterism",
+    "habit_structure",
+    "stage_pathway",
+    "own_materials",
+    "results_public"
+   ],
+   "region": "경상남도 창원시",
+   "overallRank": 12,
+   "researchPending": false
+  },
+  "84": {
+   "hasCardContent": true,
+   "tags": [
+    "habit_structure",
+    "student_agency",
+    "own_materials",
+    "input_output_loop"
+   ],
+   "region": "경상북도 상주시",
+   "overallRank": 28,
+   "researchPending": false
+  },
+  "80": {
+   "hasCardContent": true,
+   "tags": [
+    "anti_roterism",
+    "habit_structure",
+    "individual_custom",
+    "own_materials",
+    "parent_communication"
+   ],
+   "region": "경상북도 경주시",
+   "overallRank": 2,
+   "researchPending": false
+  },
+  "82": {
+   "hasCardContent": true,
+   "tags": [
+    "habit_structure",
+    "regional_mission",
+    "stage_pathway",
+    "individual_custom",
+    "own_materials",
+    "input_output_loop",
+    "solo_direct_teaching"
+   ],
+   "region": "경상북도 경산시",
+   "overallRank": 20,
+   "researchPending": false
+  },
+  "83": {
+   "hasCardContent": true,
+   "tags": [],
+   "region": "경상북도 포항시",
+   "overallRank": null,
+   "researchPending": true
+  },
+  "81": {
+   "hasCardContent": true,
+   "tags": [
+    "anti_roterism",
+    "habit_structure",
+    "individual_custom",
+    "own_materials",
+    "parent_communication"
+   ],
+   "region": "경상북도 경주시",
+   "overallRank": 36,
+   "researchPending": false
+  },
+  "79": {
+   "hasCardContent": true,
+   "tags": [
+    "stage_pathway",
+    "individual_custom",
+    "own_materials"
+   ],
+   "region": "경상북도 경주시",
+   "overallRank": null,
+   "researchPending": true
+  },
+  "78": {
+   "hasCardContent": true,
+   "tags": [
+    "habit_structure",
+    "student_agency",
+    "regional_mission",
+    "stage_pathway",
+    "own_materials"
+   ],
+   "region": "경상북도 구미시",
+   "overallRank": null,
+   "researchPending": true
+  },
+  "77": {
+   "hasCardContent": true,
+   "tags": [
+    "regional_mission"
+   ],
+   "region": "경상북도 고령군",
+   "overallRank": null,
+   "researchPending": true
+  },
+  "76": {
+   "hasCardContent": true,
+   "tags": [
+    "mind_growth",
+    "regional_mission",
+    "diagnose_placement",
+    "stage_pathway"
+   ],
+   "region": "경상북도 안동시",
+   "overallRank": 25,
+   "researchPending": false
+  },
+  "70": {
+   "hasCardContent": true,
+   "tags": [
+    "anti_roterism",
+    "student_agency",
+    "stage_pathway",
+    "individual_custom",
+    "parent_communication",
+    "solo_direct_teaching"
+   ],
+   "region": "대구광역시 수성구",
+   "overallRank": 18,
+   "researchPending": false
+  },
+  "69": {
+   "hasCardContent": true,
+   "tags": [
+    "mind_growth",
+    "habit_structure",
+    "student_agency",
+    "stage_pathway",
+    "input_output_loop",
+    "solo_direct_teaching",
+    "ai_edsuptech"
+   ],
+   "region": "대구광역시 동구",
+   "overallRank": 27,
+   "researchPending": false
+  },
+  "68": {
+   "hasCardContent": true,
+   "tags": [
+    "habit_structure",
+    "student_agency",
+    "regional_mission",
+    "diagnose_placement",
+    "stage_pathway",
+    "individual_custom",
+    "own_materials"
+   ],
+   "region": "대구광역시 북구",
+   "overallRank": 26,
+   "researchPending": false
+  },
+  "72": {
+   "hasCardContent": true,
+   "tags": [
+    "anti_roterism",
+    "mind_growth",
+    "habit_structure",
+    "diagnose_placement",
+    "stage_pathway",
+    "individual_custom",
+    "own_materials",
+    "named_programs",
+    "parent_communication",
+    "ai_edsuptech"
+   ],
+   "region": "대전광역시 유성구",
+   "overallRank": 13,
+   "researchPending": false
+  },
+  "71": {
+   "hasCardContent": true,
+   "tags": [
+    "habit_structure",
+    "stage_pathway",
+    "individual_custom",
+    "solo_direct_teaching"
+   ],
+   "region": "대전광역시 대덕구",
+   "overallRank": 19,
+   "researchPending": false
+  },
+  "57": {
+   "hasCardContent": true,
+   "tags": [
+    "communication_first",
+    "mind_growth",
+    "habit_structure",
+    "stage_pathway",
+    "individual_custom",
+    "own_materials",
+    "solo_direct_teaching"
+   ],
+   "region": "부산광역시 연제구",
+   "overallRank": 44,
+   "researchPending": false
+  },
+  "56": {
+   "hasCardContent": true,
+   "tags": [
+    "anti_roterism",
+    "diagnose_placement",
+    "stage_pathway",
+    "own_materials"
+   ],
+   "region": "부산광역시 연제구",
+   "overallRank": 10,
+   "researchPending": false
+  },
+  "55": {
+   "hasCardContent": true,
+   "tags": [
+    "student_agency",
+    "stage_pathway",
+    "solo_direct_teaching"
+   ],
+   "region": "부산광역시 영도구",
+   "overallRank": null,
+   "researchPending": true
+  },
+  "54": {
+   "hasCardContent": true,
+   "tags": [
+    "communication_first",
+    "habit_structure",
+    "stage_pathway",
+    "input_output_loop"
+   ],
+   "region": "부산광역시 수영구",
+   "overallRank": 14,
+   "researchPending": false
+  },
+  "53": {
+   "hasCardContent": true,
+   "tags": [
+    "diagnose_placement",
+    "stage_pathway",
+    "individual_custom",
+    "parent_communication"
+   ],
+   "region": "부산광역시 사하구",
+   "overallRank": null,
+   "researchPending": true
+  },
+  "52": {
+   "hasCardContent": true,
+   "tags": [
+    "communication_first",
+    "habit_structure",
+    "student_agency",
+    "diagnose_placement",
+    "stage_pathway"
+   ],
+   "region": "부산광역시 사하구",
+   "overallRank": null,
+   "researchPending": true
+  },
+  "51": {
+   "hasCardContent": true,
+   "tags": [
+    "anti_roterism",
+    "communication_first",
+    "diagnose_placement",
+    "stage_pathway",
+    "individual_custom"
+   ],
+   "region": "부산광역시 사하구",
+   "overallRank": null,
+   "researchPending": true
+  },
+  "50": {
+   "hasCardContent": true,
+   "tags": [
+    "mind_growth",
+    "habit_structure",
+    "stage_pathway",
+    "input_output_loop"
+   ],
+   "region": "부산광역시 금정구",
+   "overallRank": 30,
+   "researchPending": false
+  },
+  "49": {
+   "hasCardContent": true,
+   "tags": [
+    "communication_first",
+    "diagnose_placement",
+    "stage_pathway",
+    "parent_communication"
+   ],
+   "region": "부산광역시 북구",
+   "overallRank": 54,
+   "researchPending": false
+  },
+  "48": {
+   "hasCardContent": false
+  },
+  "47": {
+   "hasCardContent": false
+  },
+  "45": {
+   "hasCardContent": true,
+   "tags": [
+    "mind_growth",
+    "habit_structure",
+    "stage_pathway",
+    "individual_custom",
+    "own_materials",
+    "named_programs",
+    "ai_edsuptech"
+   ],
+   "region": "강남구 압구정",
+   "overallRank": 41,
+   "researchPending": false
+  },
+  "46": {
+   "hasCardContent": true,
+   "tags": [
+    "individual_custom",
+    "solo_direct_teaching"
+   ],
+   "region": "도곡동",
+   "overallRank": 60,
+   "researchPending": false
+  },
+  "41": {
+   "hasCardContent": true,
+   "tags": [
+    "mind_growth"
+   ],
+   "region": "서울 금천구 시흥동",
+   "overallRank": 58,
+   "researchPending": false
+  },
+  "39": {
+   "hasCardContent": false
+  },
+  "38": {
+   "hasCardContent": false
+  },
+  "37": {
+   "hasCardContent": false
+  },
+  "34": {
+   "hasCardContent": false
+  },
+  "33": {
+   "hasCardContent": false
+  },
+  "30": {
+   "hasCardContent": false
+  },
+  "29": {
+   "hasCardContent": false
+  },
+  "27": {
+   "hasCardContent": false
+  },
+  "21": {
+   "hasCardContent": false
+  },
+  "20": {
+   "hasCardContent": false
+  },
+  "16": {
+   "hasCardContent": false
+  },
+  "12": {
+   "hasCardContent": false
+  },
+  "11": {
+   "hasCardContent": false
+  },
+  "7": {
+   "hasCardContent": false
+  },
+  "6": {
+   "hasCardContent": false
+  },
+  "44": {
+   "hasCardContent": false
+  },
+  "43": {
+   "hasCardContent": false
+  },
+  "42": {
+   "hasCardContent": false
+  },
+  "40": {
+   "hasCardContent": false
+  },
+  "36": {
+   "hasCardContent": false
+  },
+  "35": {
+   "hasCardContent": false
+  },
+  "32": {
+   "hasCardContent": false
+  },
+  "31": {
+   "hasCardContent": false
+  },
+  "28": {
+   "hasCardContent": false
+  },
+  "26": {
+   "hasCardContent": false
+  },
+  "25": {
+   "hasCardContent": false
+  },
+  "24": {
+   "hasCardContent": false
+  },
+  "23": {
+   "hasCardContent": false
+  },
+  "22": {
+   "hasCardContent": false
+  },
+  "19": {
+   "hasCardContent": false
+  },
+  "18": {
+   "hasCardContent": false
+  },
+  "17": {
+   "hasCardContent": false
+  },
+  "15": {
+   "hasCardContent": false
+  },
+  "14": {
+   "hasCardContent": false
+  },
+  "13": {
+   "hasCardContent": false
+  },
+  "10": {
+   "hasCardContent": false
+  },
+  "9": {
+   "hasCardContent": false
+  },
+  "8": {
+   "hasCardContent": false
+  },
+  "116": {
+   "hasCardContent": true,
+   "tags": [
+    "student_agency",
+    "regional_mission",
+    "diagnose_placement"
+   ],
+   "region": "인천광역시 부평구",
+   "overallRank": 43,
+   "researchPending": false
+  },
+  "87": {
+   "hasCardContent": true,
+   "tags": [
+    "habit_structure",
+    "diagnose_placement",
+    "stage_pathway",
+    "own_materials",
+    "results_public"
+   ],
+   "region": "전라남도 순천시",
+   "overallRank": 38,
+   "researchPending": false
+  },
+  "86": {
+   "hasCardContent": true,
+   "tags": [
+    "habit_structure",
+    "regional_mission",
+    "stage_pathway",
+    "solo_direct_teaching"
+   ],
+   "region": "전라남도 목포시",
+   "overallRank": 29,
+   "researchPending": false
+  },
+  "66": {
+   "hasCardContent": true,
+   "tags": [
+    "habit_structure",
+    "regional_mission",
+    "diagnose_placement",
+    "stage_pathway",
+    "individual_custom",
+    "own_materials",
+    "solo_direct_teaching"
+   ],
+   "region": "충청남도 당진시",
+   "overallRank": 11,
+   "researchPending": false
+  },
+  "67": {
+   "hasCardContent": true,
+   "tags": [
+    "mind_growth",
+    "student_agency",
+    "stage_pathway",
+    "individual_custom"
+   ],
+   "region": "충청남도 공주시",
+   "overallRank": 17,
+   "researchPending": false
+  },
+  "65": {
+   "hasCardContent": true,
+   "tags": [
+    "anti_roterism",
+    "habit_structure",
+    "regional_mission",
+    "diagnose_placement",
+    "stage_pathway",
+    "own_materials"
+   ],
+   "region": "충청남도 천안시",
+   "overallRank": 16,
+   "researchPending": false
+  },
+  "64": {
+   "hasCardContent": true,
+   "tags": [
+    "regional_mission",
+    "stage_pathway"
+   ],
+   "region": "충청남도 보령시",
+   "overallRank": 24,
+   "researchPending": false
+  },
+  "63": {
+   "hasCardContent": true,
+   "tags": [
+    "anti_roterism",
+    "communication_first",
+    "mind_growth",
+    "student_agency",
+    "stage_pathway",
+    "individual_custom"
+   ],
+   "region": "충청남도 아산시",
+   "overallRank": 15,
+   "researchPending": false
+  },
+  "62": {
+   "hasCardContent": true,
+   "tags": [
+    "student_agency",
+    "stage_pathway",
+    "individual_custom",
+    "parent_communication"
+   ],
+   "region": "충청북도 옥천군",
+   "overallRank": null,
+   "researchPending": true
+  },
+  "61": {
+   "hasCardContent": true,
+   "tags": [
+    "regional_mission",
+    "stage_pathway",
+    "parent_communication",
+    "solo_direct_teaching"
+   ],
+   "region": "충청북도 증평군",
+   "overallRank": 23,
+   "researchPending": false
+  },
+  "60": {
+   "hasCardContent": true,
+   "tags": [
+    "anti_roterism",
+    "stage_pathway",
+    "input_output_loop"
+   ],
+   "region": "충청북도 충주시",
+   "overallRank": 48,
+   "researchPending": false
+  },
+  "59": {
+   "hasCardContent": true,
+   "tags": [
+    "mind_growth",
+    "habit_structure",
+    "diagnose_placement",
+    "stage_pathway",
+    "own_materials",
+    "parent_communication",
+    "ai_edsuptech"
+   ],
+   "region": "충청북도 청주시",
+   "overallRank": null,
+   "researchPending": true
+  },
+  "58": {
+   "hasCardContent": true,
+   "tags": [
+    "habit_structure",
+    "diagnose_placement",
+    "stage_pathway",
+    "own_materials",
+    "input_output_loop",
+    "parent_communication"
+   ],
+   "region": "충청북도 청주시",
+   "overallRank": 31,
+   "researchPending": false
+  }
+ }
+}

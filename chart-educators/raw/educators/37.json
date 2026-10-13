@@ -1,0 +1,39 @@
+{
+ "id": 37,
+ "name": "김혜경",
+ "role": "원장",
+ "academyName": "뮤엠영어학원",
+ "province": "서울특별시",
+ "cityDistrict": "동작구",
+ "activityRegion": "서울 동작구 사당동",
+ "identitySummary": "동작구 사당동에서 20년 경력의 유아 영어 교육 전문가이자 뮤엠영어학원 원장으로 활동하며, 영어 쓰기를 통한 사고력 확장에 관한 교육 칼럼을 기고한 내용을 통해 발굴했습니다.",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "언론 칼럼(원장 집필·저서 확인)",
+   "summary": "확인일 2026-09-18(KST). 언론 원문 칼럼에서 김혜경이 20년 경력 유아영어교육전문가·사당동 뮤엠영어학원 원장·저서 강점집중으로 확인된다. 기존 레코드 김혜경/원장/뮤엠영어학원(사당동)과 일치. 평가 연결: 교육 콘텐츠·저술 및 전문성.",
+   "sourceUrl": "http://www.kmedia-news.com/news/articleView.html?idxno=5597",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "칼럼",
+   "summary": "디지털 시대에 영어 쓰기를 통해 아이들의 유추, 추론 능력 및 논리적 사고력을 확장하는 영어 교육의 중요성을 강조합니다.",
+   "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmTO22HxLbniZLBgvV6R8FAVB_Eu6MePpwp2W3W_evMD4jKj5_YNGBhhqa2jj6p1pH3yKSPjGHUCTUFp3lwGEwr5ZmgF3D7yLyM8BxfZK85doSAIbdIaL5MZKA8CwMRBK3suc3sr69VR1aHrj2Ru2snw==",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "동작구 사당동에서 20년 경력의 유아 영어 교육 전문가이자 뮤엠영어학원 원장으로 활동하며, 영어 쓰기를 통한 사고력 확장에 관한 교육 칼럼을 기고한 내용을 통해 발굴했습니다.",
+ "lastResearchedAt": "2026-09-18T02:34:35.327503",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

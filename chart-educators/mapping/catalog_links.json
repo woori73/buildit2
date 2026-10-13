@@ -1,0 +1,67 @@
+{
+  "purpose": "BuildIt Chart 교육자 사례 ↔ buildit2 디자인 자산 카탈로그 연결. 홈페이지 제작 Agent가 학원장 프로필을 자산 조합으로 변환할 때 참조한다.",
+  "collectedAt": "2026-10-14",
+  "rankAsOf": "2026-09-14",
+  "usageRule": "source_educator_ids의 사례는 참고 패턴일 뿐이며, 의뢰 학원장이 제공한 정보만 슬롯에 채운다. 정보가 없으면 해당 섹션을 생성하지 않는다(buildit2 최상위 README 원칙과 동일).",
+  "mappings": [
+    {
+      "profile_trait": "결과·실적 중심 (적중 리포트, 등급 달성 보고)",
+      "source_educator_ids": [88, 97, 104, 107, 89],
+      "recommended_assets": ["anim-gsap-counter", "comp-testimonials-hyperui", "tmpl-open-school"],
+      "section_suggestion": "숫자 카운트업 실적영역 + 근거 시점이 명시된 성과 카드. 수치 출처는 의뢰 학원장 입력값으로 교체."
+    },
+    {
+      "profile_trait": "철학 선언형 (암기 반대·실력/사용 중심)",
+      "source_educator_ids": [1, 89, 91, 103, 110, 80],
+      "recommended_assets": ["comp-hero-hyperui", "anim-gsap-scroll-fade"],
+      "section_suggestion": "2열 히어로: 반대하는 것/지향하는 것 대비 문구. 철학 문장은 원장 직접 확인 문안만 사용."
+    },
+    {
+      "profile_trait": "1인 원장 직강·소수정예 (정원·입학 원칙 명시)",
+      "source_educator_ids": [116, 90, 67, 71, 80, 3, 102],
+      "recommended_assets": ["tmpl-minimal-landing", "comp-hero-hyperui", "comp-nav-footer-hyperui"],
+      "section_suggestion": "단일 페이지: 원장 소개+정원 원칙 카드+상담 유도 버튼. 실명·지역 노출이 신뢰 장치."
+    },
+    {
+      "profile_trait": "단계형 커리큘럼 (초등→고등 연속 경로)",
+      "source_educator_ids": [50, 64, 60, 107, 114, 115],
+      "recommended_assets": ["tmpl-open-school", "anim-slide-in-bottom", "comp-team-tailblocks"],
+      "section_suggestion": "로드맵/타임라인 섹션. 단계 카드는 comp-team-tailblocks 그리드를 커리큘럼용으로 재사용."
+    },
+    {
+      "profile_trait": "관리 루틴형 (누적 테스트·오답·피드백 주기)",
+      "source_educator_ids": [66, 105, 117, 70, 103, 58],
+      "recommended_assets": ["tmpl-demo-school", "anim-gsap-scroll-fade"],
+      "section_suggestion": "수업 후 관리 프로세스 도식(1→2→3). 주기·단계명은 의뢰 학원장 확인 값만 사용."
+    },
+    {
+      "profile_trait": "학부모 소통·설명회 운영",
+      "source_educator_ids": [58, 69, 49, 90, 110, 111, 113, 94, 107, 45],
+      "recommended_assets": ["comp-nav-footer-hyperui", "tmpl-open-school"],
+      "section_suggestion": "소식지/설명회 예약CTA. 상담·등록 유도 버튼은 categories.json components.buttons 용도."
+    },
+    {
+      "profile_trait": "활동·프로그램 자산화 (TPR·뮤지컬·IB·_named 프로그램)",
+      "source_educator_ids": [89, 4, 85, 92, 73, 99, 87],
+      "recommended_assets": ["comp-team-tailblocks", "anim-slide-in-bottom", "tmpl-demo-school"],
+      "section_suggestion": "프로그램 카드 그리드+스태거 등장 애니메이션. 카드 이미지는 실제 수업 사진(의뢰자 소유)만."
+    },
+    {
+      "profile_trait": "지역 기반·실명 신뢰 (소도시 1인 교습소)",
+      "source_educator_ids": [111, 112, 114, 115, 116, 117, 66, 86],
+      "recommended_assets": ["tmpl-minimal-landing", "comp-nav-footer-hyperui"],
+      "section_suggestion": "주소·전화·운영시간을 푸터 대신 히어로 하단에. 블로그 최근글 3건='요즘 수업' 섹션."
+    },
+    {
+      "profile_trait": "AI·에듀테크 결합 수업",
+      "source_educator_ids": [45, 88, 114, 72, 59],
+      "recommended_assets": ["comp-hero-hyperui", "tmpl-open-school"],
+      "section_suggestion": "도구 이름·기능은 원장에 확인 후 기재. 'AI 사용' 자체보다 학습 효과 서술을 우선."
+    }
+  ],
+  "evidence": {
+    "raw": "../raw/educators/{id}.json",
+    "merged": "../educators.json",
+    "catalog": "../../catalog/assets.json"
+  }
+}

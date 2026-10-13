@@ -1,0 +1,32 @@
+{
+ "id": 25,
+ "name": "이지현",
+ "role": "원장",
+ "academyName": "일리영어학원",
+ "province": "서울특별시",
+ "cityDistrict": "도봉구",
+ "activityRegion": "서울 도봉구 쌍문동",
+ "identitySummary": "도봉구 쌍문동 지역 고등학교들의 영어 내신 성과 및 유기적 학습 관리 콘텐츠를 작성한 학원의 대표자로 확인되어 후보로 선정했습니다.",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "글",
+   "summary": "선덕고, 창동고, 효문고, 정의여고 등 도봉구 지역 고등학교 학생들을 대상으로 한 예비고1반 내신 성과와 유기적인 학습 관리 커리큘럼을 소개했습니다.",
+   "sourceUrl": "https://blog.naver.com/ili_english",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "도봉구 쌍문동 지역 고등학교들의 영어 내신 성과 및 유기적 학습 관리 콘텐츠를 작성한 학원의 대표자로 확인되어 후보로 선정했습니다.",
+ "lastResearchedAt": "2026-08-27T18:15:51.346703",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

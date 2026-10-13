@@ -1,0 +1,39 @@
+{
+ "id": 30,
+ "name": "이수연",
+ "role": "원장",
+ "academyName": "더퍼스트펭귄 영어교습소",
+ "province": "서울특별시",
+ "cityDistrict": "은평구",
+ "activityRegion": "서울 은평구 진관동",
+ "identitySummary": "은평구 구파발 지역에서 ''공부 자립''을 돕는 영어 교육 철학과 중고등 내신 지문 분석법을 인터뷰를 통해 상세히 밝히고 직접 지도하는 원장으로 확인됨.",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "언론 인터뷰(원장 직접 발언)",
+   "summary": "확인일 2026-09-18(KST). 시사와이드경제 원문 인터뷰에서 더퍼스트펭귄 영어교습소 이수연 원장이 공부 자립 지도 철학·수업 방식을 직접 발언했다. 기존 레코드 이수연/원장/더퍼스트펭귄(은평구)과 일치. 평가 연결: 수업·교육 실천 및 전문성.",
+   "sourceUrl": "https://www.mkfn.co.kr/3956",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "인터뷰",
+   "summary": "중등 문법을 고등 내신 독해의 도구로 전환하고, 고등부 내신 지문 7단계 분석법을 통해 학생이 출제자의 시각에서 지문을 재조립하도록 훈련하며, 공부 자립을 돕는 교육 철학을 실천함.",
+   "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbCIlqweIrYglrP1JGlSe5PYGr6RaT0VAjRX5SZrE_GDxPDez_Q3NbFf3QiSGdz5xJ2L6J-aC4z6dZuwmYvfzkeYEj6XLZrnaVRk3izf5i6f8=",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "은평구 구파발 지역에서 '공부 자립'을 돕는 영어 교육 철학과 중고등 내신 지문 분석법을 인터뷰를 통해 상세히 밝히고 직접 지도하는 원장으로 확인됨.",
+ "lastResearchedAt": "2026-09-18T02:25:42.677004",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

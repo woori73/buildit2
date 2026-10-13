@@ -1,0 +1,51 @@
+{
+ "id": 111,
+ "name": "이상민",
+ "role": "원장",
+ "academyName": "솔민학원",
+ "province": "경상남도",
+ "cityDistrict": "함안군",
+ "activityRegion": "경상남도 함안군",
+ "identitySummary": "솔민학원(1호점 창원 내서 / 2호점 함안 호암) 이상민 대표원장. 학원 공식 네이버 블로그에 원장 실명으로 학부모설명회 진행 주체가 직접 기록되어 있다.",
+ "educationPhilosophy": "완전학습 방법을 교육의 핵심으로 삼는다. 학생이 자신이 아는 것과 모르는 것을 구분하고, 이해하지 못한 부분을 다시 확인한 뒤 스스로 설명하고 적용할 수 있을 때까지 학습을 완성해야 배움이 끝났다고 본다. 2026년 8월에는 초등학교 5학년 이상 학생과 학부모를 대상으로 이상민 원장의 완전학습 방법 학부모설명회를 직접 열었다.",
+ "curriculum": "예습·수업·복습을 하나로 연결하는 완전학습 흐름을 과목 커리큘럼으로 편성한다. 영어는 알파 영어 논술과 알파 영어 리딩 수업을 강화하고 맥그로힐(McGraw-Hill) 원서를 정규 과정으로 넣어, 온라인으로 원서를 읽고 9단계 학습을 마친 뒤 프랙티스 북과 워크북으로 오프라인에서 확인하는 on+off 구조로 운영한다. 무학년제 개별 맞춤학습으로 진행하며 함안 지역(전안초·광려초·호암초·광려중·호암중) 진학 학생들을 기준으로 2026년 개편안을 안내했다.",
+ "distinctiveTeaching": "온라인 원서 읽기에서 9단계 학습, 프랙티스 북·워크북 확인으로 이어지는 영어 학습 루프를 원장 직강 완전학습 설명회와 연결해 운영한다.",
+ "recentActivity": "2026년 1월 5일 신학기 운영상 변화와 영어 리딩·맥그로힐 원서 수업 신설을 공지했고, 2026년 8월 7일 이상민 원장의 완전학습 방법 학부모설명회 개최를 공지했다.",
+ "strengths": [
+  "원장 실명과 교육철학이 학원官方博客에 직접 기술됨",
+  "2026년 연중 두 건 이상의 공개 활동 근거",
+  "온·오프라인을 결합한 영어 원서 커리큘럼이 구체적"
+ ],
+ "improvementSuggestions": [
+  "함안 호암 캠퍼스의 정확한 소재지 주소에 대한 공개 근거가 부족",
+  "수업 장면·학생 결과물 등 추가 근거 필요"
+ ],
+ "officialChannels": {
+  "homepage": null,
+  "blog": "https://blog.naver.com/solminhakwon",
+  "youtube": null,
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "NAVER_BLOG",
+   "summary": "2026년 8월 7일 게시. 초등학교 5학년 이상 학생과 학부모를 대상으로 이상민 원장의 완전학습 방법 학부모설명회를 진행한다고 밝히며, 아는 것과 모르는 것을 구분해 스스로 설명하고 적용할 때까지 학습을 완성한다는 방법을 직접 설명한다.",
+   "sourceUrl": "https://m.blog.naver.com/solminhakwon/224371588500",
+   "activityDate": "2026-08-07",
+   "evidenceKind": "PHILOSOPHY"
+  },
+  {
+   "contentType": "NAVER_BLOG",
+   "summary": "2026년 1월 5일 게시. 전안초·광려초·호암초·광려중·호암중 학부모 대상 2026년 운영 변화 안내로, 알파 영어 리딩과 맥그로힐 원서 수업 정규 편성 및 온라인 9단계 학습 후 프랙티스 북·워크북으로 이어지는 on+off 학습 구조를 명시했다.",
+   "sourceUrl": "https://m.blog.naver.com/solminhakwon/224135582032",
+   "activityDate": "2026-01-05",
+   "evidenceKind": "CURRICULUM"
+  }
+ ],
+ "discoveryReason": "region queue의 다음 미조사 지역인 경상남도 함안군에서 공식 블로그를 운영 중인 초·중등 영어 학원으로 확인됨.",
+ "lastResearchedAt": "2026-09-19T15:20:09.153509",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

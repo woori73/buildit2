@@ -1,0 +1,32 @@
+{
+ "id": 14,
+ "name": "김성연",
+ "role": "원장",
+ "academyName": "키위북웜스",
+ "province": "서울특별시",
+ "cityDistrict": "종로구",
+ "activityRegion": "서울 종로구 신교동",
+ "identitySummary": "종로구 신교동에서 소규모 영어 공부방을 운영하며, 블로그와 카카오톡 채널을 통해 직접 제작한 내신 대비 학습 자료를 배포하고 있어 후보로 선정했습니다.",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "글",
+   "summary": "고1 영어 내신 대비를 위해 직접 제작한 어법 변형 문제를 블로그에 공유하고, 소규모 멘토링형 수업 방식을 소개했습니다.",
+   "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6UO11GAoNHMGWHudqT2bFclhwmHqgtd4HqDkmaxBaMcgN3lC54P_R8mSKePaB0kfnzfAvvMOwGm7bx40cLk6mq1tRem0d0ScZELaVJYgwPAI=",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "종로구 신교동에서 소규모 영어 공부방을 운영하며, 블로그와 카카오톡 채널을 통해 직접 제작한 내신 대비 학습 자료를 배포하고 있어 후보로 선정했습니다.",
+ "lastResearchedAt": "2026-08-27T18:15:51.302271",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

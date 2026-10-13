@@ -1,0 +1,65 @@
+{
+ "id": 105,
+ "name": "박병준",
+ "role": "원장",
+ "academyName": "유니온에듀학원",
+ "province": "경상남도",
+ "cityDistrict": "김해시",
+ "activityRegion": "경상남도 김해시",
+ "identitySummary": "김해시 진영읍 유니온에듀학원 윌그로우 진영캠퍼스 원장. 25년 경력으로 핵심 수업을 직접 맡는 영어교육자 (2026년 팩트리포트 기준).",
+ "educationPhilosophy": "영어를 훈련으로 보아 설명 한 번으로 지나가지 않고 학생이 자기 것으로 만들도록 도우며, 가르치는 것과 배우는 것의 간극을 메우는 교육을 지향한다.",
+ "curriculum": "Power Check 7단계 반복 체크(단어·라이팅·발음 구두 테스트), 누적 테스트와 무작위 구두 확인, 매일 녹음 과제와 NELT 외부 레벨테스트·텀테스트·분기 리포트로 관리한다.",
+ "distinctiveTeaching": "훈련 관점 수업과 Power Check 반복 체크, 녹음 과제 아카이빙.",
+ "recentActivity": "2026년 7월 여름방학 운영, 5월 진영고 분석 등 현재 수업 기록을 블로그에 지속 공개. 2026년 6월 팩트리포트에서 원장·시스템 확인.",
+ "strengths": [
+  "25년 경력과 핵심 수업 직강",
+  "Power Check 반복 체크 시스템",
+  "2026년 현재 수업 기록 공개"
+ ],
+ "improvementSuggestions": [
+  "수업 철학 대표 글 정리",
+  "학년별 로드맵 공개"
+ ],
+ "officialChannels": {
+  "homepage": null,
+  "blog": "https://blog.naver.com/unionedu0515",
+  "youtube": null,
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "학원 운영",
+   "summary": "2026년 여름방학 2학기 중간고사 골든타임 운영 안내",
+   "sourceUrl": "https://blog.naver.com/unionedu0515/224351544275",
+   "activityDate": "2026-07-20",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "팩트리포트",
+   "summary": "25년 경력·Power Check·누적테스트·녹음과제 시스템 상세 기록",
+   "sourceUrl": "https://educurator.tistory.com/36",
+   "activityDate": "2026-06-06",
+   "evidenceKind": "CURRICULUM"
+  },
+  {
+   "contentType": "시험 분석",
+   "summary": "2026년 1학기 진영고 수학 중간고사 출제 경향 분석",
+   "sourceUrl": "https://blog.naver.com/unionedu0515/224295486119",
+   "activityDate": "2026-05-25",
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "학원 블로그",
+   "summary": "유니온에듀 공식 블로그 (오프라인 수업 기록)",
+   "sourceUrl": "https://blog.naver.com/unionedu0515",
+   "activityDate": null,
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  }
+ ],
+ "discoveryReason": "Chart 전국 확장 조사 (김해). 2026년 팩트리포트·블로그에서 실명·소속·지역·최근활동 확인.",
+ "lastResearchedAt": "2026-09-14T03:09:02.520144",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

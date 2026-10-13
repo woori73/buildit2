@@ -1,0 +1,58 @@
+{
+ "id": 91,
+ "name": "신희진",
+ "role": "원장",
+ "academyName": "과천보듬교육학원",
+ "province": "경기도",
+ "cityDistrict": "과천시",
+ "activityRegion": "경기도 과천시",
+ "identitySummary": "과천시 중앙동 과천보듬교육학원 원장. 영어 강사진을 총괄하고 2026 대비 영어 워크북을 공저한 영어교육자.",
+ "educationPhilosophy": "암기한 문법 지식으로 문제만 푸는 대신 문장이 어떻게 만들어졌는지를 먼저 보는 연습을 강조한다. 학생이 품사와 문장 성분을 직접 찾고, 그 문장이 왜 해당 형식인지 스스로 설명할 수 있어야 한다고 본다. 영어를 감으로 풀지 않고 원리로 읽는 것을 수업의 기본 기준으로 삼으며, 시중 문제집을 많이 푸는 것보다 자체 교재로 문장 구조 분석을 반복하게 한다.",
+ "curriculum": "확인일 2026-09-18(KST). 공식 홈페이지 원문에 초등 5·6, 중1~3(학교별 내신), 고1~3(과천고·중앙고·과천여고 출제 특성 반영), 과천외고 과정이 안내되어 있다.",
+ "distinctiveTeaching": null,
+ "recentActivity": "2026년 대비 영어 워크북 공저와 현재 학원 운영이 공개 자료로 확인된다. 개인의 교육철학·커리큘럼 서술 근거는 확보하지 못했다.",
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": {
+  "homepage": "https://bodeumeducation.oopy.io/",
+  "blog": "https://blog.naver.com/bodeum_education",
+  "youtube": null,
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "수업 안내",
+   "summary": "중3 문장 분석 기본기 수업 안내 (문법용병단)",
+   "sourceUrl": "https://blog.naver.com/bodeum_education/224407624398",
+   "activityDate": "2026-09-10",
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "공식 홈페이지(원장·과정 확인)",
+   "summary": "확인일 2026-09-18(KST). 과천보듬교육학원 공식 홈페이지 강사진 소개에 영어 신희진 원장이 명시되고 초·중·고·외고 과정과 공식 채널(블로그·유튜브·인스타그램)을 확인했다.",
+   "sourceUrl": "https://bodeumeducation.oopy.io/",
+   "activityDate": null,
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "출판물 서지",
+   "summary": "2026 대비 모의고사 워크북 공저 (김미선·신희진, 보듬책방)",
+   "sourceUrl": "https://www.ypbooks.co.kr/books/202602094848216680",
+   "activityDate": null,
+   "evidenceKind": "MATERIAL"
+  },
+  {
+   "contentType": "강사진 소개",
+   "summary": "영어 강사진 소개 페이지에 원장 신희진T 등재",
+   "sourceUrl": "https://bodeumeducation.oopy.io/3351674c-0a50-80d8-96b1-fd63800853a0",
+   "activityDate": null,
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  }
+ ],
+ "discoveryReason": "Chart 전국 확장 조사 (과천). 학원 공식 페이지·출판물 서지에서 실명·소속·지역·2026 활동 확인. 개인 철학·커리큘럼 근거 미확보.",
+ "lastResearchedAt": "2026-09-18T03:19:38.63596",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

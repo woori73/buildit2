@@ -1,0 +1,82 @@
+{
+ "province": "충청남도",
+ "expected": 5,
+ "returned": 5,
+ "content": [
+  {
+   "id": 66,
+   "name": "문나경",
+   "role": "원장",
+   "academyName": "기지시GNB영어수학학원",
+   "province": "충청남도",
+   "cityDistrict": "당진시",
+   "activityRegion": "충청남도 당진시",
+   "identitySummary": "당진 송악권에서 초등부터 고등까지 직접 영어수업을 맡고, 지역 학교 10년치 기출과 누적반복 학습을 결합해 장기 성장 경로를 설계하는 원장.",
+   "educationPhilosophy": "문나경 원장은 당진 학생도 대도시 학생과 경쟁할 영어 실력을 갖춰야 한다는 문제의식에서 교육을 시작했다. 단기 처방보다 초등부터 중·고등까지 시간과 반복을 축적해 영어 기반을 만들고, 지역의 한계를 학습의 한계로 두지 않는 방향을 강조한다.",
+   "eligibilityStatus": "EVALUATABLE",
+   "researchPending": false,
+   "profileImageUrl": null,
+   "lastResearchedAt": "2026-09-19T16:27:31.469608"
+  },
+  {
+   "id": 67,
+   "name": "임진주",
+   "role": "원장",
+   "academyName": "원더아이·원더크라운 영어학원",
+   "province": "충청남도",
+   "cityDistrict": "공주시",
+   "activityRegion": "충청남도 공주시",
+   "identitySummary": "공주에서 유아·초등의 영어 기초부터 중·고등 입시 심화까지 이어지는 두 교육 브랜드를 운영하며, 소수정예 1:1 티코칭과 단계별 과정을 설계한 대표원장.",
+   "educationPhilosophy": "임진주 원장이 운영하는 원더아이의 공개 소개는 학생 스스로가 학습의 주체가 되어 영어에 대한 자신감과 놀라운 성장을 경험하는 것을 지향한다. 이를 위해 일률적 대형 강의보다 소수정예와 개인별 코칭, 지속적인 교재·수업자료 연구를 교육 운영의 중심에 둔다.",
+   "eligibilityStatus": "EVALUATABLE",
+   "researchPending": false,
+   "profileImageUrl": null,
+   "lastResearchedAt": "2026-08-28T16:50:43.847229"
+  },
+  {
+   "id": 65,
+   "name": "윤성훈",
+   "role": "원장",
+   "academyName": "닥터윤영어학원",
+   "province": "충청남도",
+   "cityDistrict": "천안시",
+   "activityRegion": "충청남도 천안시",
+   "identitySummary": "천안 불당권에서 초·중·고 학생을 대상으로 유창성과 정확성을 함께 기르는 영어교육을 설계하고, 학교별 내신 분석과 자체 교재를 수업에 연결하는 원장.",
+   "educationPhilosophy": "윤성훈 원장은 영어 실력은 말하기·쓰기에서의 유창성과 읽기·문장 구조 이해에서의 정확성이 균형을 이뤄야 한다고 설명한다. 단순 암기보다 문장의 기능과 세부 독해를 이해하도록 지도하는 방향을 강조한다.",
+   "eligibilityStatus": "EVALUATABLE",
+   "researchPending": false,
+   "profileImageUrl": null,
+   "lastResearchedAt": "2026-08-28T16:45:43.506798"
+  },
+  {
+   "id": 64,
+   "name": "한동희",
+   "role": "원장",
+   "academyName": "한동희영어학원",
+   "province": "충청남도",
+   "cityDistrict": "보령시",
+   "activityRegion": "충청남도 보령시",
+   "identitySummary": "보령시 명천동에서 초3부터 고3까지 어휘·문법·독해·영작과 내신·수능을 단계별로 지도하는 영어교육 전공 원장",
+   "educationPhilosophy": "영어의 어휘·문법·독해·영작을 분절된 문제풀이가 아니라 학년별 다음 단계로 이어지는 기초 체계로 지도한다. 초등 기초 완성에서 중등 내신과 고등 선행, 이후 수능까지 연결해 학생이 지역 안에서도 장기적인 입시 영어 경로를 밟도록 돕는 것을 중시한다.",
+   "eligibilityStatus": "EVALUATABLE",
+   "researchPending": false,
+   "profileImageUrl": null,
+   "lastResearchedAt": "2026-08-28T16:41:13.822572"
+  },
+  {
+   "id": 63,
+   "name": "이유진",
+   "role": "원장",
+   "academyName": "탕정역 유창한 영어학원",
+   "province": "충청남도",
+   "cityDistrict": "아산시",
+   "activityRegion": "충청남도 아산시",
+   "identitySummary": "아산시 탕정에서 교육심리학과 언어습득 경험을 결합한 초·중·고 영어 개별지도 시스템을 운영하는 원장",
+   "educationPhilosophy": "영어를 단기간 시험 암기로 소비하기보다 가장 쉽게 배우고 평생 사용할 수 있는 언어로 장기기억화하는 것을 목표로 한다. 학생별 성취 속도와 심리적 특성을 존중하는 개별지도를 통해 자신감, 실제 의사소통, 입시 성취가 함께 성장해야 한다고 본다.",
+   "eligibilityStatus": "EVALUATABLE",
+   "researchPending": false,
+   "profileImageUrl": null,
+   "lastResearchedAt": "2026-08-28T16:39:15.356716"
+  }
+ ]
+}

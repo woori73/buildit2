@@ -1,0 +1,58 @@
+{
+ "id": 116,
+ "name": "김서애",
+ "role": "원장",
+ "academyName": "제이+ 영어교습소",
+ "province": "인천광역시",
+ "cityDistrict": "부평구",
+ "activityRegion": "인천광역시 부평구",
+ "identitySummary": "부평구 산곡동에서 고등영어 소그룹 교습소 제이+ 를 6년째 혼자 운영 중인 원장 김서애. 2026년 7월 공지 본문 첫머리에 제이 김서애입니다 로 본인 실명을 밝히고 있으며 블로그 이름 자체가 제이 김서애 다.",
+ "educationPhilosophy": "배우고자 하는 아이를 가르치는 것이 학원이지 잘하는 아이만 받는 것이 무슨 학원이냐는 질문에서 출발한다. 그래서 레벨테스트를 보지 않는다. 고등 과정은 대학을 가기 위한 하나의 코스가 아니라 어려웠지만 노력한 경험, 무언가를 이뤄낸 경험을 쌓는 일이라고 본다. 사업가보다는 수업하는 사람답게, 원장보다는 강사답게 학생이 세운 계획을 스스로 지키도록 돕는 것을 운영 원칙으로 삼는다.",
+ "curriculum": "한 반은 최대 3명, 한 학교 학생만으로 편성하는 소그룹 구조를 유지한다. 고2부터는 신규생을 받지 않아 재학생 위주로 수업하고, 기본적으로 퇴원이 없어 결원이 잘 발생하지 않는다. 수업은 학교 진도에 맞춘 설명에 그치지 않고 모의고사를 시간에 맞춰 풀리고 단어 시험을 보는 실전 관리 중심이며, 중3·예비고1 신규반을 열 때 한 반 3명을 동시에 모집하는 방식으로 개강한다.",
+ "distinctiveTeaching": "레벨테스트 없는 전원을 대상, 학생이 세운 학습 계획과 실천 여부를 중심에 두고 자기 관리가 될 때까지 기다리는 소그룹 운영을 한다.",
+ "recentActivity": "2026년 7월 7일 2026년 1학기 마무리 글에서 고3 재원생의 1-2등급 유지와 최상위 단어 학습 상황을 전했고, 2026년 7월 14일에는 6명 모집 정원에 두 배 넘는 대기가 발생한 신규 모집 경험과 운영 원칙을 다시 정리했다.",
+ "strengths": [
+  "실명·직함·지역이 본인 블로그에 연속 공개됨",
+  "레벨테스트 없음·정원 3명·단일 학교 편성 등 원칙이 구체적",
+  "전단지 광고 없이 6년 운영이라는 지속성 근거"
+ ],
+ "improvementSuggestions": [
+  "도로명 전체 주소가 본문에 없어 소재지는 산곡동 단위로만 확인됨",
+  "수업 사진·학생 결과물 근거가 적음"
+ ],
+ "officialChannels": {
+  "homepage": null,
+  "blog": "https://blog.naver.com/study_jei",
+  "youtube": null,
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "NAVER_BLOG",
+   "summary": "2026년 7월 14일 게시. 레벨테스트를 보지 않는 이유를 배구하고자 하는 아이를 가르치는 게 학원이지 잘하는 아이만 받는 게 무슨 학원인가 라는 질문으로 설명하고, 사업가보다는 수업하는 사람답게 원장보다는 강사답게라는 운영 태도를 밝힌다.",
+   "sourceUrl": "https://m.blog.naver.com/study_jei/224346247393",
+   "activityDate": "2026-07-14",
+   "evidenceKind": "PHILOSOPHY"
+  },
+  {
+   "contentType": "NAVER_BLOG",
+   "summary": "2026년 7월 7일 공지. 제이 김서애입니다 로 실명을 밝히는 도입부와, 더운 교실에서 아이들이 손부채질을 하며 등원하고 모의고사를 시간에 맞춰 풀리며 단어 시험을 보는 1학기 마무리 수업 현장이 기록되어 있다.",
+   "sourceUrl": "https://m.blog.naver.com/study_jei/224338956509",
+   "activityDate": "2026-07-07",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "NAVER_BLOG",
+   "summary": "2020년 12월 7일 소개 글. 1인 원장의 소그룹 수업으로 한 반 최대 3명과 단일 학교 편성 원칙을 처음 공개했고, 이후에도 같은 원칙이 유지되고 있음이 2026년 게시글로 확인된다.",
+   "sourceUrl": "https://m.blog.naver.com/study_jei/222166266413",
+   "activityDate": "2020-12-07",
+   "evidenceKind": "CURRICULUM"
+  }
+ ],
+ "discoveryReason": "region queue의 다음 미조사 지역인 인천광역시 부평구에서 실명 원장이 직접 운영·기록하는 고등 영어 교습소로 확인됨.",
+ "lastResearchedAt": "2026-09-19T15:52:09.949767",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

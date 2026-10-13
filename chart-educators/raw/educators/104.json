@@ -1,0 +1,73 @@
+{
+ "id": 104,
+ "name": "황은영",
+ "role": "원장",
+ "academyName": "에이블어학원",
+ "province": "경상남도",
+ "cityDistrict": "김해시",
+ "activityRegion": "경상남도 김해시",
+ "identitySummary": "김해시 지내동 에이블어학원 원장. 한국외대 TESOL, 20년 경력의 학습스토커.",
+ "educationPhilosophy": "매일 완전학습으로 끝까지 책임지며, 아이의 태도와 성장을 먼저 보는 교육을 한다. 공부의 시작은 지식이 아니라 마음의 힘을 세우는 일이라고 본다.",
+ "curriculum": "1일 완전학습과 학년별 차등 설계로 초 그룹부터 고 1:1까지 운영하고, 발화 중심·당일 완결 단어·학교별 기출 분석·자체 변형 문제집·1등급 시크릿 노트로 내신을 대비한다.",
+ "distinctiveTeaching": "매일 완전학습과 끝까지 책임지는 학습스토커 관리.",
+ "recentActivity": "2026년 9월 공부그릇·고등 전환 칼럼, 7월 성장일기 등 현재 수업 기록을 블로그에 지속 공개.",
+ "strengths": [
+  "매일 완전학습 책임 관리",
+  "학년별 차등 설계 커리큘럼",
+  "2026년 현재 수업 기록 지속 공개",
+  "중등 전교 1등 4년 연속"
+ ],
+ "improvementSuggestions": [
+  "고등 로드맵 정리",
+  "수업 철학 대표 글 고정"
+ ],
+ "officialChannels": {
+  "homepage": null,
+  "blog": "https://blog.naver.com/ableenglish1003",
+  "youtube": null,
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "교육 칼럼",
+   "summary": "공부그릇 만들기의 교실 장면과 방향 제시",
+   "sourceUrl": "https://blog.naver.com/ableenglish1003/224407702141",
+   "activityDate": "2026-09-13",
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "교육 칼럼",
+   "summary": "중100점이 고등에서 흔들리는 이유와 대비 관점",
+   "sourceUrl": "https://blog.naver.com/ableenglish1003/224407686555",
+   "activityDate": "2026-09-10",
+   "evidenceKind": "TEACHING_METHOD"
+  },
+  {
+   "contentType": "원장 소개",
+   "summary": "팩트리포트 리뷰와 20년 경력 자기소개",
+   "sourceUrl": "https://blog.naver.com/ableenglish1003/224343287933",
+   "activityDate": "2026-07-11",
+   "evidenceKind": "PHILOSOPHY"
+  },
+  {
+   "contentType": "팩트리포트",
+   "summary": "매일 완전학습·학년별 차등·발화중심 커리큘럼 상세 기록",
+   "sourceUrl": "https://educurator.tistory.com/34",
+   "activityDate": "2026-06-04",
+   "evidenceKind": "CURRICULUM"
+  },
+  {
+   "contentType": "학원 블로그",
+   "summary": "학습스토커 에이블학원 공식 블로그 (오프라인 수업 기록)",
+   "sourceUrl": "https://blog.naver.com/ableenglish1003",
+   "activityDate": null,
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  }
+ ],
+ "discoveryReason": "Chart 전국 확장 조사 (김해). 팩트리포트·2026년 블로그에서 실명·소속·지역·최근활동 확인.",
+ "lastResearchedAt": "2026-09-14T03:08:02.512608",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

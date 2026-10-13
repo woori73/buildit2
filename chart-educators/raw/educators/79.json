@@ -1,0 +1,32 @@
+{
+ "id": 79,
+ "name": "김재훈",
+ "role": "원장",
+ "academyName": "용황김재훈 영어학원",
+ "province": "경상북도",
+ "cityDistrict": "경주시",
+ "activityRegion": "경상북도 경주시",
+ "identitySummary": "경주시 용강동에서 중·고등 영어를 지도하는 용황김재훈 영어학원의 실명 책임 교육자.",
+ "educationPhilosophy": null,
+ "curriculum": "2~4인 수준별 그룹으로 중등 독해·문법·어휘·모의고사를 지도하고 시험 약 한 달 전부터 내신 대비를 진행한다. 고등부는 EBS 수능특강·수능완성, 수능 기출·모의고사와 문법·어휘를 병행한다.",
+ "distinctiveTeaching": "영어교육 석사와 EBS 수능연계교재 검토·변형문제 제작 경험을 소수 그룹 내신·수능 지도에 연결한다.",
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "학원 교육과정 안내",
+   "summary": "김재훈 교육자의 영어교육 석사, EBS 수능연계교재 검토·변형문제 제작 경력과 중·고등 2~4인 그룹 내신·수능 수업 구조를 확인했다.",
+   "sourceUrl": "https://learns.academy/academies/d78cad6b-62a6-42da-892d-03083ef4b3af",
+   "activityDate": "2024-12-04",
+   "evidenceKind": "CURRICULUM"
+  }
+ ],
+ "discoveryReason": "실명 교육자가 구체적인 소수 그룹 중·고 영어 커리큘럼과 수능연계교재 전문성을 공개하고 있다. 현재 연도 개인 활동과 교육철학 원문은 부족해 보강 대상으로 보존한다.",
+ "lastResearchedAt": "2026-08-29T09:01:13.223787",
+ "eligibilityStatus": "RESEARCH_PENDING",
+ "researchPending": true,
+ "disclaimer": "이 교육자는 아직 평가에 필요한 공개 근거가 충분히 확인되지 않았습니다(RESEARCH_PENDING). 공개적으로 확인된 사실만 표시하며, BuildIt Score나 TOP100 순위 대상이 아닙니다."
+}

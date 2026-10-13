@@ -1,0 +1,73 @@
+{
+ "id": 103,
+ "name": "윤수경",
+ "role": "원장",
+ "academyName": "이유영어학원",
+ "province": "경상남도",
+ "cityDistrict": "김해시",
+ "activityRegion": "경상남도 김해시",
+ "identitySummary": "김해시 내외동 이유영어학원 원장. 17년 경력으로 모든 수업을 직접 지도하는 스캐닝 교육자.",
+ "educationPhilosophy": "정답이든 오답이든 왜 그런지를 따지는 이유 영어를 지향하며, 아이가 어디서 막히는지를 그 자리에서 읽어 채운다. 시험 점수를 기다리지 않고 막히는 바로 그 순간에 알아채고 채운다.",
+ "curriculum": "근거 찾기 학습과 영역별 개별 진도, 문법 뼈대 정립을 축으로 무학년·무레벨 1:1 개별 커리큘럼을 운영한다. 오답을 자기 언어로 다시 쓰는 오답노트를 원장이 재점검하고 시험지를 분석해 누적 기록한다.",
+ "distinctiveTeaching": "설명 표정·집중력·머뭇거림을 그 자리에서 읽어내는 스캐닝과 오답 근거 찾기.",
+ "recentActivity": "2026년 7월 내신 예방주사 모의고사, 5월 시험지 지도 칼럼, 2월 확장 이전 등 현재 수업 기록을 블로그에 지속 공개.",
+ "strengths": [
+  "그 자리에서 읽어내는 스캐닝 지도",
+  "근거 찾기·개별진도·문법뼈대 커리큘럼",
+  "2026년 현재 수업 기록 지속 공개",
+  "17년 경력 전수업 직강"
+ ],
+ "improvementSuggestions": [
+  "고등 과정 로드맵 정리",
+  "수업 철학 대표 글 고정"
+ ],
+ "officialChannels": {
+  "homepage": null,
+  "blog": "https://blog.naver.com/j_j_school",
+  "youtube": null,
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "수업 방법",
+   "summary": "생애 첫 지필평가 대비 내신 예방주사 모의고사 운영",
+   "sourceUrl": "https://blog.naver.com/j_j_school/224334682117",
+   "activityDate": "2026-07-02",
+   "evidenceKind": "TEACHING_METHOD"
+  },
+  {
+   "contentType": "팩트리포트",
+   "summary": "스캐닝·근거찾기·개별진도·문법뼈대 커리큘럼 상세 기록",
+   "sourceUrl": "https://educurator.tistory.com/33",
+   "activityDate": "2026-06-04",
+   "evidenceKind": "CURRICULUM"
+  },
+  {
+   "contentType": "교육 칼럼",
+   "summary": "시험지는 아이의 약점이 담긴 지도라는 관리 관점 제시",
+   "sourceUrl": "https://blog.naver.com/j_j_school/224271143894",
+   "activityDate": "2026-05-01",
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "학원 소개",
+   "summary": "확장 이전과 이유 영어라는 이름의 철학 공개",
+   "sourceUrl": "https://blog.naver.com/j_j_school/224197265343",
+   "activityDate": "2026-02-26",
+   "evidenceKind": "PHILOSOPHY"
+  },
+  {
+   "contentType": "학원 블로그",
+   "summary": "윤수경의 이유영어학원이야기 공식 블로그 (오프라인 수업 기록)",
+   "sourceUrl": "https://blog.naver.com/j_j_school",
+   "activityDate": null,
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  }
+ ],
+ "discoveryReason": "Chart 전국 확장 조사 (김해). 팩트리포트·2026년 블로그에서 실명·소속·지역·최근활동 확인.",
+ "lastResearchedAt": "2026-09-14T03:07:02.503527",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

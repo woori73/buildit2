@@ -1,0 +1,32 @@
+{
+ "id": 83,
+ "name": "성진경",
+ "role": "대표",
+ "academyName": "이엠학원",
+ "province": "경상북도",
+ "cityDistrict": "포항시",
+ "activityRegion": "경상북도 포항시",
+ "identitySummary": "포항시 이엠학원 대표로 확인된 초·중등 영어교육 책임자",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": "2026년 5~6월 초·중등 영어 및 중등 내신 지도 강사 채용을 진행한 현재 운영 학원.",
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "공개 채용 공고 및 기업정보",
+   "summary": "2026년 포항시 이엠학원이 초·중등 영어지도와 중등 내신 준비 담당 강사를 모집했으며 기업정보에 대표자 성진경이 명시됨.",
+   "sourceUrl": "https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=54035230",
+   "activityDate": "2026-05-30",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  }
+ ],
+ "discoveryReason": "2026년 현재 포항 오프라인 학원에서 초·중등 영어와 중등 내신 지도가 공개 채용 근거로 확인됨.",
+ "lastResearchedAt": "2026-08-29T09:20:35.293447",
+ "eligibilityStatus": "RESEARCH_PENDING",
+ "researchPending": true,
+ "disclaimer": "이 교육자는 아직 평가에 필요한 공개 근거가 충분히 확인되지 않았습니다(RESEARCH_PENDING). 공개적으로 확인된 사실만 표시하며, BuildIt Score나 TOP100 순위 대상이 아닙니다."
+}

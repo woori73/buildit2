@@ -1,0 +1,51 @@
+{
+ "id": 57,
+ "name": "김지나",
+ "role": "원장",
+ "academyName": "세렌디피티어학원",
+ "province": "부산광역시",
+ "cityDistrict": "연제구",
+ "activityRegion": "부산광역시 연제구",
+ "identitySummary": "부산 연제구 연산동 세렌디피티어학원 원장으로 초·중·고 영어교육을 설계하고 고등부를 직강하는 교육자.",
+ "educationPhilosophy": "영어를 의무적으로 외우는 과목보다 외국어를 통해 즐거움과 배움의 기쁨을 발견하는 활동으로 보며, 자발적으로 꾸준히 공부할 때 영어 능력과 자존감이 함께 자란다고 설명한다. 교육자 자신도 지속적으로 공부하고 연구해야 양질의 수업을 제공할 수 있다고 본다.",
+ "curriculum": "초등은 내국인과 원어민 교사가 영역을 분담해 문법·리딩·리스닝·말하기·쓰기·디베이트를 균형 있게 다루고 사립초 시험과 공인시험 과정을 운영한다. 중등은 어휘·문법·독해·듣기 맞춤 관리와 특목고 대비, 원어민 디베이트·리딩을 결합하며, 고등은 원장·부원장 직강으로 기출 분석·내신·모의고사·외부 지문·수능을 지도한다.",
+ "distinctiveTeaching": "내국인·원어민의 역할을 영역별로 나누고 학년이 올라갈수록 의사소통 중심 과정에서 입시·기출 분석으로 전환하는 단계 구조가 특징이다.",
+ "recentActivity": "2026-08-07 갱신된 학원 정보와 최근 졸업생·문화교육 캠프 콘텐츠, 2025 수강료 등록으로 현재 연산동 오프라인 운영을 확인했다.",
+ "strengths": [
+  "외국어의 즐거움과 지속 학습이라는 철학이 분명하다.",
+  "내국인·원어민 역할 분담과 학년별 과정이 구체적이다.",
+  "고등부 원장 직강과 기출 분석 기반 입시 지도가 확인된다."
+ ],
+ "improvementSuggestions": [
+  "현재 수업 현장의 학생 산출물과 토론 평가 기준을 더 공개하면 좋다.",
+  "학년·레벨 간 승급 기준과 진단 체계를 공개하면 커리큘럼의 재현성이 높아진다."
+ ],
+ "officialChannels": {
+  "homepage": null,
+  "blog": "https://blog.naver.com/serendipityenglish",
+  "youtube": null,
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "공공데이터·공식 블로그 연계 학원 정보",
+   "summary": "2026년 현재 부산 연제구 오프라인 운영, 최근 졸업생과 문화교육 캠프 콘텐츠, 초등 단계별 수업 등록을 확인한다.",
+   "sourceUrl": "https://academy.prompie.com/academies/detail/xv3tn5z/%EC%84%B8%EB%A0%8C%EB%94%94%ED%94%BC%ED%8B%B0%EC%96%B4%ED%95%99%EC%9B%90/",
+   "activityDate": "2026-08-07",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "홍보성 인터뷰/학원 소개 기사",
+   "summary": "김지나 원장의 교육철학과 초·중·고 학년별 과정, 내국인·원어민 역할 분담, 토론·리딩·내신·수능 수업 구조를 구체적으로 소개한다.",
+   "sourceUrl": "https://www.youthassembly.kr/news/744851",
+   "activityDate": "2023-11-08",
+   "evidenceKind": "PRESS_RELEASE"
+  }
+ ],
+ "discoveryReason": "영어 학습의 즐거움과 자발적 지속을 철학으로 삼고, 내국인·원어민 역할 분담과 학년별 과정, 토론·리딩·내신·수능을 구체적으로 연결한 점이 확인된다.",
+ "lastResearchedAt": "2026-08-28T16:24:48.461031",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

@@ -1,0 +1,61 @@
+{
+ "id": 87,
+ "name": "박현기",
+ "role": "원장",
+ "academyName": "원키영어학원",
+ "province": "전라남도",
+ "cityDistrict": "순천시",
+ "activityRegion": "전라남도 순천시",
+ "identitySummary": "박현기 — 원키영어학원 대표 겸 원장 (블로그 원장 Ki쌤), 순천 해룡면 오프라인 운영.",
+ "educationPhilosophy": "이번 시험 점수보다 더 중요한 건, 이번 시험을 준비하며 만든 공부 습관이다. 공부는 머리가 아니라 엉덩이로 하는 것이며, 지식을 담아낼 공부 그릇을 빚는 것이 입시 영어의 본질이다.",
+ "curriculum": "어휘·문법·독해·쓰기 4개 영역을 세분화 분석하는 정밀 진단 레벨 테스트와 15단계 초정밀 레벨링으로 반을 편성한다. 학교별 3개년 기출 분석 기반 내신 대비와 3감각 학습법·스터디카페 관리형 자습으로 운영한다.",
+ "distinctiveTeaching": "정밀 진단 리포트와 15단계 레벨링, 학교별 기출 변형 적중 내신 대비, 3감각 학습법과 관리형 스터디카페 자습을 결합한 순천 신대지구 입시영어 시스템.",
+ "recentActivity": "2026-05-18 레벨테스트 상담 안내, 2026-05-20 원장 칼럼, 2026-05-29 중등 기말고사 내신대비 시작안내 게시.",
+ "strengths": [
+  "15단계 초정밀 레벨링·정밀 진단 시스템",
+  "학교별 기출 분석 내신 대비와 관리형 자습"
+ ],
+ "improvementSuggestions": [],
+ "officialChannels": {
+  "homepage": "http://xn--9i5bnb93bq82a.kr/",
+  "blog": "https://blog.naver.com/onekienglish1",
+  "youtube": null,
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "공식 블로그 게시물",
+   "summary": "2026-05-29 중등 기말고사 내신대비 시작안내 게시 (학교별 맞춤 수업·오답 관리)",
+   "sourceUrl": "https://blog.naver.com/onekienglish1/224300307860",
+   "activityDate": "2026-05-29",
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "원장 칼럼",
+   "summary": "2026-05-20 원장 칼럼 게시 (공부 습관·엉덩이 힘·공부 그릇 교육관)",
+   "sourceUrl": "https://blog.naver.com/onekienglish1/224291424311",
+   "activityDate": "2026-05-20",
+   "evidenceKind": "PHILOSOPHY"
+  },
+  {
+   "contentType": "커리큘럼 소개",
+   "summary": "2026-05-18 레벨 테스트 정밀 진단·4영역 세분화 분석 안내 게시",
+   "sourceUrl": "https://blog.naver.com/onekienglish1/224289342430",
+   "activityDate": "2026-05-18",
+   "evidenceKind": "CURRICULUM"
+  },
+  {
+   "contentType": "학원 운영 정보",
+   "summary": "전남 순천시 해룡면 신대3길 5-54 3층 오프라인 운영 (공식 홈페이지 푸터·교육지원청 등록 제2217호)",
+   "sourceUrl": "http://xn--9i5bnb93bq82a.kr/",
+   "activityDate": null,
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  }
+ ],
+ "discoveryReason": "Chart 전라권 조사 (순천). 공식 홈페이지·공식 블로그 2026-05 게시·교육지원청 등록정보에서 실명·소속·지역·최근활동 확인.",
+ "lastResearchedAt": "2026-09-10T20:06:18.904303",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

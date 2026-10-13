@@ -1,0 +1,80 @@
+{
+ "id": 95,
+ "name": "정소연",
+ "role": "원장",
+ "academyName": "정소연 영어학원",
+ "province": "경기도",
+ "cityDistrict": "성남시 중원구",
+ "activityRegion": "경기도 성남시 중원구",
+ "identitySummary": "성남시 중원구 도촌동·여수동 정소연 영어학원 원장. 버지니아공대 출신, 25년 경력의 인터벌 트레이닝 수업 설계자.",
+ "educationPhilosophy": "노력이 부족한 게 아니라 방법이 달라야 하며, 20분 유닛의 인터벌 트레이닝으로 몰입·집중·마무리를 설계한다. 시험 전 과정보다 과정을 중시하고, 점수보다 성장을 먼저 보는 수업을 지향한다.",
+ "curriculum": "영역별 20분 유닛스터디와 실시간 구두체크, 누적 단어 암기, 문장 패턴·상황별 대화 스피킹으로 초등 과정을 운영한다. 중등은 긴장감·집중력·완벽 마무리의 3조건으로 내신을 대비하고, 해법독서논술로 읽기·구조화·표현을 병행한다.",
+ "distinctiveTeaching": "20분 단위 유닛스터디 인터벌 트레이닝과 실시간 구두체크, NELT 인증평가 운영.",
+ "recentActivity": "2026년 9월 도촌중 내신 전략, 8월 주입식 교육 칼럼, 1월 NELT 인증평가 등 현재 수업 기록을 블로그에 지속 공개.",
+ "strengths": [
+  "20분 유닛 인터벌 트레이닝 시스템",
+  "초등·중등 단계 커리큘럼과 독서논술 병행",
+  "2026년 현재 수업 기록 지속 공개",
+  "NELT 인증평가 운영"
+ ],
+ "improvementSuggestions": [
+  "고등 과정 로드맵 정리",
+  "수업 철학 대표 글 고정"
+ ],
+ "officialChannels": {
+  "homepage": null,
+  "blog": "https://blog.naver.com/qhrqndls75",
+  "youtube": null,
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "내신 전략",
+   "summary": "도촌중 내신 2주 전 아는 것·모르는 것 구분과 메우기 전략",
+   "sourceUrl": "https://blog.naver.com/qhrqndls75/224409127132",
+   "activityDate": "2026-09-12",
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "수업 상담",
+   "summary": "문제는 풀지만 말하기가 안 되는 아이의 읽기·사용 간극 진단",
+   "sourceUrl": "https://blog.naver.com/qhrqndls75/224399222122",
+   "activityDate": "2026-09-03",
+   "evidenceKind": "TEACHING_METHOD"
+  },
+  {
+   "contentType": "교육 칼럼",
+   "summary": "주입식 대 자유식 이분법을 넘어선 교육 방식 선택 관점 제시",
+   "sourceUrl": "https://blog.naver.com/qhrqndls75/224392137614",
+   "activityDate": "2026-08-27",
+   "evidenceKind": "PHILOSOPHY"
+  },
+  {
+   "contentType": "중등 분석",
+   "summary": "초6·중1 교과서 비교로 중등 영어 난이도 상승 원인 분석",
+   "sourceUrl": "https://blog.naver.com/qhrqndls75/224374864030",
+   "activityDate": "2026-08-11",
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "인증 평가",
+   "summary": "여수·도촌 2개원에서 제5회 NELT 영어 인증평가 실시",
+   "sourceUrl": "https://blog.naver.com/qhrqndls75/224154751540",
+   "activityDate": "2026-01-21",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "입시 분석",
+   "summary": "고1·2 모의고사와 수능의 구조 차이와 학습 방향 설명",
+   "sourceUrl": "https://blog.naver.com/qhrqndls75/224139228107",
+   "activityDate": "2026-01-08",
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "Chart 전국 확장 조사 (성남 중원). 공식 블로그·제3자 학원정보에서 실명·소속·지역·최근활동 확인.",
+ "lastResearchedAt": "2026-09-14T02:31:34.440968",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

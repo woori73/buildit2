@@ -1,0 +1,61 @@
+{
+ "id": 86,
+ "name": "이중하",
+ "role": "원장",
+ "academyName": "메가스타잉글리쉬어학원",
+ "province": "전라남도",
+ "cityDistrict": "목포시",
+ "activityRegion": "전라남도 목포시",
+ "identitySummary": "이중하 — 메가스타잉글리쉬어학원 원장, 목포 옥암동 오프라인 운영.",
+ "educationPhilosophy": "유명세를 얻거나 돈을 버는 것이 목표였다면 목포로 내려오지 않았을 것이다. 목포의 우수한 인재들이 더 높이 성장할 수 있도록 보탬이 되는 것이 목표이며, 시험점수 지향의 획일적 교육이 아닌 균형 있는 학습습관과 환경을 제시한다.",
+ "curriculum": "초등부·중등부·고등부·성인토익 과정의 종합 영어학원으로, 독해·문법·듣기·말하기·쓰기를 균형 있게 구성하고 기초입문부터 실전고급까지 단계별 체계로 운영한다. 원장 직강의 방학특강과 학기 정규반을 병행한다.",
+ "distinctiveTeaching": "원장 직강 중심의 단계별 수업과 5영역 균형 커리큘럼. 수도권 수준의 교육환경을 목포에 구현하는 것을 운영 방침으로 한다.",
+ "recentActivity": "2026-05-27 여름방학 24기 토익특강 안내, 2026-08-27 가을학기 개강 안내 게시.",
+ "strengths": [
+  "2014년 개원 후 목포 상주 오프라인 운영",
+  "원장 직강·단계별 커리큘럼"
+ ],
+ "improvementSuggestions": [],
+ "officialChannels": {
+  "homepage": "http://www.megastareng.com",
+  "blog": "https://blog.naver.com/funtoeic",
+  "youtube": null,
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "공식 블로그 게시물",
+   "summary": "2026-08-27 가을학기 개강 안내 게시 (24기 방학특강 종강·9월 개강)",
+   "sourceUrl": "https://blog.naver.com/funtoeic/224392305608",
+   "activityDate": "2026-08-27",
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "공식 블로그 게시물",
+   "summary": "2026-05-27 여름방학 24기 특강 안내 게시 (오전·저녁반, 2개월·1개월 완성반)",
+   "sourceUrl": "https://blog.naver.com/funtoeic/224298109023",
+   "activityDate": "2026-05-27",
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "학원 운영 정보",
+   "summary": "전남 목포시 백년대로375번길 1 오프라인 운영 (교육청 지정번호 기반 제3자 정보)",
+   "sourceUrl": "https://academy.prompie.com/academies/detail/of7b1oh/%EB%A9%94%EA%B0%80%EC%8A%A4%ED%83%80%EC%9E%89%EA%B8%80%EB%A6%AC%EC%89%AC%EC%96%B4%ED%95%99%EC%9B%90/",
+   "activityDate": null,
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "언론 인터뷰",
+   "summary": "지역 인재 성장 기여 목표·균형 학습 철학 인터뷰 (원장 실명·소속 명시)",
+   "sourceUrl": "https://www.kmunews.co.kr/news/articleView.html?idxno=11871",
+   "activityDate": null,
+   "evidenceKind": "PHILOSOPHY"
+  }
+ ],
+ "discoveryReason": "Chart 전라권 조사 (목포). 공식 블로그 2026-05/08 게시·언론 인터뷰·교육청 공공데이터 기반 제3자 학원정보에서 실명·소속·지역·최근활동 확인.",
+ "lastResearchedAt": "2026-09-10T20:06:13.447251",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

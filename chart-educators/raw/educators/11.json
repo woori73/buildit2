@@ -1,0 +1,39 @@
+{
+ "id": 11,
+ "name": "김성진",
+ "role": "원장",
+ "academyName": "피케이리더스영어학원",
+ "province": "서울특별시",
+ "cityDistrict": "강동구",
+ "activityRegion": "서울 강동구",
+ "identitySummary": "강동구 지역 고등학교의 영어 내신 출제 경향과 서술형 대비의 중요성을 분석하고, 이를 바탕으로 학생들을 지도하는 원장으로 확인되었습니다.",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "언론 인터뷰(원장 직접 발언)",
+   "summary": "확인일 2026-09-18(KST). 내일신문 원문 인터뷰에서 피케이리더스영어학원 김성진 원장이 한영고 영어 내신 유형 분석·지도 방식·대입 실적(서울대·고려대 합격생)을 직접 발언했다. 기존 레코드 김성진/원장/피케이리더스(강동구)와 일치. 평가 연결: 수업·교육 실천 및 전문성.",
+   "sourceUrl": "https://www.naeil.com/news/read/575503",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "글",
+   "summary": "강동구 고등학교들의 방대한 영어 내신 범위와 높은 난이도에 대처하기 위해, 중학교 때부터 서술형 영작을 완벽하게 대비할 수 있는 능력을 키워주는 고등 내신 전문 지도를 강조합니다.",
+   "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEioQR9CHVTrPX6YPoaxuDdfP4ODbzY-FpE3Ib8HgDVvTXUxH-VmPdMtO-HkOSw2xGWtMnEsUk0essMZl2a2ePIrQmENkUgKfVf7A6MrlJ_BfFV9uLPuwg9F-pPyZUOF0r4jl4TxXHW9KLBHmA1iVkV3lkfiwbZ4GvYuKBWD51TzGpoAS2ZiEIP4MdpErG1KG8Ecg=",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "강동구 지역 고등학교의 영어 내신 출제 경향과 서술형 대비의 중요성을 분석하고, 이를 바탕으로 학생들을 지도하는 원장으로 확인되었습니다.",
+ "lastResearchedAt": "2026-09-18T02:18:59.582864",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

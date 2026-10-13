@@ -1,0 +1,32 @@
+{
+ "id": 18,
+ "name": "김현진",
+ "role": "원장",
+ "academyName": "주노영어학원",
+ "province": "서울특별시",
+ "cityDistrict": "동대문구",
+ "activityRegion": "서울 동대문구 장안동",
+ "identitySummary": "장안동에서 14년간 중고등 영어 내신 및 수능 대비를 위해 직접 기출 분석 글을 작성하고 지도하는 원장으로 확인됨.",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "글",
+   "summary": "동대부중, 장평중, 전동중 등 동대문구 지역 중학교의 영어 기출문제 유형별 출제 빈도수와 난이도를 분석하고, 1:1 밀착 관리 시스템을 통한 내신 및 수능 대비법을 공유함.",
+   "sourceUrl": "https://blog.naver.com/junoenglish",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "장안동에서 14년간 중고등 영어 내신 및 수능 대비를 위해 직접 기출 분석 글을 작성하고 지도하는 원장으로 확인됨.",
+ "lastResearchedAt": "2026-08-27T18:15:51.318003",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

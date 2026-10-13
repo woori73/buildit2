@@ -1,0 +1,58 @@
+{
+ "id": 70,
+ "name": "이광헌",
+ "role": "원장",
+ "academyName": "시습영어학원",
+ "province": "대구광역시",
+ "cityDistrict": "수성구",
+ "activityRegion": "대구광역시 수성구",
+ "identitySummary": "대구 수성동에서 중·고등 영어 내신과 수능을 원장 직강·개별 관리 방식으로 지도하는 시습영어학원 대표.",
+ "educationPhilosophy": "단순 암기나 강의 수강에 머물지 않고 학생이 영어를 스스로 분석하고 적용하는 힘을 갖추게 하는 것을 목표로 한다. 학생마다 학습 과정 전체를 살펴 부족한 부분을 개별 피드백과 보충으로 책임 관리한다.",
+ "curriculum": "학교별 출제 유형을 지속 분석해 중·고등 내신 수업을 맞춤 구성하고, 영어 문해력·문법·독해·서술형 훈련을 진행한다. 수업 후 과제 수행→오답 점검→이해도 확인→부족 영역 개별 보충으로 이어지는 관리 루프를 운영하며 방학에는 개인 단어장·오답 단어·시험지를 연결한 어휘 복습을 안내한다.",
+ "distinctiveTeaching": "학교별 내신 분석과 원장 직강을 기반으로 강의 이후 과제·오답·이해도까지 추적하고 개별 보충으로 닫는 학습 관리 구조.",
+ "recentActivity": "2026년 6~7월 학원 프로필과 수업 정보가 갱신되었고, 여름방학 특강·중간고사 대비·수능 집중반 운영이 공개됨.",
+ "strengths": [
+  "학교별 출제 유형 분석을 실제 반 편성과 수업에 반영한다.",
+  "수업 후 과제와 오답, 이해도를 확인해 개별 보충으로 연결한다.",
+  "문법·독해를 서술형과 문해력 적용 능력으로 확장한다."
+ ],
+ "improvementSuggestions": [
+  "공식 채널에 학교별 분석 사례와 학생 성장 과정을 익명으로 축적하면 방법론의 검증력이 높아진다.",
+  "어휘·오답 관리 루프의 단계별 기준을 공개하면 학부모와 학생이 자기진단에 활용하기 쉽다."
+ ],
+ "officialChannels": {
+  "homepage": null,
+  "blog": "https://m.blog.naver.com/niceguy3004",
+  "youtube": null,
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "학원 공식 소개·교육 콘텐츠",
+   "summary": "중고등 영어 내신 개별 관리 시스템과 방학 단어장·개인 어휘·오답 단어·시험지 연계 복습 등 최근 교육 콘텐츠를 확인.",
+   "sourceUrl": "https://academy.prompie.com/academies/detail/3qsn8se/%EC%8B%9C%EC%8A%B5%EC%98%81%EC%96%B4%ED%95%99%EC%9B%90/",
+   "activityDate": "2026-07-04",
+   "evidenceKind": "TEACHING_METHOD"
+  },
+  {
+   "contentType": "공식 지역업체 프로필",
+   "summary": "2026년 현재 수성동 오프라인 운영, 원장 직강, 학교별 출제 분석, 과제·오답·이해도 확인과 개별 보충으로 이어지는 수업 관리 방식을 확인.",
+   "sourceUrl": "https://www.daangn.com/kr/local-profile/%EC%8B%9C%EC%8A%B5%EC%98%81%EC%96%B4%ED%95%99%EC%9B%90-72ec8qb8tq28/",
+   "activityDate": "2026-06-04",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "사업자 인증 채용 정보",
+   "summary": "사업자 인증 정보에서 대표 이광헌과 대구 수성구 학원 주소를 확인해 교육자 개인과 현장 운영 주체를 교차 검증.",
+   "sourceUrl": "https://www.albamon.com/jobs/detail/115240349",
+   "activityDate": "2026-03-29",
+   "evidenceKind": "RECRUITMENT"
+  }
+ ],
+ "discoveryReason": "학교별 시험 분석을 기반으로 수업 후 과제·오답·이해도 확인과 개별 보충까지 연결하며, 영어 문해력과 서술형 적용 능력을 함께 기르는 운영 구조가 구체적으로 확인됨.",
+ "lastResearchedAt": "2026-08-29T01:39:16.900516",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

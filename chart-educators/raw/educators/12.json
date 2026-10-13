@@ -1,0 +1,39 @@
+{
+ "id": 12,
+ "name": "권수진",
+ "role": "원장",
+ "academyName": "뮤엠영어고덕점학원",
+ "province": "서울특별시",
+ "cityDistrict": "강동구",
+ "activityRegion": "서울 강동구 고덕동",
+ "identitySummary": "강동구 고덕동에서 초등 파닉스 및 중학 내신 대비를 직접 지도하는 원장으로 확인되었습니다.",
+ "educationPhilosophy": null,
+ "curriculum": null,
+ "distinctiveTeaching": null,
+ "recentActivity": null,
+ "strengths": [],
+ "improvementSuggestions": [],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "학원 소개문(원장 본인 명의)",
+   "summary": "확인일 2026-09-18(KST). 학원정보 원문에 \"MU:M English 원장 권수진 입니다. 8년간 초중등 영어강의를 통한 수업력과 관리 노하우\"라는 원장 본인 명의 소개가 있다. 기존 레코드 권수진/원장/뮤엠영어고덕점(고덕동)과 일치. 구체 수업 실적은 미확정. B급(소속·대표 연결)으로 기록하며 점수는 확정 평가 아님.",
+   "sourceUrl": "https://academy.prompie.com/academies/detail/ptqygt8/%EB%AE%A4%EC%97%A0%EC%98%81%EC%96%B4%EA%B3%A0%EB%8D%95%EC%A0%90%ED%95%99%EC%9B%90/",
+   "activityDate": null,
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "글",
+   "summary": "8년간의 초·중등 영어 강의 및 관리 노하우를 바탕으로, 초등 파닉스부터 중학 내신 대비까지 '영어는 영어답게' 가르치는 밀착 관리를 제공합니다.",
+   "sourceUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuotEm6URa60xGnvltBOs8KTrDzQY4tBflkF_FmrZ0eKS3fWUXVKrYJI8kttav_CPVwOcV-LxWZcQ3xIM55U1-TpKeMi62bmhHlduLyHGjXx4GMySZOJUV6LupA5WEYLfe8NZt0G-_cq5LSt7Kikd2OcKbzaHipAIG7q1Pv3jMZJztjm8KZmcTd-cqMt_GuZduLG2VXi1rT7gljh3jJqsS7PiDDzrcrM4AoB0f5kIfsUu-WvekIAygrCriVRM=",
+   "activityDate": null,
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  }
+ ],
+ "discoveryReason": "강동구 고덕동에서 초등 파닉스 및 중학 내신 대비를 직접 지도하는 원장으로 확인되었습니다.",
+ "lastResearchedAt": "2026-09-18T02:18:59.587379",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

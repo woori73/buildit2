@@ -1,0 +1,60 @@
+{
+ "id": 65,
+ "name": "윤성훈",
+ "role": "원장",
+ "academyName": "닥터윤영어학원",
+ "province": "충청남도",
+ "cityDistrict": "천안시",
+ "activityRegion": "충청남도 천안시",
+ "identitySummary": "천안 불당권에서 초·중·고 학생을 대상으로 유창성과 정확성을 함께 기르는 영어교육을 설계하고, 학교별 내신 분석과 자체 교재를 수업에 연결하는 원장.",
+ "educationPhilosophy": "윤성훈 원장은 영어 실력은 말하기·쓰기에서의 유창성과 읽기·문장 구조 이해에서의 정확성이 균형을 이뤄야 한다고 설명한다. 단순 암기보다 문장의 기능과 세부 독해를 이해하도록 지도하는 방향을 강조한다.",
+ "curriculum": "초등부터 고등까지 레벨 진단과 학교별 반 편성을 바탕으로 자체 교재, 내신·수능 과정을 운영한다. 최근 학교별 시험을 직접 분석해 출제 유형과 문장 구조·세부 독해 포인트를 수업과 오답 지도에 반영하는 구조가 공개되어 있다.",
+ "distinctiveTeaching": "학교별 시험 분석을 정기적으로 공개하고 그 결과를 자체 교재·문장 구조 이해·세부 독해 중심의 수업에 연결하며, 유창성과 정확성의 균형을 학년별 과정에 일관되게 적용한다.",
+ "recentActivity": "2026년 7~8월에도 천안 지역 학원 운영 정보와 학교별 영어 시험 분석 콘텐츠가 갱신되어 현재 오프라인 수업 활동이 확인된다.",
+ "strengths": [
+  "영어 유창성과 정확성을 함께 기르는 명확한 교육철학을 공개했다.",
+  "학교별 내신 시험을 분석해 수업 설계와 학습 포인트로 환류한다.",
+  "자체 교재와 레벨·학교별 반 구성을 통해 학년별 과정을 구체화한다."
+ ],
+ "improvementSuggestions": [
+  "현재 수업에서 진단 결과가 개별 학습 계획으로 이어지는 사례를 더 공개하면 교육 구조가 선명해질 수 있다.",
+  "자체 교재의 구성 원리와 학년별 성장 경로를 공개하면 교육철학과 커리큘럼의 연결이 더 잘 드러날 수 있다."
+ ],
+ "officialChannels": null,
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "학원 운영·수업 정보",
+   "summary": "천안 불당 지역에서 초·중·고 과정, 레벨·학교별 수업, 자체 교재와 현재 수업 활동이 2026년 기준으로 확인된다.",
+   "sourceUrl": "https://external-api.prompie.com/academies/detail/yz8cdcy/%EB%8B%A5%ED%84%B0%EC%9C%A4%EC%98%81%EC%96%B4%ED%95%99%EC%9B%90/",
+   "activityDate": "2026-08-13",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "현재 학원 정보",
+   "summary": "천안 지역에서 현재 초중고 대상 오프라인 영어 과정이 운영되고 있음을 확인한다.",
+   "sourceUrl": "https://www.gangmom.kr/tuition/69b6231aa357db8b8726d60e",
+   "activityDate": "2026-08-01",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "학교별 시험 분석",
+   "summary": "암기만으로 풀기 어려운 문장 기능과 세부 독해를 중심으로 시험을 분석하여 실제 수업에서 강조하는 독해·문장 구조 접근을 보여준다.",
+   "sourceUrl": "https://academy.hakwonsin.co.kr/academy/lejRE8Ye/%EB%8B%A5%ED%84%B0%EC%9C%A4-%ED%94%8C%EB%9E%98%EB%84%88%EC%8A%A4-%EC%98%81%EC%96%B4%ED%95%99%EC%9B%90",
+   "activityDate": "2026-07-10",
+   "evidenceKind": "EDUCATIONAL_CONTENT"
+  },
+  {
+   "contentType": "교육 인터뷰",
+   "summary": "영어 능력에서 말하기·쓰기의 유창성과 읽기·구조 이해의 정확성이 균형을 이뤄야 한다는 철학과 차별화된 커리큘럼 방향을 원장 개인이 설명한다.",
+   "sourceUrl": "https://www.kns.tv/news/articleView.html?idxno=528140",
+   "activityDate": "2019-02-12",
+   "evidenceKind": "PHILOSOPHY"
+  }
+ ],
+ "discoveryReason": "단순 학원 홍보가 아니라 원장 본인이 영어 습득에서 말하기·쓰기의 유창성과 읽기·문장 구조의 정확성을 함께 길러야 한다는 철학을 공개했고, 현재도 학교별 시험 분석과 자체 교재 기반 수업 운영이 확인되어 발견했다.",
+ "lastResearchedAt": "2026-08-28T16:45:43.506798",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

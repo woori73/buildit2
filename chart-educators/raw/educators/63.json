@@ -1,0 +1,59 @@
+{
+ "id": 63,
+ "name": "이유진",
+ "role": "원장",
+ "academyName": "탕정역 유창한 영어학원",
+ "province": "충청남도",
+ "cityDistrict": "아산시",
+ "activityRegion": "충청남도 아산시",
+ "identitySummary": "아산시 탕정에서 교육심리학과 언어습득 경험을 결합한 초·중·고 영어 개별지도 시스템을 운영하는 원장",
+ "educationPhilosophy": "영어를 단기간 시험 암기로 소비하기보다 가장 쉽게 배우고 평생 사용할 수 있는 언어로 장기기억화하는 것을 목표로 한다. 학생별 성취 속도와 심리적 특성을 존중하는 개별지도를 통해 자신감, 실제 의사소통, 입시 성취가 함께 성장해야 한다고 본다.",
+ "curriculum": "초등은 수준별 교재와 원어민 1:1을 통해 듣기·말하기·읽기·쓰기를 개별 지도하고 PSI 성취 기반 학습으로 자기주도성을 기른다. 중·고등은 메타인지 문법, 단계별 문법 완성, 실전 문제풀이를 연결하며 테스트→원어민 수업→문법→복습의 4단계 순환 수업을 운영한다.",
+ "distinctiveTeaching": "교육심리학을 접목한 PSI 개별지도와 4단계 30분 순환 수업으로 실제 영어와 내신·수능 준비를 동시에 설계한다.",
+ "recentActivity": "2026년 교습비와 운영시간, 탕정면 오프라인 주소가 공개되어 있고 2026년 재원생 후기에서도 개별지도 운영이 확인된다.",
+ "strengths": [
+  "교육심리학과 언어습득 경험을 결합한 개별지도 설계",
+  "원어민 1:1과 한국식 문법·입시 학습의 통합",
+  "테스트·원어민 수업·문법·복습의 명확한 순환 구조",
+  "초등 말하기부터 중고등 메타인지·수능까지 이어지는 장기 과정"
+ ],
+ "improvementSuggestions": [
+  "PSI 시스템의 진단 기준과 단계 이동 조건을 공개하면 개별화 방식의 투명성이 높아질 수 있다.",
+  "교육심리학 적용이 학생의 실제 학습 행동을 어떻게 바꾸는지 사례를 지속적으로 공개하면 전문성이 더 잘 검증될 수 있다."
+ ],
+ "officialChannels": {
+  "homepage": "https://litt.ly/fluentenglish",
+  "blog": null,
+  "youtube": null,
+  "social": null
+ },
+ "profileImageUrl": null,
+ "evidence": [
+  {
+   "contentType": "학원 소개 및 원장 교육철학",
+   "summary": "원장 이유진의 해외 언어습득 경험과 교육심리학을 결합한 장기기억형 영어교육, PSI 개별지도, 메타인지 및 원어민 1:1 수업 구조를 상세히 공개한다.",
+   "sourceUrl": "https://www.gangmom.kr/institute/687744c1c9d2b89b00fb8e5b",
+   "activityDate": "2026-08-29",
+   "evidenceKind": "TEACHING_METHOD"
+  },
+  {
+   "contentType": "현재 학원 운영 및 커리큘럼",
+   "summary": "2026년 운영시간·주소·재원생 후기와 함께 초중고 수준별 교재, 원어민 1:1, PSI, 메타인지, 테스트·문법·복습 일일 학습 구조를 확인한다.",
+   "sourceUrl": "https://learns.academy/academies/eafb5deb-55b3-499a-b883-1456b64f8b85",
+   "activityDate": "2026-03-26",
+   "evidenceKind": "OFFLINE_ACTIVITY"
+  },
+  {
+   "contentType": "현장 수업 및 교육 시스템 보도",
+   "summary": "아산 탕정의 이유진 원장이 교육심리학 기반 몰입형 수업과 원어민 1:1 중심 4단계 30분 순환 수업을 운영하는 현장을 확인한다.",
+   "sourceUrl": "https://www.mt.co.kr/industry/2025/10/30/2025103010404628772",
+   "activityDate": "2025-10-30",
+   "evidenceKind": "TEACHING_METHOD"
+  }
+ ],
+ "discoveryReason": "시험용 암기와 말하기를 분리하지 않고 장기기억·성취 기반 개별학습, 원어민 1:1, 메타인지 문법 학습을 하나의 순환 구조로 설계한 교육자 개인의 활동이 확인됨",
+ "lastResearchedAt": "2026-08-28T16:39:15.356716",
+ "eligibilityStatus": "EVALUATABLE",
+ "researchPending": false,
+ "disclaimer": "이 화면은 지역 교육자 검색·발견용입니다. 공개적으로 확인된 교육 활동을 구조화해 보여주며, BuildIt Score·TOP100 순위는 표시하지 않습니다."
+}

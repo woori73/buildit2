@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head th:replace="~{fragments/base :: head('TOEFL iBT Test Preparation')}"></head>
+<body>
+<script th:inline="javascript">window.TP_SSO_LOGIN = /*[[${ssoLoginUrl}]]*/ 'https://feel2real.co.kr/home';</script>
+<nav th:replace="~{fragments/base :: nav('home')}"></nav>
+
+<section class="hero">
+  <div class="wrap">
+    <div class="qa-banner" th:if="${qaMode}">
+      <b>QA review environment (local)</b> — Login uses the dev-only JWT (<i>Local development login</i>),
+      not a real feel2real account. Production SSO (shared ACCESS_TOKEN cookie + secret injected via env only)
+      is verified separately at deploy time. Listening uses browser TTS; Speaking/Writing are stored for
+      manual review and are never auto-scored.
+    </div>
+    <span class="badge">Based on the January 2026 TOEFL iBT design</span>
+    <h1>TOEFL iBT Test Preparation</h1>
+    <p class="sub">Practice Tests · Vocabulary Quiz · Score Analysis</p>
+    <div class="hero-btns">
+      <a class="btn btn-primary" href="/testprep/practice">① Start iBT Practice Test</a>
+      <a class="btn btn-primary" href="/testprep/vocab">② Start Vocabulary Quiz</a>
+      <a class="btn btn-ghost" href="/testprep/scores">③ Check My Scores</a>
+    </div>
+  </div>
+</section>
+
+<div class="wrap">
+  <div class="grid">
+    <div class="card">
+      <div class="num">R</div>
+      <h3>Reading</h3>
+      <p>Complete the Words, Read in Daily Life, and Read an Academic Passage — the three task types of the 2026 Reading section.</p>
+    </div>
+    <div class="card">
+      <div class="num">L</div>
+      <h3>Listening</h3>
+      <p>Choose a response, conversations, announcements and academic talks. Audio is spoken by the browser in practice mode.</p>
+    </div>
+    <div class="card">
+      <div class="num">W·S</div>
+      <h3>Writing &amp; Speaking</h3>
+      <p>Build a Sentence is auto-scored. Emails, interviews and recordings are saved for your tutor's manual review.</p>
+    </div>
+  </div>
+
+  <section class="section">
+    <h2>The 2026 test at a glance</h2>
+    <p class="lead">Reference: ETS official TOEFL iBT pages (Oct 2026). Structure adapted for practice only — no ETS content is reproduced.</p>
+    <div class="fact-grid">
+      <div class="fact"><b>Order</b><span>Reading → Listening → Writing → Speaking</span></div>
+      <div class="fact"><b>Adaptive</b><span>Reading &amp; Listening route through two stages; item count varies</span></div>
+      <div class="fact"><b>Duration</b><span>Approx. 1h23m–1h29m on the real test (max items R50 · L47 · W12 · S11)</span></div>
+      <div class="fact"><b>Scores</b><span>Bands 1–6 in half increments, CEFR-aligned; 0–120 comparable shown by ETS</span></div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="disclaimer">
+      TestPrep reports an <strong>internal band estimate</strong> computed from auto-scored practice items.
+      It is not an official ETS TOEFL iBT score and cannot substitute for the real test.
+    </div>
+  </section>
+</div>
+
+<div th:replace="~{fragments/base :: footer}"></div>
+</body>
+</html>

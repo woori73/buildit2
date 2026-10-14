@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head th:replace="~{fragments/base :: head('My Learning')}"></head>
+<body>
+<nav th:replace="~{fragments/base :: nav('learning')}"></nav>
+<div class="wrap section">
+  <h2>My Learning</h2>
+  <p class="lead">Your progress across practice tests and vocabulary quizzes, plus the wrong-answer bank you can retry.</p>
+  <div id="stats"></div>
+  <section style="margin-top:26px">
+    <h3 style="margin:0 0 10px">Latest section standing (practice tests)</h3>
+    <div id="sections"></div>
+  </section>
+  <section style="margin-top:26px">
+    <h3 style="margin:0 0 10px">Wrong-answer bank</h3>
+    <div id="wrongs"><p class="lead">Loading…</p></div>
+  </section>
+</div>
+<div th:replace="~{fragments/base :: footer}"></div>
+<script defer src="/js/testprep_learning.js"></script>
+</body>
+</html>

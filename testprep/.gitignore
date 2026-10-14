@@ -1,0 +1,21 @@
+HELP.md
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### env & secrets — 절대 커밋 금지 ###
+.env
+*.env
+application-local.yaml
+application-local.properties
+
+### IDE ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/

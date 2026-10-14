@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head th:replace="~{fragments/base :: head('My Scores')}"></head>
+<body>
+<nav th:replace="~{fragments/base :: nav('scores')}"></nav>
+<div class="wrap section">
+  <h2>My Scores</h2>
+  <p class="lead">Every attempt you made — tests and quizzes. Open Review for wrong answers and explanations.</p>
+  <div id="score-list"><p class="lead">Loading…</p></div>
+</div>
+<div th:replace="~{fragments/base :: footer}"></div>
+<script defer src="/js/testprep_scores.js"></script>
+</body>
+</html>

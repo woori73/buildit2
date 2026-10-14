@@ -89,6 +89,11 @@ Builder UI(academy_builder.js)
 - 브랜치: `woori73/feel2real-buildit` `feat/chart-educator-kb-integration` (base main a04ed5b7)
   - `cf259004` 지식 계층: `resources/data/chart-educators/retrievable.json`(59건) + `EducatorReference` + `EducatorKnowledgeService`
   - `06729466` 연동: PromptBuilder 6-arg 오버로드(`[참고 사례]`는 GUIDE_TEXT·ACADEMY_COMPOSE만, 빈 목록이면 레거시와 바이트 동일) + Guide/Proposal 전달 + 테스트
+  - `172269d2` QA 격리 강화(검증 지시 1~7 수행 중 발견): 사례 카드 원문이 인물명·학원명을 포함하면 블록 렌더 시 마스킹(해당 교육자/다른 학원), 태그·지역 없이 일반 어휘만 겹치는 무관 업종 요청은 키워드 4개 이상 요구(요리학원 프로필 실측 0건)
 - 시뮬레이터와 실제 구현의 차이: 운영은 상위 **3건**만 주입, 사례 라인에 원장·학원 이름 미포함(id·지역·기준일만), 원문 60자 제한.
 - 테스트: 스코프 지정 gradle test(Guide/Proposal/Suggestion/Controller/Context/Determinism/Scenario/Chat/WikiRouter + 신규 EducatorKnowledge 7건, PromptBuilder 5건) 전부 PASS. 전체 suite는 @SpringBootTest MySQL 요구로 미실행(기존 CI가 커버).
 - **PR #661 생성까지 완료 — 머지·운영 배포는 별도 승인 대기.** 운영 Chart DB·feel2real.co.kr 변경 0, Prod DB write 0.
+- QA 검증(2026-10-14 지시 1~7): 병합 CLEAN·충돌 0, Chart criteria/publication LIVE 원본과 byte-identical,
+  검색 적정성(당진→id 66 최상위 등), 무관 업종 배제, 이름 마스킹, before/after 바이트 동일 확인.
+  실제 LLM A/B 6호스트(NVIDIA NIM 비교 경로) 성공 — 운영 1순위 Muse Spark A/B은 머지 후 스테이징 LIVE 확인 항목.
+  CI(cf259004·172269d2 both): build pass, mysql-integration-test pass.

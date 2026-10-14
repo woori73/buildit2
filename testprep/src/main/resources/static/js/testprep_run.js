@@ -23,7 +23,7 @@
     try {
       attempt = await TP.api('/api/testprep/attempts/' + id);
     } catch (err) {
-      stage.innerHTML = '<p class="lead">Cannot open this attempt: ' + TP.esc(err.message) + '</p>';
+      stage.innerHTML = '<p class="lead">Cannot open this attempt: ' + TP.esc(err.message) + '<span class="ko">이 응시를 열 수 없습니다: ' + TP.esc(err.message) + '</span></p>';
       return;
     }
     if (attempt.status === 'SUBMITTED') { location.href = '/testprep/review?attempt=' + attempt.attemptId; return; }
@@ -88,7 +88,7 @@
 
     if (q.audioMode === 'TTS' && q.bodyText) {
       inner += '<div class="audio-row"><button class="btn btn-outline btn-sm" data-tts>▶ Play audio</button>'
-        + '<span class="saved-note">Practice mode: browser speech. The real test uses recorded audio.</span></div>';
+        + '<span class="saved-note">Practice mode: browser speech. The real test uses recorded audio.<span class="ko">연습 모드: 브라우저 음성입니다. 실제 시험에서는 녹음된 음성을 사용합니다.</span></span></div>';
     } else if (q.bodyText) {
       inner += '<div class="q-body">' + TP.esc(q.bodyText) + '</div>';
     }
@@ -101,15 +101,15 @@
     } else if (q.taskType === 'BUILD_SENTENCE') {
       inner += buildSentenceHtml(q);
     } else if (q.taskType === 'WRITE_EMAIL' || q.taskType === 'WRITE_DISCUSSION') {
-      inner += '<textarea class="answer" id="wta" placeholder="Type your response…">' + TP.esc(answers[q.questionId] || '') + '</textarea>'
+      inner += '<textarea class="answer" id="wta" placeholder="Type your response… / 답변을 입력하세요…">' + TP.esc(answers[q.questionId] || '') + '</textarea>'
         + '<p class="saved-note" id="wc"></p>'
-        + '<p class="saved-note">Writing is stored for manual tutor review — TestPrep does not auto-score essays, and no AI score is shown.</p>';
+        + '<p class="saved-note">Writing is stored for manual tutor review — TestPrep does not auto-score essays, and no AI score is shown.<span class="ko">쓰기 답변은 강사의 수동 검토를 위해 저장됩니다 — TestPrep은 에세이를 자동 채점하지 않으며 AI 점수도 표시하지 않습니다.</span></p>';
     } else if (q.taskType === 'SPEAK_REPEAT' || q.taskType === 'SPEAK_INTERVIEW') {
       inner += '<div class="audio-row">'
         + '<button class="btn btn-outline btn-sm" id="rec-btn">● Start recording</button>'
         + '<span class="saved-note" id="rec-state"></span></div>'
         + '<audio id="playback" controls ' + (answers[q.questionId] ? '' : 'hidden ') + 'src="' + TP.esc(answers[q.questionId] || '') + '"></audio>'
-        + '<p class="saved-note">Recording is saved for your tutor\'s manual review — TestPrep does not auto-score speaking.</p>';
+        + '<p class="saved-note">Recording is saved for your tutor\'s manual review — TestPrep does not auto-score speaking.<span class="ko">녹음 파일은 강사의 수동 검토를 위해 저장됩니다 — TestPrep은 말하기를 자동 채점하지 않습니다.</span></p>';
     } else if (q.choices.length > 0) {
       inner += '<div class="opts">' + q.choices.map((c, i) => `
         <label class="opt" data-letter="${LETTERS[i]}"><input type="radio" name="q${q.questionId}" value="${LETTERS[i]}">
@@ -118,7 +118,7 @@
 
     inner += '<p class="saved-note" id="save-note"></p></div>'
       + '<div class="q-pager"><button class="btn btn-outline" id="prev"' + (current === 0 ? ' disabled' : '') + '>← Previous</button>'
-      + '<button class="btn btn-primary" id="next">' + (current === questions.length - 1 ? 'Review & Submit' : 'Next →') + '</button></div>';
+      + '<button class="btn btn-primary" id="next">' + (current === questions.length - 1 ? 'Review &amp; Submit' : 'Next →') + '</button></div>';
 
     stage.innerHTML = inner;
     bindQuestion(q);
@@ -131,7 +131,7 @@
     saved.forEach(w => { const i = pool.indexOf(w); if (i >= 0) pool.splice(i, 1); });
     return '<div class="sentence-box" id="sbox">' + saved.map(w => '<button class="chip" data-placed="' + TP.esc(w) + '">' + TP.esc(w) + '</button>').join('') + '</div>'
       + '<div class="chips" id="cpool">' + pool.map(w => '<button class="chip" data-word="' + TP.esc(w) + '">' + TP.esc(w) + '</button>').join('') + '</div>'
-      + '<p class="saved-note">Tap words in order. Tap a placed word to remove it. End the sentence with its punctuation word.</p>';
+      + '<p class="saved-note">Tap words in order. Tap a placed word to remove it. End the sentence with its punctuation word.<span class="ko">단어를 순서대로 탭하세요. 배치한 단어를 탭하면 제거됩니다. 문장부호 단어로 문장을 마무리하세요.</span></p>';
   }
 
   function bindQuestion(q) {
@@ -265,7 +265,7 @@
     submitting = false;
     await flushDirty();
     const unanswered = questions.filter(q => !answers[q.questionId]).length;
-    if (unanswered > 0 && !confirm(unanswered + ' question(s) are unanswered. Submit anyway?')) { submitting = false; return; }
+    if (unanswered > 0 && !confirm(unanswered + ' question(s) are unanswered. Submit anyway?\n\n미답변 문항이 ' + unanswered + '개 있습니다. 그래도 제출할까요?')) { submitting = false; return; }
     submitting = true;
     doSubmit(false);
   }
@@ -275,7 +275,7 @@
       const card = await TP.api('/api/testprep/attempts/' + attempt.attemptId + '/submit', { method: 'POST', body: JSON.stringify({}) });
       clearInterval(timerId);
       showScorecard(card, auto);
-    } catch (e) { submitting = false; alert('Submit failed: ' + e.message); }
+    } catch (e) { submitting = false; alert('Submit failed: ' + e.message + '\n제출 실패: ' + e.message); }
   }
 
   function showScorecard(card, auto) {
@@ -286,9 +286,9 @@
     stage.innerHTML = `<div class="q-card" style="text-align:center">
       <div class="q-type">${auto ? 'Auto-submitted at time limit' : 'Submitted'}</div>
       <div class="band-big">${card.overallBand != null ? 'Band ' + card.overallBand : 'No auto score'}</div>
-      <p class="lead">overall internal estimate${card.accuracy != null ? ' · accuracy ' + card.accuracy + '%' : ''}</p>
-      <table class="tp" style="margin:16px 0"><tr><th>Section</th><th>Band</th><th>Accuracy</th><th>Auto-scored</th></tr>${rows}</table>
-      <p class="disclaimer" style="display:inline-block">${TP.esc(card.bandDisclaimer)}</p>
+      <p class="lead">overall internal estimate${card.accuracy != null ? ' · accuracy ' + card.accuracy + '%' : ''}<span class="ko">종합 내부 추정치${card.accuracy != null ? ' · 정답률 ' + card.accuracy + '%' : ''}</span></p>
+      <table class="tp" style="margin:16px 0"><tr><th>Section<span class="ko">영역</span></th><th>Band<span class="ko">밴드</span></th><th>Accuracy<span class="ko">정답률</span></th><th>Auto-scored<span class="ko">자동 채점</span></th></tr>${rows}</table>
+      <p class="disclaimer" style="display:inline-block">${TP.esc(card.bandDisclaimer)}<span class="ko" style="color:#7a5300">TestPrep 내부 밴드 추정치 — 공식 ETS TOEFL iBT 점수가 아닙니다.</span></p>
       <div style="margin-top:16px;display:flex;gap:10px;justify-content:center">
         <a class="btn btn-primary" href="/testprep/review?attempt=${card.attemptId}">Review answers &amp; explanations</a>
         <a class="btn btn-outline" href="/testprep/scores">My Scores</a>

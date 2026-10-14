@@ -42,7 +42,7 @@
         + '<button class="btn btn-ghost btn-sm" type="button" data-tp-logout>Logout</button>';
       slot.querySelector('[data-tp-logout]').addEventListener('click', async () => {
         // feel2real과 세션을 공유 — TestPrep 로그아웃은 Feel2Real에서도 로그아웃된다.
-        if (!confirm('TestPrep uses your Feel2Real account. Logging out here signs you out of Feel2Real too. Continue?')) return;
+        if (!confirm('TestPrep uses your Feel2Real account. Logging out here signs you out of Feel2Real too. Continue?\n\nTestPrep은 Feel2Real 계정을 사용합니다. 여기서 로그아웃하면 Feel2Real에서도 로그아웃됩니다. 계속할까요?')) return;
         await fetch('/api/auth/logout', { method: 'POST', credentials: 'same-origin' });
         location.href = '/home';
       });
@@ -65,18 +65,19 @@
     div.id = 'tp-login-modal';
     div.className = 'login-modal';
     const loginHref = SSO_LOGIN + (SSO_LOGIN.includes('?') ? '&' : '?') + 'next=' + encodeURIComponent(location.pathname + location.search);
-    div.innerHTML = '<div class="modal-card"><h2>Log in to TestPrep</h2>'
+    div.innerHTML = '<div class="modal-card"><h2>Log in to TestPrep<span class="ko">TestPrep 로그인</span></h2>'
       + '<p class="section lead" style="margin:0">TestPrep uses your existing <b>Feel2Real</b> account — no separate signup. '
-      + 'New here? Create an account at Feel2Real first.</p>'
+      + 'New here? Create an account at Feel2Real first.'
+      + '<span class="ko">TestPrep은 기존 <b>Feel2Real</b> 계정을 그대로 사용하므로 따로 가입할 필요가 없습니다. 처음이시라면 Feel2Real에서 먼저 계정을 만드세요.</span></p>'
       + '<p class="modal-msg" data-msg></p>'
       + '<div style="display:flex;gap:10px;margin-top:14px">'
       + '<a class="btn btn-primary" href="' + TP.esc(loginHref) + '">Login with Feel2Real</a>'
       + '<button class="btn btn-outline" type="button" data-close>Cancel</button></div>'
-      + '<details style="margin-top:14px;font-size:12px"><summary>Local development login (non-production only)</summary>'
+      + '<details style="margin-top:14px;font-size:12px"><summary>Local development login (non-production only)<span class="ko">로컬 개발 로그인(비운영 전용)</span></summary>'
       + '<form data-tp-dev-form style="margin-top:8px">'
-      + '<label>User ID<input name="userId" type="number" value="1" required></label>'
-      + '<label>Login ID<input name="loginId" value="dev.student" required></label>'
-      + '<label>Role<select name="role"><option>STUDENT</option><option>ADMIN</option></select></label>'
+      + '<label>User ID<span class="ko">사용자 ID</span><input name="userId" type="number" value="1" required></label>'
+      + '<label>Login ID<span class="ko">로그인 ID</span><input name="loginId" value="dev.student" required></label>'
+      + '<label>Role<span class="ko">권한</span><select name="role"><option>STUDENT</option><option>ADMIN</option></select></label>'
       + '<button class="btn btn-outline btn-sm" type="submit">Dev login</button></form></details>'
       + '</div>';
     document.body.appendChild(div);
@@ -85,7 +86,7 @@
     div.querySelector('[data-tp-dev-form]').addEventListener('submit', async e => {
       e.preventDefault();
       if (location.hostname !== 'localhost' && location.hostname !== '127.0.0.1') {
-        div.querySelector('[data-msg]').textContent = 'Dev login is only available on localhost.';
+        div.querySelector('[data-msg]').textContent = 'Dev login is only available on localhost. / 개발 로그인은 localhost에서만 사용할 수 있습니다.';
         return;
       }
       const f = new FormData(e.target);
@@ -97,7 +98,7 @@
         div.remove();
         if (next) { location.href = next; }
       } catch (err) {
-        div.querySelector('[data-msg]').textContent = 'Dev login failed (prd disables it): ' + err.message;
+        div.querySelector('[data-msg]').textContent = 'Dev login failed (prd disables it): ' + err.message + ' / 개발 로그인 실패(운영에서는 비활성화): ' + err.message;
       }
     });
   };

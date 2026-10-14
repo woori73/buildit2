@@ -81,5 +81,14 @@ Builder UI(academy_builder.js)
 재현: `python simulate_retrieval.py --profile '{"..."}'`
 
 ## 7. 승인 요청 항목
-- [ ] feel2real-buildit 운영 코드 7개 파일 변경(§5) 진행 여부
-- [ ] retrievable.json 스냅샷 동기화 주기(운영 배포 시점 고정 vs 주간 cron)
+- [x] feel2real-buildit 운영 코드 변경(§5) 진행 — 2026-10-14 사용자 승인 완료
+- [x] retrievable.json 스냅샷 동기화 주기 — **배포 시점 고정**으로 결정(주간 cron 없음)
+
+## 8. 구현 상태 (2026-10-14)
+
+- 브랜치: `woori73/feel2real-buildit` `feat/chart-educator-kb-integration` (base main a04ed5b7)
+  - `cf259004` 지식 계층: `resources/data/chart-educators/retrievable.json`(59건) + `EducatorReference` + `EducatorKnowledgeService`
+  - `06729466` 연동: PromptBuilder 6-arg 오버로드(`[참고 사례]`는 GUIDE_TEXT·ACADEMY_COMPOSE만, 빈 목록이면 레거시와 바이트 동일) + Guide/Proposal 전달 + 테스트
+- 시뮬레이터와 실제 구현의 차이: 운영은 상위 **3건**만 주입, 사례 라인에 원장·학원 이름 미포함(id·지역·기준일만), 원문 60자 제한.
+- 테스트: 스코프 지정 gradle test(Guide/Proposal/Suggestion/Controller/Context/Determinism/Scenario/Chat/WikiRouter + 신규 EducatorKnowledge 7건, PromptBuilder 5건) 전부 PASS. 전체 suite는 @SpringBootTest MySQL 요구로 미실행(기존 CI가 커버).
+- **PR #661 생성까지 완료 — 머지·운영 배포는 별도 승인 대기.** 운영 Chart DB·feel2real.co.kr 변경 0, Prod DB write 0.

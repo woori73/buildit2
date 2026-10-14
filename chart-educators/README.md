@@ -36,8 +36,9 @@ chart-educators/
 ## agent/ — 홈페이지 제작 Agent 연동 레이어
 
 `agent/`는 buildit2의 `chart-educators`를 운영 홈페이지 제작 Agent(Phase 5A/5B)의
-Context/Prompt 단계에 연결하기 위한 검색 레이어다. **운영 코드는 아직 연결하지 않았다**
-(별도 승인 항목).
+Context/Prompt 단계에 연결하기 위한 검색 레이어다. 구현은
+`feel2real-buildit` PR #661(`feat/chart-educator-kb-integration`)로 완료 —
+**머지·운영 배포는 별도 승인 대기 중**.
 
 - `retrievable.json` — 본문 없는 40건·researchPending 17건·중복(id 81→80 흡수)을 제외한
   학습 가능한 **59건**만 수록. 순위 점수만 있고 근거 본문이 없는 카드는 참조 후보에서 배제해

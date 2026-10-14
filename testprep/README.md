@@ -59,7 +59,7 @@ may open any attempt (ownership enforced server-side from token claims — no us
   auto-scored never — manual tutor review only.
 
 ## QA local review (검수)
-1. MySQL: docker container `testprep-mysql` (localhost:3309, db `testprep_db`, root/testprep), or any local MySQL 8.
+1. MySQL: docker container `testprep-mysql` (localhost:3309, db `testprep_db`), or any local MySQL 8. Credentials come from `TESTPREP_DB_USER`/`TESTPREP_DB_PASSWORD` env vars — never write them into files that get committed.
 2. Run: `./gradlew bootRun` with `TESTPREP_DB_URL/USER/PASSWORD` env set (JDK 21).
 3. Open http://localhost:8090/home → **Login** → expand *Local development login* → any userId/loginId/role → exam flow.
 4. Pre-seeded: PRACTICE mini set (18 questions, 4 sections) + VOCAB EASY/MEDIUM/HARD (8 questions each).

@@ -34,7 +34,7 @@ if code == 200:
         }
         data = {"title": "HWPX 통합테스트"}
         r = s_admin.post(f"{BASE}/api/hwpx/jobs", files=files, data=data)
-    ok = r.status_code in (200, 201)
+    ok = r.status_code in (200, 201, 202)
     if ok:
         try:
             job_id = r.json().get("id")

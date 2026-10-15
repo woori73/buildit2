@@ -1,0 +1,99 @@
+name: HWPX HTTP 통합 테스트
+
+# 수동 실행 전용. HWPX Worker(PR #688) 실제 HTTP 통합 검증용.
+# public 저장소라 무료. 운영 DB·운영 배포와 무관한 격리 테스트.
+on:
+  workflow_dispatch:
+
+jobs:
+  hwpx-integration-test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    services:
+      mysql:
+        image: mysql:8.0
+        env:
+          MYSQL_ROOT_PASSWORD: rootpw
+          MYSQL_DATABASE: f2r_hwpx_test
+        ports:
+          - 3306:3306
+        options: >-
+          --health-cmd="mysqladmin ping -h localhost -prootpw"
+          --health-interval=10s --health-timeout=5s --health-retries=5
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Java 21
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Python deps
+        run: pip install requests python-hwpx==6.8.0
+
+      - name: Download app.jar from private repo artifact
+        env:
+          GH_TOKEN: ${{ secrets.PRIVATE_REPO_TOKEN }}
+        run: |
+          gh api repos/woori73/feel2real-buildit/actions/artifacts/11952109032/zip -o /tmp/app-jar.zip
+          unzip -o -q /tmp/app-jar.zip -d /tmp/appjar
+          ls -lh /tmp/appjar/
+
+      - name: Create test DB user
+        run: |
+          mysql -h 127.0.0.1 -P 3306 -u root -prootpw -e \
+            "CREATE USER IF NOT EXISTS 'hwpx_test'@'%' IDENTIFIED BY 'hwpx_test_pw_2026'; \
+             GRANT ALL PRIVILEGES ON f2r_hwpx_test.* TO 'hwpx_test'@'%'; FLUSH PRIVILEGES;"
+
+      - name: Start Spring Boot app
+        env:
+          SPRING_DATASOURCE_URL: jdbc:mysql://127.0.0.1:3306/f2r_hwpx_test?useUnicode=true&characterEncoding=UTF-8&connectionCollation=utf8mb4_unicode_ci
+          SPRING_DATASOURCE_USERNAME: hwpx_test
+          SPRING_DATASOURCE_PASSWORD: hwpx_test_pw_2026
+          HWPX_STORAGE_ROOT: /tmp/hwpx/storage
+          HWPX_CLI_PATH: ${{ github.workspace }}/hwpx-test/worker/hwpx_cli.py
+          HWPX_PYTHON_BIN: python3
+        run: |
+          ls /tmp/appjar/
+          JAR=$(ls /tmp/appjar/*.jar | head -1)
+          echo "JAR=$JAR"
+          nohup java -Xmx2g -jar "$JAR" > /tmp/app.log 2>&1 &
+          echo $! > /tmp/app.pid
+
+      - name: Wait for app startup
+        run: |
+          for i in $(seq 1 24); do
+            if grep -q "Started .* in .* seconds" /tmp/app.log 2>/dev/null; then
+              echo "App started"; break
+            fi
+            if grep -q "APPLICATION FAILED TO START\|PacketTooBigException" /tmp/app.log 2>/dev/null; then
+              echo "App failed to start"; tail -50 /tmp/app.log; exit 1
+            fi
+            sleep 10
+          done
+          grep -q "Started .* in .* seconds" /tmp/app.log || { echo "Timeout"; tail -80 /tmp/app.log; exit 1; }
+          curl -sf http://localhost:8080/actuator/health || echo "(health check optional)"
+
+      - name: Run HWPX integration test
+        run: python3 hwpx-test/hwpx_test.py
+
+      - name: Upload result file
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: hwpx-test-result
+          path: |
+            hwpx-test/result.hwpx
+            /tmp/app.log
+          if-no-files-found: warn
+
+      - name: Stop app
+        if: always()
+        run: kill $(cat /tmp/app.pid) 2>/dev/null || true

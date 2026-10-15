@@ -4,6 +4,8 @@ name: HWPX HTTP 통합 테스트
 # public 저장소라 무료. 운영 DB·운영 배포와 무관한 격리 테스트.
 on:
   workflow_dispatch:
+  push:
+    branches: [hwpx-integration-test]
 
 jobs:
   hwpx-integration-test:

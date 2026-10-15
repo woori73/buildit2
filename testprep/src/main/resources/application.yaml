@@ -1,0 +1,35 @@
+spring:
+  application:
+    name: testprep
+  datasource:
+    url: ${TESTPREP_DB_URL:jdbc:mysql://localhost:3309/testprep_db?useSSL=false&serverTimezone=Asia/Seoul&characterEncoding=UTF-8}
+    username: ${TESTPREP_DB_USER:root}
+    password: ${TESTPREP_DB_PASSWORD:}
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQLDialect
+  flyway:
+    enabled: true
+    locations: classpath:db/migration
+  thymeleaf:
+    cache: false
+
+server:
+  port: ${TESTPREP_PORT:8090}
+
+testprep:
+  jwt:
+    # SSO: feel2real이 발행한 ACCESS_TOKEN을 검증만 한다. secret은 feel2real과 동일한 값으로,
+    # EC2 EnvironmentFile(/etc/f2r/env)의 JWT_SECRET을 그대로 재사용 — 저장소에 절대 커밋 금지.
+    # 아래 기본값은 feel2real 로컬 설정과 같은 공개 dev 문자열(local-only)이다.
+    secret: ${TESTPREP_JWT_SECRET:local-dev-jwt-secret-please-change-in-production-environment}
+    cookie-name: ${TESTPREP_COOKIE_NAME:ACCESS_TOKEN}
+    # 로컬은 host-only 쿠키. prd 배포 시만 .feel2real.co.kr로 설정(feel2real과 동일 스펙).
+    cookie-domain: ${TESTPREP_COOKIE_DOMAIN:}
+    secure-cookie: ${TESTPREP_COOKIE_SECURE:false}
+    ttl-seconds: ${TESTPREP_JWT_TTL:86400}
+    # 비로그인 사용자를 보내는 feel2real 로그인 진입점(feel2real /home의 로그인 모달).
+    sso-login-url: ${TESTPREP_SSO_LOGIN_URL:https://feel2real.co.kr/home}

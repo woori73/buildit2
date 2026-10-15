@@ -19,7 +19,7 @@ public class TestPrepHomeController {
     this.environment = environment;
   }
 
-  @GetMapping("/home")
+  @GetMapping({"/home", "/testprep"})
   public String home(Model model) {
     model.addAttribute("pageActive", "home");
     // SSO: 로그인/회원가입은 feel2real 체계 그대로 — 프론트는 이 진입점으로만 보낸다.

@@ -44,7 +44,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.PRIVATE_REPO_TOKEN }}
         run: |
-          gh api repos/woori73/feel2real-buildit/actions/artifacts/11952109032/zip -o /tmp/app-jar.zip
+          gh api repos/woori73/feel2real-buildit/actions/artifacts/11952109032/zip > /tmp/app-jar.zip
           unzip -o -q /tmp/app-jar.zip -d /tmp/appjar
           ls -lh /tmp/appjar/
 
